@@ -32,3 +32,11 @@ una publicación sobre Salobreña
  
 * [Arquitectura pueblo mediteráneo](https://www.diariosur.es/economia/vivienda/201704/07/arquitectura-20170406222212.html) y
   su [abandono](https://tasaciones.cbre.es/noticias-de-tasaciones/que-esta-pasando-en-el-mercado-residencial-de-la-costa-del-sol/)
+
+*  [Vivienda de Antonio García Bueno](https://www.antoniogarciabueno.com/vivienda-en-playa-granada.html)
+  
+*
+  [Vivienda en Playa Granada de AV13Arquitectos](http://www.av13arquitectos.es/casa-playa-granada.html) y
+  [web de la iluminación](https://www.biglighting.es/proyectos/vivienda-en-playa-granada/)
+  
+* [Proyecto en Playa Granada](https://acota2-arquitectura-y-gestion-slp.business.site/posts/2729283919631364674?hl=es)
