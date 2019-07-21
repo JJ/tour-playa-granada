@@ -40,3 +40,8 @@ una publicación sobre Salobreña
   [web de la iluminación](https://www.biglighting.es/proyectos/vivienda-en-playa-granada/)
   
 * [Proyecto en Playa Granada](https://acota2-arquitectura-y-gestion-slp.business.site/posts/2729283919631364674?hl=es)
+
+*
+  [Los Moriscos Club de Golf](http://www.juntadeandalucia.es/turismoycomercio/publicaciones/143334969_Cap10.pdf)
+  
+* [Loreto Spa en Tele Motril](https://twitter.com/OleajeGranada/status/336796344792518656) 
