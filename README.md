@@ -3,6 +3,17 @@
 Tour por Playa Granada, un recorrido histórico y arquitectónico de esta urbanización.
 
 
+## Historia y naturaleza
+
+* [Evolución de la costa en Granada](https://books.google.es/books?id=hRlSAQAAQBAJ&pg=PA47&dq=%22playa+granada%22&hl=es&sa=X&ved=0ahUKEwipl9vvtsrjAhVRBGMBHaEBAuUQ6AEIKTAA#v=onepage&q=%22playa%20granada%22&f=false)
+
+*  [Presa de Rules y la costa](https://www.motrildigital.com/la-presa-rules-impide-la-regeneracion-natural-las-playas-la-costa/)
+  
+* [Destrucción del litoral](https://www.motrildigital.com/buxus-la-destruccion-del-litoral/) 
+  
+*
+  [Focha moruna](https://telemotril.com/el-proyecto-de-reintroduccion-de-la-focha-moruna-en-la-charca-de-suarez-gana-el-premio-ciudad-sostenible/).
+
 ## Enlaces para prepararlo (y bibliografía)
 
 *
@@ -45,3 +56,4 @@ una publicación sobre Salobreña
   [Los Moriscos Club de Golf](http://www.juntadeandalucia.es/turismoycomercio/publicaciones/143334969_Cap10.pdf)
   
 * [Loreto Spa en Tele Motril](https://twitter.com/OleajeGranada/status/336796344792518656) 
+
