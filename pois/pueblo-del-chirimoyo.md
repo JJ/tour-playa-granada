@@ -15,8 +15,12 @@ El conde de Agrela se mesa un poco la barba.
 > colodrillo, pero qué diablos, es noble y tiene barba y todo el
 > derecho a mesársela, aunque sea en presencia de la plebe.
 
-Sus terrenos en Motril, heredados de la época en la que se creó el
-título nobiliario, de la época del oro blanco, la caña de azúcar que
+Sus terrenos en Motril, y había bastantes, porque los Agrela, en la
+época tras la guerra, [eran los mayores propietarios de tierras
+dedicadas a la caña de azúcar de la
+zona](https://issuu.com/antonioromera/docs/historia_de_motril_y_la_costa_de_gr). heredados
+de la  [época en la que se creó el
+título nobiliario](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/), de la época del oro blanco, la caña de azúcar que
 tantas fortunas (y títulos, si tenías la fortuna de caerle bien a
 algún Alfonso Equis con una o dos "I"s), estaba de capa caída. Toda la
 costa había empezado a popularizar el chirimoyo, la "manzana de nata"
@@ -64,4 +68,6 @@ Angeles y Miami, en los años 30. Pero volvió al Mediterráneo en la
 época del desarrollismo, los años 60, como un estilo *de toda la vida*
 que se caracterizaba por los colores claros, disposición irregular de
 las ventanas, balcones, uso de mosaicos como elementos decorativos,
-patios con fuentes, y en general un estilo parecido 
+patios con fuentes, y en general un estilo parecido a los cortijos o
+casas señoriales de la zona, porque puestos a parecerse a algo, mejor
+a algo que tenga cierta prestancia y distinción.
