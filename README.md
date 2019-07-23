@@ -5,8 +5,12 @@ Tour por Playa Granada, un recorrido histórico y arquitectónico de esta urbani
 
 ## Historia y naturaleza
 
-* [Evolución de la costa en Granada](https://books.google.es/books?id=hRlSAQAAQBAJ&pg=PA47&dq=%22playa+granada%22&hl=es&sa=X&ved=0ahUKEwipl9vvtsrjAhVRBGMBHaEBAuUQ6AEIKTAA#v=onepage&q=%22playa%20granada%22&f=false)
-
+*  [Evolución de la costa en Granada](https://books.google.es/books?id=hRlSAQAAQBAJ&pg=PA47&dq=%22playa+granada%22&hl=es&sa=X&ved=0ahUKEwipl9vvtsrjAhVRBGMBHaEBAuUQ6AEIKTAA#v=onepage&q=%22playa%20granada%22&f=false)
+  
+*  [Vacaciones de los reyes belgas](http://www.pedrocheenlared.es/doc/_anfora1969.pdf)
+  
+*  [Solicitud de electrificación](https://www.boe.es/boe/dias/1972/12/01/pdfs/A21462-21462.pdf)
+  
 *  [Presa de Rules y la costa](https://www.motrildigital.com/la-presa-rules-impide-la-regeneracion-natural-las-playas-la-costa/)
   
 * [Destrucción del litoral](https://www.motrildigital.com/buxus-la-destruccion-del-litoral/) 
