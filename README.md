@@ -15,9 +15,14 @@ Tour por Playa Granada, un recorrido histórico y arquitectónico de esta urbani
   
 * [Destrucción del litoral](https://www.motrildigital.com/buxus-la-destruccion-del-litoral/) 
   
-*
-  [Focha moruna](https://telemotril.com/el-proyecto-de-reintroduccion-de-la-focha-moruna-en-la-charca-de-suarez-gana-el-premio-ciudad-sostenible/).
+*  [Focha moruna](https://telemotril.com/el-proyecto-de-reintroduccion-de-la-focha-moruna-en-la-charca-de-suarez-gana-el-premio-ciudad-sostenible/).
 
+*
+   [Hotel Robinson, abre en 2010](https://www.ideal.es/granada/v/20100426/costa/turismo-aleman-conquista-motril-20100426.html);
+   primero
+   [hotel Aldiana](https://www.hosteltur.com/13404_aldiana-invertira-235-millones-construccion-hotel-cuatro-estrellas-motril.html);
+   apertura del hotel en [2005](https://www.hosteltur.com/29566_viajes-meditours-preve-triplicar-su-red-agencias-antes-finalizar-ano.html).
+  
 ## Enlaces para prepararlo (y bibliografía)
 
 *
