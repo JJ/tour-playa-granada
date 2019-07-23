@@ -23,7 +23,25 @@ absolutamente nada. Los terrenos habían sido adquiridos por la
 inmobiliaria Costa Granada, cuyo propietario se los regaló a los reyes
 con la idea de promocionar esa zona. No he encontrado información
 sobre quién sería esta persona o personas, pero fue gente con
-visión. Es posible que Playa Granada hubiera existido sin los reyes y
+visión. En [un artículo de Granada
+Hoy](https://www.granadahoy.com/granada/Villa-Astrida-queda-epoca-dorada_0_709429403.html)
+afirma que fue la familia Agrela y que lo cedió a muy bajo precio por
+ser parientes de Fabiola, por otro lado; aunque [en este otro artículo
+de Motril Digital dice que fue el conde de Agrela quien lo
+regaló](http://motrildigital.mobile.blogia.com/2011/agosto.php).
+
+> Buscando, buscando, he encontrado que [el IV duque de Agrela, Jaime
+de Silva y Agrela, se casó con Ana María de Mora y
+Aragón](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
+> así que resulta que el propietario de los terrenos era [concuñado
+del rey de
+Bélgica](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Familia). Así
+que dos conclusiones: los periodistas no saben buscar por internet,
+porque he tardado menos de un rato en sacar esto y es plausible que
+fuera tanto un regalo como una donación para ayudar a sus promociones
+inmobiliarias. 
+
+Es posible que Playa Granada hubiera existido sin los reyes y
 sin Villa Astrida, pero desde luego la historia habría sido totalmente
 diferentes.
 
