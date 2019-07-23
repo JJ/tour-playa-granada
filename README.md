@@ -66,3 +66,8 @@ una publicación sobre Salobreña
   
 * [Loreto Spa en Tele Motril](https://twitter.com/OleajeGranada/status/336796344792518656) 
 
+## Arquitectura mediterránea
+
+* [Un capítulo de un libro sobre ella](http://www.meda-corpus.net/libros/pdf_livre_atm/atm_esp/02-atm_esp.pdf)
+  
+* [Artículo sobre ella y su influencia en los USA](https://casisima.com/caracteristicas-de-la-arquitectura-mediterranea/)
