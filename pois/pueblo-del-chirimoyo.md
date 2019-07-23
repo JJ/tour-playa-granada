@@ -2,14 +2,20 @@
 
 Imaginemos la escena en Marbella, circa 1965. La familia Mora y Aragón
 se reúne en torno a una botella de coñac Soberano, que para eso son de
-la realeza. Se encuentran allí jaime de Mora y Aragón, quizás su
-hermana Ana, y el marido de la misma, el conde de Agrela. Jaime se
-jacta de como él está creando el nuevo Cannes en el Mediterráneo. De
-un pueblecito de pescadores, Marbella ha atraído a toda la jet set a
+la realeza. Se encuentran allí Jaime de Mora y Aragón, quizás su
+hermana Ana, y el marido de la misma, el conde de Agrela. Tras rajar
+un poco de su [cuñada, que no le había invitado a su
+boda](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Boda),
+que es algo muy español, 
+Jaime se
+jacta de como él está creando el nuevo Cannes en el Mediterráneo allí
+mismo, en Marbella. De
+un pueblecito de pescadores, y gracias a su *persona* creada a pulso
+(y también un poco a Alfonso de Hohenlohe), Marbella ha atraído a toda la jet set a
 base de alojamientos de lujo, campos de golf e imagino que algún cable
 del ministro de Turismo, don Manuel Fraga Iribarne...
 
-El conde de Agrela se mesa un poco la barba.
+Jaime de Silva y Agrela, conde de Agrela y duque de Lécera, se mesa un poco la barba.
 
 > Vamos a imaginar que tiene barba. Puede rascarse también el
 > colodrillo, pero qué diablos, es noble y tiene barba y todo el
@@ -27,10 +33,32 @@ costa había empezado a popularizar el chirimoyo, la "manzana de nata"
 que los nobles podían tomar con cucharilla. Pero ni era fácil de
 exportar ni daba tanto dinero como el azúcar.
 
+La familia de su mujer tenía muchos títulos, pero poco pecunio. "Don
+sin din, gilipoyas en latín". No se casó con ella, sino, posiblemente,
+porque no pudo casarse con una reina, o al menos recibir su
+amor. [El padre de Jaime, y al parecer también su
+esposa](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
+estaban [los dos enamorados de la (ex) reina Victoria Eugenia](https://www.lne.es/cultura/2012/11/19/traje-nuevo-emperador/1328754.html). Pero, y
+esto ya parece una historia de Johan Sebastian Mastropiero, en
+realidad quien buscaba el amor de la reina era nuestro Jaime. 
+
+> Conste que esta historia es posible que no tenga ni la más mínima
+> credibilidad. Pero no deja de tener gracia. 
+
+Que al
+no poder conseguirlo (o conseguirlo con una frecuencia menor a la
+deseada), acabó con una hermana de reina. Pero sin reino y sin
+dinero. Había que buscar algo para sacar dinero, como los chirimoyos o
+los aguacates.
+
 O como el turismo. ¿Qué puedo hacer? "El turismo es un gran invento",
 decía Paco Martínez Soria y Jaime de Mora y Aragón. Golf y realeza
 atraen turismo, y turismo con dinero. Y casualmente, el conde de
-Agrela tenía realeza en la misma familia.
+Agrela tenía realeza en la misma familia. [Pero Jaime falleción en
+1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
+que ducados, sociedades y todo, pasarían a su hijo, Jaime de Silva y
+Mora (que fue quien heredó el ducado) o a una sociedad formada por
+[todos los hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién sabe.
 
 El mito originario de la playa dice que, en un viaje a Motril, el rey se
 quedó prendado de esta zona. Sería mucha casualidad que esta zona, el

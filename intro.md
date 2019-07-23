@@ -46,6 +46,7 @@ sin Villa Astrida, pero desde luego la historia habría sido totalmente
 diferentes.
 
 En el principio, por tanto, fue Villa Astrida. Pero en el origen
-estuvo el Pueblo del Chirimoyo, cuyo propietario, el conde de Agrela,
-cedió los terrenos al rey.
+estuvo el [Pueblo del Chirimoyo](pois/pueblo-del-chirimoyo.md), cuyo
+propietario, el conde de Agrela, 
+cedió los terrenos a la familia real. Por qué lo hizo, lo veremos a continuación.
 
