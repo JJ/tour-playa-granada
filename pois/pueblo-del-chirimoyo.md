@@ -71,3 +71,16 @@ las ventanas, balcones, uso de mosaicos como elementos decorativos,
 patios con fuentes, y en general un estilo parecido a los cortijos o
 casas señoriales de la zona, porque puestos a parecerse a algo, mejor
 a algo que tenga cierta prestancia y distinción.
+
+Pueblo del Chirimoyo, por tanto, se construyó en ese estilo, que se
+parece a la vez a Binibeca, en Menorca, y a la vivienda del dueño de
+un pueblo de la Alpujarra, salvo que esta tenía vista a los
+almendrales y no al campo de golf.
+
+De alguna forma, se convirtió en el pequeño centro de servicios del
+núcleo. Aquí está el supermercado, el kiosco de prensa, y alguna
+oficina de inmobiliaria. Tiene patio, tiene fuente, está a dos pasos
+de la playa, del campo de golf, del pequeño núcleo de restaurantes que
+abren sólo de forma estacional.
+
+Y, por supuesto, de Villa Astrida. 
