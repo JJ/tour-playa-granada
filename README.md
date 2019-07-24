@@ -71,3 +71,7 @@ una publicación sobre Salobreña
 
 * [Compromiso de Lodeiro en 2008](https://www.ideal.es/granada/20080410/costa/compromete-implantar-escuela-enfermeria-20080410.html)
 * [Desistimiento en 2016](http://motrildigital.blogspot.com/2016/02/el-pp-acusa-la-alcaldesa-de-motril-de.html)
+
+## El centro de cuidados paliativos que nunca fue
+
+* [Acompalia](https://www.europapress.es/andalucia/noticia-asociacion-acompalia-abrira-centro-cuidados-paliativos-enfermos-terminales-lanjaron-mes-20151011104232.html)
