@@ -66,3 +66,8 @@ una publicación sobre Salobreña
 * [Un capítulo de un libro sobre ella](http://www.meda-corpus.net/libros/pdf_livre_atm/atm_esp/02-atm_esp.pdf)
   
 * [Artículo sobre ella y su influencia en los USA](https://casisima.com/caracteristicas-de-la-arquitectura-mediterranea/)
+
+## La escuela de enfermería que nunca fue
+
+* [Compromiso de Lodeiro en 2008](https://www.ideal.es/granada/20080410/costa/compromete-implantar-escuela-enfermeria-20080410.html)
+* [Desistimiento en 2016](http://motrildigital.blogspot.com/2016/02/el-pp-acusa-la-alcaldesa-de-motril-de.html)
