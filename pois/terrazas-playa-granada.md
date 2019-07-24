@@ -8,6 +8,8 @@ En ese momento, [según la web del ayuntamiento](http://www.motril.es/index.php?
 
 ![Ortofoto en 1997/98, de la web de PNOA](../img/imagen-olistat-97-98.png)
 
+![Ortofoto en 2003, de la web de PNOA](../img/imagen-sigpac-2003.png)
+
 ## Referencias
 
 * [En Plazatio](https://www.plazatio.com/es/proyecto/urbanizacion-las-terrazas-de-playa-granada-2)
