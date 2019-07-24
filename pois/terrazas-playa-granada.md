@@ -6,6 +6,8 @@ Cuando se construyó el Poblado del Chirimoyo, no había mucho que dialogar, se 
 
 En ese momento, [según la web del ayuntamiento](http://www.motril.es/index.php?id=666), sólo existía en Playa Granada el Poblado, Villa Astrida, y una residencia independiente (que posiblemente haya desaparecido), aparte de los equipamientos del campo de golf. 
 
+![Ortofoto en 1997/98, de la web de PNOA](../img/imagen-olistat-97-98.png)
+
 ## Referencias
 
 * [En Plazatio](https://www.plazatio.com/es/proyecto/urbanizacion-las-terrazas-de-playa-granada-2)
