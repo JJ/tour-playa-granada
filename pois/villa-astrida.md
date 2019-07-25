@@ -62,7 +62,13 @@ estado belga? ¿Era de una fundación que creó la esposa (para eludir
 impuestos, imagino), o era de ella y por tanto tenía que pagar tales
 impuestos? Estas disputas han impedido que se haga ningún tipo de
 cambio en la finca, aunque parece que el ayuntamiento se encarga de
-cuidar el jardín. 
+cuidar el jardín.
+
+Sí podemos ver una serie de viviendas justo enfrente, viviendas
+realmente notables. Giremos 180 grados, pongamos nuestras espaldas al
+mar para que nos dé la brisa y veamos los casoplones que hay justo
+enfrente, en la misma acera que La Pesquera y el resto de los bares.
+
 
 
 
