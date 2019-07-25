@@ -19,6 +19,28 @@ Sanitex acompañado de unos espetos. Todo esto viene a decir que esta
 zona, playa Granada, estaba bastante falta de este tipo de
 equipamiento hasta no hace tanto.
 
+No todos los chambaos se dedicaban a la actividad comercial. Algunos
+eran casetas para pasar el verano entero. Cuando llegaban las
+vacaciones escolares y los niños empezaban a ponerse empachosos, se
+enfilaba la playa, se agarraban cañas de los cañaverales y cualquier
+otra cosa de la que se pudiera echar mano, y se construía una chabola
+apoyada donde se pudiera, por ejemplo en la propia valla de Villa
+Astrida. Niños y esposa pasaban allí los meses del verano con visitas
+esporádicas o nocturnas por parte del *pater familias*, que llevaría
+un dinerillo y lo que hubiera menester.
+
+Todo eso se acabó con la ley de costas, e imagino que también con la
+subida del nivel de vida que hizo que las familias se pudieran
+permitir, por lo menos, un cámping o al menos un familiar con piso en
+la playa que los pudiera alojar por el coste de invitar a una paella y
+proporcionar entretenimiento gratuito a toda la familia. Pero sobre
+todo por la ley de costas, que impedía la ocupación del dominio
+marítimo por razones de seguridad pero, sobre todo, por la parte
+"pública" del asunto.
+
+Los chambaos tuvieron que desaparecer o convertirse en chiringuitos
+con algún tipo de construcción permanente.
+
 ## Referencias
 
 *  [Recuperación del Oleaje](https://www.ideal.es/granada/costa/nuevo-inversor-inyecta-20190613203108-nt.html)
