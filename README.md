@@ -60,6 +60,8 @@ una publicación sobre Salobreña
   
 * [Loreto Spa en Tele Motril](https://twitter.com/OleajeGranada/status/336796344792518656) 
 
+* [Construcciones Calderón](https://www.construccionescalderon.com/es/Proyectos-Construcciones-Calderon) que construyó la iglesia.
+
 ## Arquitectura mediterránea
 
 * [Un capítulo de un libro sobre ella](http://www.meda-corpus.net/libros/pdf_livre_atm/atm_esp/02-atm_esp.pdf)
