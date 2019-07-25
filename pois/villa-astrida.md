@@ -66,7 +66,7 @@ cuidar el jardín.
 
 Sí podemos ver una serie de viviendas justo enfrente, viviendas
 realmente notables. Giremos 180 grados, pongamos nuestras espaldas al
-mar para que nos dé la brisa y veamos los casoplones que hay justo
+mar para que nos dé la brisa y veamos los [casoplones](viviendas-varias.md) que hay justo
 enfrente, en la misma acera que La Pesquera y el resto de los bares.
 
 

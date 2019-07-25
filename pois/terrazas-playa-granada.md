@@ -22,7 +22,7 @@ Pero volvemos al diálogo: construyéndose justamente al lado del poblado medite
 
 Este respeto al entorno construido, aunque un poco sui géneris, va a brillar por su ausencia en casi todo el resto de Playa Granada. No hay más que ver los bloques que lo rodean.
 
-O la misma Villa Astrida. 
+O la misma [Villa Astrida](villa-astrida.md). 
 
 
 
