@@ -1,4 +1,4 @@
-# Viviendas unifamiliares en primera (o casi) línea de playa.
+# Viviendas notables en primera (o casi) línea de playa.
 
 El estilo mediterráneo estaba bien cuando uno conducía un Supermirafiori o un Mercedes 190. Pero los gustos modernos se inclinan por otro estilo, que del anterior conserva sólo el color blanco, pero que pasa por ángulos rectos, grandes volúmenes (posiblemente más fáciles de acondicionar) y sobre todo, grandes ventanales que permiten dejar pasar la luz. La casa del número 13 la creó el estudio [AV13arquitectos](http://www.av13arquitectos.es/casa-playa-granada.html), un estudio situado en la calle San Antón, en Granada, y creado por dos arquitectos egresados de la [ETSAG](https://
 etsag.ugr.es), uno de ellos también doctor en arquitectura.
