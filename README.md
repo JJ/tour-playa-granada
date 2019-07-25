@@ -69,7 +69,12 @@ una publicación sobre Salobreña
 ## La escuela de enfermería que nunca fue
 
 * [Compromiso de Lodeiro en 2008](https://www.ideal.es/granada/20080410/costa/compromete-implantar-escuela-enfermeria-20080410.html)
-* [Desistimiento en 2016](http://motrildigital.blogspot.com/2016/02/el-pp-acusa-la-alcaldesa-de-motril-de.html)
+*
+  [Desistimiento en 2016](http://motrildigital.blogspot.com/2016/02/el-pp-acusa-la-alcaldesa-de-motril-de.html)
+  
+## Casa a la venta
+
+* [Para hacernos una idea del precio](https://housfy.com/comprar-casa/motril/calle-rector-lorenzo-morillas-cuevas-85724)
 
 ## El centro de cuidados paliativos que nunca fue
 

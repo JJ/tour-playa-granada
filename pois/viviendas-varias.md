@@ -54,6 +54,14 @@ cualquiera de las construcciones de los capítulos anteriores. Más o
 menos sensibles al contexto, sin embargo este diálogo se establece por
 los materiales o por elementos decorativos, no por la forma en sí.
 
+Otra cabaña de aperos medianamente mediterránea
+es
+[el número 34](https://housfy.com/comprar-casa/motril/calle-rector-lorenzo-morillas-cuevas-85724). Con
+su ladrillo visto, terraza y tejas árabes, recuerda un poco a Las
+Terrazas. Y puede ser tuya por tres cuartos de millón de euros. Un
+poco más y esta calle Lorenzo Morillas se convertiría en la milla de
+oro de Playa Granada. Si al menos no tuviera tantos solares...
+
 Pasemos ahora a ver un par de magníficos patos, empezando por el
 "chiringuito" Badía, antiguo Oleaje.
 
