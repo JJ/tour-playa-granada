@@ -6,10 +6,46 @@ La historia de cómo llegó a estar aquí la hemos adelantado en otros capítulo
 
 Se afirma de forma contrapuesta que los reyes querían pasar desapercibidos fuera de la farándula y que precisamente se le regaló este terreno para atraer a la farándula (si bien no tuvo mucho éxito); corren rumores en todo caso de que Balduino se paseaba, como un guiri más, en su bicicleta, por los chambaos de la costa para meterse unos espetos y que Fabiola iba a Motril a comprar el pan o unos visillos, lo que hiciera falta para la mansión.
 
-Mansión que, aunque no existen muchas fotos de la misma, no debía carecer de nada. Se menciona repetidamente la afición a la botánica de Balduino, que hizo traer a un jardinero innombrado de Bélgica para que construyera un pequeño jardín botánico alrededor de la misma, porque si bien el clima y la luz de la costa son excelentes, también está bien tener un poco de sombrica para poder disfrutar tranquilamente de la cerveza de abadía. El jardín se diseñó de forma que diera tanto humedad como sombra, en varias capas, con una cantidad considerable de palmeras y otras especies; las palmeras son bien visibles desde fuera, y el resto podemos imaginarlo.
+Mansión que, aunque no existen muchas fotos de la misma, no debía
+carecer de nada. Se menciona repetidamente la afición a la botánica de
+Balduino, que hizo traer a un jardinero innombrado de Bélgica para que
+construyera un pequeño jardín botánico alrededor de la misma, porque
+si bien el clima y la luz de la costa son excelentes, también está
+bien tener un poco de sombrica para poder disfrutar tranquilamente de
+la cerveza de abadía. El jardín se diseñó de forma que diera tanto
+humedad como sombra, en varias capas, con una cantidad considerable de
+palmeras y otras especies; las palmeras son bien visibles desde fuera,
+y el resto podemos imaginarlo.
+
+Estas plantas incluían, al parecer, algunas traídas del Congo, país
+que fue propiedad [del tararabuelo de
+Balduino](https://es.wikipedia.org/wiki/Leopoldo_II_de_B%C3%A9lgica),
+que expolió a gusto el lugar. Balduino fue, de hecho, el último
+soberano belga del Congo, que obtuvo su independencia el mismo año de
+la boda. Tras la independencia, el estado belga con la ayuda de
+mercenarios montó la secesión de la provincia de Katanga, con el
+resultado de miles de muertos y uno de los países más pobres de
+África, que no es decir poco. No consta si las plantas congolesas se
+trajeron de Katanga (junto con algún que otro diamante). De hecho,
+durante la boda y el viaje de novios se produjo la captura y posterior
+asesinato del presidente democráticamente elegido en el Congo, Patrice
+Lumumba, previamente depuesto por un golpe de estado promovido por
+Bélgica con ayuda de la CIA.
 
 La construcción también se usó durante bastante tiempo para una costumbre tradicional de motrileños y otra gente de la costa: los sombrajos, alternativa sesentera a los AirBnB, construcciones efímeras de cañas, cartones, rafia y lo que hiciera falta, donde los maridos motrileños aparcaban a la familia durante el verano, para ir ellos a dormir de noche, al fresquito de la playa. Estos chambaos, que a veces se convertían en establecimientos expendedores de bebidas, eran tolerados sin ningún problema por la familia real, de la que cabe imaginar poco interés por la playa de chinos más allá del aire salutífero que proporcionaba. Una vez más y por mor de su simple existencia, Villa Astrida se convirtió en causa y soporte de un turismo, aunque en este caso bastante lejano a lo que los condes de Agrela imaginaron para esta zona. ¿Aprovecharían para los sombrajos las hojas de las palmeras que el jardinero belga desechara? ¿Invitarían al jardinero a tortilla de patatas y chirimoyos esas familiar allí asentadas durante los meses de verano? ¿Sacaría el servicio unos túpers de codillo para compartir?
 
 > Todo esto da para una novela, en la que desaparecería alguien del servicio y el sargento de la guardia civil de Motril tendría que investigar. Una historia apasionante, a medio camino entre la serie Milenio y Cuéntame.
+
+Balduino murió en 1993, en diferentes lugares de la casa según la
+historia que leas. Según algunos en su despacho, según otros en la
+terraza, según otros más al lado de la piscina. A partir de ese
+momento comenzaron las disputas sobre la herencia. ¿Era de la familia,
+y por tanto podía ser heredado por la esposa y sobrinos, o era del
+estado belga? ¿Era de una fundación que creó la esposa (para eludir
+impuestos, imagino), o era de ella y por tanto tenía que pagar tales
+impuestos? Estas disputas han impedido que se haga ningún tipo de
+cambio en la finca, aunque parece que el ayuntamiento se encarga de
+cuidar el jardín. 
+
 
 
