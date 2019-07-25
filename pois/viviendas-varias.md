@@ -45,7 +45,7 @@ anterior, pero no deja de resultar bonita; además, es un bloque con
 varios vecinos. Lo creó [Acota2
 arquitectura](https://acota2-arquitectura-y-gestion-slp.business.site)
 y usa otros colores, grises por ejemplo, que en esa conversación
-arquitectónica hace que salga un poco por peteneras.
+arquitectónica hace que salga un poco por peteneras. Está demasiado cerca de la vivienda anterior, por ejemplo; el color oscuro de las paredes no debe ser demasiado adecuado para reflejar los rayos del sol, y el material que usan debe acumular calor de una forma que no debe resultar agradable. Pero seguro que tiene buen aire acondicionado y está en primera línea de playa. Desde sus balcones de la planta alta hasta se podrá ver Villa Astrida. Así que no creo que los propietarios, o inquilinos, se quejen demasiado.
 
 Quizás la podemos clasificar como "cabaña de aperos decorada". Hay dos
 tipos de construcciones: las cabañas de aperos decoradas y los
