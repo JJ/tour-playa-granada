@@ -32,13 +32,12 @@ aunque
 > Buscando, buscando, he encontrado
 > que
 > [el IV duque de Agrela, Jaime de Silva y Agrela, se casó con Ana María de Mora y Aragón](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
-> así que resulta que el propietario de los terrenos era [concuñado
-del rey de
-Bélgica](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Familia). Así
-que dos conclusiones: los periodistas no saben buscar por internet,
-porque he tardado menos de un rato en sacar esto y es plausible que
-fuera tanto un regalo como una donación para ayudar a sus promociones
-inmobiliarias. 
+> así que resulta que el propietario de los terrenos
+> era [concuñado del rey de Bélgica](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Familia). Así
+> que dos conclusiones: los periodistas no saben buscar por internet,
+> porque he tardado menos de un rato en sacar esto y es plausible que
+> fuera tanto un regalo como una donación para ayudar a sus promociones
+> inmobiliarias. 
 
 Es posible que Playa Granada hubiera existido sin los reyes y
 sin Villa Astrida, pero desde luego la historia habría sido totalmente
