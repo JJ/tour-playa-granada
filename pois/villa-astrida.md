@@ -1,15 +1,13 @@
 # Villa Astrida
 
 Villa Astrida fue la residencia de verano de los reyes de Bélgica
-hasta su muerte. Ahora parece [que se pretende convertir en un hotel
-de
-lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611),
+hasta su muerte. Ahora
+parece [que se pretende convertir en un hotel de lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611),
 pero mientras tanto poco sabemos de ella, cómo es por dentro, o qué
 estilo tiene. Imaginamos que, como el Pueblo del Chirimoyo, y por las
 pocas imágenes que hay, se trata de una mansión estilo mediterráneo,
-pasado quizás por el Atomium de Bruselas. O a saber. Según [el
-artículo-obituario de Balduino en
-ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
+pasado quizás por el Atomium de Bruselas. O a
+saber. Según [el artículo-obituario de Balduino en ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría esa teja árabe que es
 característica del estilo mediterráneo. También usa piedra blanca (en
@@ -19,7 +17,18 @@ Guadaira y se usó para el muro que rodea la finca. Puede que se
 tratara de [esta piedra paloma](https://www.piedrapaloma.com/es/); si
 no, de alguna cantera de la misma zona y con características similares.
 
-La historia de cómo llegó a estar aquí la hemos adelantado en otros capítulos, pero el [mito fundacional se cuenta aquí](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/), posiblemente de las mismas fuentes. Ya sabéis, vuelo en helicóptero, todo eso. En el artículo dice que estaba cubierto de cañas de azúcar, lo que a esas alturas de la película (y desde 20 años atrás) era posiblemente mentira. Pero la historia, diseñada seguramente por los publicistas de la familia Agrela, se ha quedado ahí. También dice que el terreno había pertenecido antiguamente a la familia de Fabiola y que se le dio como regalo de boda en 1960. También es plausible, pero que lo oteara en su viaje en helicóptero desde la sierra no tanto.  
+La historia de cómo llegó a estar aquí la hemos adelantado en otros
+capítulos, pero
+el
+[mito fundacional se cuenta aquí](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
+posiblemente de las mismas fuentes. Ya sabéis, vuelo en helicóptero,
+todo eso. En el artículo dice que estaba cubierto de cañas de azúcar,
+lo que a esas alturas de la película (y desde 20 años atrás) era
+posiblemente mentira. Pero la historia, diseñada seguramente por los
+publicistas de la familia Agrela, se ha quedado ahí. También dice que
+el terreno había pertenecido antiguamente a la familia de Fabiola y
+que se le dio como regalo de boda en 1960. También es plausible, pero
+que lo oteara en su viaje en helicóptero desde la sierra no tanto. 
 
 Se afirma de forma contrapuesta que los reyes querían pasar desapercibidos fuera de la farándula y que precisamente se le regaló este terreno para atraer a la farándula (si bien no tuvo mucho éxito); corren rumores en todo caso de que Balduino se paseaba, como un guiri más, en su bicicleta, por los chambaos de la costa para meterse unos espetos y que Fabiola iba a Motril a comprar el pan o unos visillos, lo que hiciera falta para la mansión.
 
@@ -35,8 +44,7 @@ palmeras y otras especies; las palmeras son bien visibles desde fuera,
 y el resto podemos imaginarlo.
 
 Estas plantas incluían, al parecer, algunas traídas del Congo, país
-que fue propiedad [del tararabuelo de
-Balduino](https://es.wikipedia.org/wiki/Leopoldo_II_de_B%C3%A9lgica),
+que fue propiedad [del bisabuelo de Balduino](https://es.wikipedia.org/wiki/Leopoldo_II_de_B%C3%A9lgica),
 que expolió a gusto el lugar. Balduino fue, de hecho, el último
 soberano belga del Congo, que obtuvo su independencia el mismo año de
 la boda. Tras la independencia, el estado belga con la ayuda de

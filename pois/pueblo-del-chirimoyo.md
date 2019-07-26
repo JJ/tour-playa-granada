@@ -4,8 +4,7 @@ Imaginemos la escena en Marbella, circa 1965. La familia Mora y Aragón
 se reúne en torno a una botella de coñac Soberano, que para eso son de
 la realeza. Se encuentran allí Jaime de Mora y Aragón, quizás su
 hermana Ana, y el marido de la misma, el conde de Agrela. Tras rajar
-un poco de su [cuñada, que no le había invitado a su
-boda](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Boda),
+un poco de su [cuñada, que no le había invitado a su boda](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Boda),
 que es algo muy español, 
 Jaime se
 jacta de como él está creando el nuevo Cannes en el Mediterráneo allí
@@ -22,11 +21,10 @@ Jaime de Silva y Agrela, conde de Agrela y duque de Lécera, se mesa un poco la 
 > derecho a mesársela, aunque sea en presencia de la plebe.
 
 Sus terrenos en Motril, y había bastantes, porque los Agrela, en la
-época tras la guerra, [eran los mayores propietarios de tierras
-dedicadas a la caña de azúcar de la
-zona](https://issuu.com/antonioromera/docs/historia_de_motril_y_la_costa_de_gr). heredados
-de la  [época en la que se creó el
-título nobiliario](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/), de la época del oro blanco, la caña de azúcar que
+época tras la
+guerra,
+[eran los mayores propietarios de tierras dedicadas a la caña de azúcar de la zona](https://issuu.com/antonioromera/docs/historia_de_motril_y_la_costa_de_gr). heredados
+de la  [época en la que se creó el título nobiliario](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/), de la época del oro blanco, la caña de azúcar que
 tantas fortunas (y títulos, si tenías la fortuna de caerle bien a
 algún Alfonso Equis con una o dos "I"s), estaba de capa caída. Toda la
 costa había empezado a popularizar el chirimoyo, la "manzana de nata"
@@ -36,8 +34,7 @@ exportar ni daba tanto dinero como el azúcar.
 La familia de su mujer tenía muchos títulos, pero poco pecunio. "Don
 sin din, gilipoyas en latín". No se casó con ella, sino, posiblemente,
 porque no pudo casarse con una reina, o al menos recibir su
-amor. [El padre de Jaime, y al parecer también su
-esposa](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
+amor. [El padre de Jaime, y al parecer también su esposa (la de su padre)](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
 estaban [los dos enamorados de la (ex) reina Victoria Eugenia](https://www.lne.es/cultura/2012/11/19/traje-nuevo-emperador/1328754.html). Pero, y
 esto ya parece una historia de Johan Sebastian Mastropiero, en
 realidad quien buscaba el amor de la reina era nuestro Jaime. 
@@ -54,8 +51,7 @@ los aguacates.
 O como el turismo. ¿Qué puedo hacer? "El turismo es un gran invento",
 decía Paco Martínez Soria y Jaime de Mora y Aragón. Golf y realeza
 atraen turismo, y turismo con dinero. Y casualmente, el conde de
-Agrela tenía realeza en la misma familia. [Pero Jaime falleción en
-1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
+Agrela tenía realeza en la misma familia. [Pero Jaime falleció en 1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
 que ducados, sociedades y todo, pasarían a su hijo, Jaime de Silva y
 Mora (que fue quien heredó el ducado) o a una sociedad formada por
 [todos los hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién sabe.
@@ -109,6 +105,6 @@ De alguna forma, se convirtió en el pequeño centro de servicios del
 núcleo. Aquí está el supermercado, el kiosco de prensa, y alguna
 oficina de inmobiliaria. Tiene patio, tiene fuente, está a dos pasos
 de la playa, del campo de golf, del pequeño núcleo de restaurantes que
-abren sólo de forma estacional.
+abren solo de forma estacional.
 
 Y, por supuesto, de Villa Astrida. 

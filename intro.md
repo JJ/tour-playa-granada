@@ -10,7 +10,7 @@ desembocadura.
 
 > Tierra que se ha dejado de aportar desde que se abrió la presa de
 > Rules, lo que hará tarde o temprano que el mar vuelva a llevarse lo
-	> que fue suyo. PeRro esa es otra historia.
+> que fue suyo. Pero esa es otra historia.
 
 La zona que actualmente ocupa Playa Granada se llamó la finca del
 Vasco, o el paraje del Vasco, hasta que un buen día, el rey de Bélgica
@@ -23,12 +23,11 @@ absolutamente nada. Los terrenos habían sido adquiridos por la
 inmobiliaria Costa Granada, cuyo propietario se los regaló a los reyes
 con la idea de promocionar esa zona. No he encontrado información
 sobre quién sería esta persona o personas, pero fue gente con
-visión. En [un artículo de Granada
-Hoy](https://www.granadahoy.com/granada/Villa-Astrida-queda-epoca-dorada_0_709429403.html)
+visión. En [un artículo de Granada Hoy](https://www.granadahoy.com/granada/Villa-Astrida-queda-epoca-dorada_0_709429403.html)
 afirma que fue la familia Agrela y que lo cedió a muy bajo precio por
-ser parientes de Fabiola, por otro lado; aunque [en este otro artículo
-de Motril Digital dice que fue el conde de Agrela quien lo
-regaló](http://motrildigital.mobile.blogia.com/2011/agosto.php).
+ser parientes de Fabiola, por otro lado;
+aunque
+[en este otro artículo de Motril Digital dice que fue el conde de Agrela quien lo regaló](http://motrildigital.mobile.blogia.com/2011/agosto.php).
 
 > Buscando, buscando, he encontrado que [el IV duque de Agrela, Jaime
 de Silva y Agrela, se casó con Ana María de Mora y
