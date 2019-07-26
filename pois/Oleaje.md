@@ -39,7 +39,9 @@ marítimo por razones de seguridad pero, sobre todo, por la parte
 "pública" del asunto.
 
 Los chambaos tuvieron que desaparecer o convertirse en chiringuitos
-con algún tipo de construcción permanente.
+con algún tipo de construcción permanente, pero en Playa Granada
+todavía faltaban algunos que correspondieran con la imagen que quería
+tratar de transmitir el ayuntamiento de Motril de Playa Granada. 
 
 ## Referencias
 
@@ -51,3 +53,8 @@ con algún tipo de construcción permanente.
 * [Retirada de la concesión administrativa](https://www.motrildigital.com/ayuntamiento-motril-acuerda-extinguir-la-concesion-administrativa-del-chiringuito-oleaje/)
 
 * [En defensa de los chiringuitos](http://granadacostanacional.es/rompiendo-una-lanza-en-recuerdo-de-los-chiringuitos/)
+
+* [Noticia sobre la apertura de Oleaje](https://www.ideal.es/granada/20121217/local/motril/club-ocio-chill-oleaje-201212171450.html)
+* [Apertura el 25 de mayo de 2013 en GH](https://www.granadahoy.com/provincia/chiringuito-Playa-Granada-puertas-proximo_0_694730771.html)
+
+* [Venta en WallaPop](https://www.ideal.es/granada/costa/vende-chiringuito-playa-20190424185306-nt.html)
