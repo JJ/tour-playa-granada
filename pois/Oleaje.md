@@ -57,4 +57,9 @@ tratar de transmitir el ayuntamiento de Motril de Playa Granada.
 * [Noticia sobre la apertura de Oleaje](https://www.ideal.es/granada/20121217/local/motril/club-ocio-chill-oleaje-201212171450.html)
 * [Apertura el 25 de mayo de 2013 en GH](https://www.granadahoy.com/provincia/chiringuito-Playa-Granada-puertas-proximo_0_694730771.html)
 
-* [Venta en WallaPop](https://www.ideal.es/granada/costa/vende-chiringuito-playa-20190424185306-nt.html)
+*  [Venta en WallaPop](https://www.ideal.es/granada/costa/vende-chiringuito-playa-20190424185306-nt.html)
+  
+* [Un poco de hype durante la construcción](https://motrildigital.blogia.com/2012/121711-el-club-de-ocio-chill-out-oleaje-playa-granada-abrir-sus-puertas-el-pr-ximo-m.php)
+
+*  [Club de ocio chill out Swing](http://www.elfaromotril.es/2012/09/15/el-club-de-ocio-%E2%80%98swing%E2%80%99-chill-out-de-playa-granada-sera-referente-turistico-de-la-costa-granadina/),
+  el nombre original.
