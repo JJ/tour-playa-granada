@@ -1,5 +1,7 @@
 # Pueblo del chirimoyo
 
+![Puerta del Pueblo del Chirimoyo, con fecha de construcción](../img/poblado-chirimoyo.jpg)
+
 Imaginemos la escena en Marbella, circa 1965. La familia Mora y Aragón
 se reúne en torno a una botella de coñac Soberano, que para eso son de
 la realeza. Se encuentran allí Jaime de Mora y Aragón, quizás su
