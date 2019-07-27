@@ -34,7 +34,7 @@ que los nobles podían tomar con cucharilla. Pero ni era fácil de
 exportar ni daba tanto dinero como el azúcar.
 
 La familia de su mujer tenía muchos títulos, pero poco pecunio. "Don
-sin din, gilipoyas en latín". No se casó con ella, sino, posiblemente,
+sin din, gilipoyas en latín". La razón por la que se casó con ella fue, posiblemente,
 porque no pudo casarse con una reina, o al menos recibir su
 amor. [El padre de Jaime, y al parecer también su esposa (la de su padre)](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
 estaban [los dos enamorados de la (ex) reina Victoria Eugenia](https://www.lne.es/cultura/2012/11/19/traje-nuevo-emperador/1328754.html). Pero, y
@@ -67,6 +67,17 @@ resto siguió en manos del conde de Agrela. Se creó la empresa "Costa
 Granada, S. A.", y se puso a desarrollar la zona.
 
 ![Anuncio de parcelas y viviendas en el Blanco y Negro, 1973](../img/byn-1973.png).
+
+El uso del chirimoyo en el nombre refleja, quizás, el cambio de la
+economía de la zona. Durante los años 50 y 60 se habían ido eliminando
+las últimas plantaciones de caña de azúcar y se empezó a plantar
+chirimoyo, una planta con origen en Sudamérica pero cuyo cultivo en la
+costa granadina se expandió a partir de la ciudad de Jete, donde
+tienen origen, además, las dos variedades reconocidas por la
+denominación de origen. El conde de Agrela, sabiamente, vio que no
+podía seguir confiando en la caña de azúcar o en la simple tenencia de
+tierras, y en el Pueblo del Chirimoyo unió las dos nuevas fuentes de
+ingresos: turismo y la fruta.
 
 La construcción del campo de golf y del Pueblo del Chirimoyo fueron
 más o menos simultáneas. El campo de golf lo diseñó la empresa Iber
