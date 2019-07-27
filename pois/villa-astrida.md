@@ -30,7 +30,17 @@ el terreno había pertenecido antiguamente a la familia de Fabiola y
 que se le dio como regalo de boda en 1960. También es plausible, pero
 que lo oteara en su viaje en helicóptero desde la sierra no tanto. 
 
-Se afirma de forma contrapuesta que los reyes querían pasar desapercibidos fuera de la farándula y que precisamente se le regaló este terreno para atraer a la farándula (si bien no tuvo mucho éxito); corren rumores en todo caso de que Balduino se paseaba, como un guiri más, en su bicicleta, por los chambaos de la costa para meterse unos espetos y que Fabiola iba a Motril a comprar el pan o unos visillos, lo que hiciera falta para la mansión.
+Se afirma de forma contrapuesta que los reyes querían pasar
+desapercibidos fuera de la farándula y que precisamente se le regaló
+este terreno para atraer a la farándula (si bien no tuvo mucho éxito);
+corren rumores en todo caso de que Balduino se paseaba, como un guiri
+más, en su bicicleta, por los chambaos de la costa para meterse unos
+espetos y que Fabiola iba a Motril a comprar el pan o unos visillos,
+lo que hiciera falta para la mansión. Pero una vez dejado el jardín
+botánico a su suerte, se ha convertido en hábitat de especies tales
+como la cotorra de Kramer, que ha sido observada en esta zona con
+asiduidad. Esta villa no sólo ha creado un ecosistema turístico, sino
+también uno natural.
 
 Mansión que, aunque no existen muchas fotos de la misma, no debía
 carecer de nada. Se menciona repetidamente la afición a la botánica de
