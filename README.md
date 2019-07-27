@@ -81,3 +81,5 @@ una publicación sobre Salobreña
 ## El centro de cuidados paliativos que nunca fue
 
 * [Acompalia](https://www.europapress.es/andalucia/noticia-asociacion-acompalia-abrira-centro-cuidados-paliativos-enfermos-terminales-lanjaron-mes-20151011104232.html)
+
+* [Bar a concurso público](https://motrildigital.blogia.com/2014/032507-el-ayuntamiento-saca-a-concurso-la-gesti-n-de-un-caf-bar-en-playa-granada.php), posiblemente el Swing
