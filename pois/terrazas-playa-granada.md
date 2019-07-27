@@ -1,5 +1,7 @@
 # Las Terrazas de Playa Granada
 
+![Terrazas de Playa Granada](../img/terrazas-playa-granada.jpg)
+
 Los arquitectos hablan de [dialogar con el espacio](https://www.plataformaarquitectura.cl/cl/776632/150-palabras-o-expresiones-que-solo-usamos-los-arquitectos) cuando un proyecto es sensible a su contexto, a los otros edificios que hay alrededor y el espacio y luz que crean.
 
 Cuando se construyó el Poblado del Chirimoyo, no había mucho que dialogar, se trataba más bien de un monólogo. Sin embargo, el contexto de Las Terrazas de Playa Granada era bastante diferente. El PGOU se publicó en 2002, y delimitaba no solo qué se podía construir, sino también cómo se podía construir. 
