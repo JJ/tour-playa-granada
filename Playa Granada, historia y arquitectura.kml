@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Playa Granada, historia y arquitectura</name>
+    <description>Playa Granada es una urbanización creada a principios de los años 60. Pequeña, desconocida y todavía en evolución, tiene algunos puntos de interés arquitectónico, enlazados con su historia.</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-000000-1200-77-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Puntos de interés, ruta para Moriscos II</name>
+      <Placemark>
+        <name>Parcela cedida a la UGR
+</name>
+        <description>La única razón que justifica el que todas las calles tengan nombres de rector, al parecer.</description>
+        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -3.5555443,36.7230451,0
+                -3.5519501,36.7206458,0
+                -3.5508021,36.7216692,0
+                -3.5555443,36.7230451,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Complejo residencial "Las Terrazas de playa Granada"
+]]></name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/BZE39LLYnMoMhveR8ndoohDsNP0yZDG3NnOjX-J2PfRosn8WIBd9DH5iWPCFTgW0y_R5d0iqOr2tNOklZLM6zkOgZsOOD9aQ5SD2IPR4HHS0YjxIF1fEOj5jJOCGRL7Etui9" height="200" width="auto" /><br><br>Creado por Gijón Arquitectura, uno de los primeros residenciales creados en el lugar, y los primeros en diálogo con la primera urbanización.]]></description>
+        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/BZE39LLYnMoMhveR8ndoohDsNP0yZDG3NnOjX-J2PfRosn8WIBd9DH5iWPCFTgW0y_R5d0iqOr2tNOklZLM6zkOgZsOOD9aQ5SD2IPR4HHS0YjxIF1fEOj5jJOCGRL7Etui9</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -3.5595032,36.7219014,0
+                -3.5599753,36.7200266,0
+                -3.5591384,36.7195622,0
+                -3.5587307,36.7217724,0
+                -3.5595032,36.7219014,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Poblado del chirimoyo
+</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/32bVEnBW3wnmNnSNVBK38kisaHBjA3_5dSl5EWrVDB4yzhz-nD7nUK8WOL7A1-jS_kVZmfEKytFOZYdnYS-k5lFtM5BuLEskIb4cfaJno12YUQe5EYfvjYXjkrsuKAow4Ufc2mM" height="200" width="auto" /><br><br>Primera urbanización creada por los propietarios del terrano, en los años 70]]></description>
+        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/32bVEnBW3wnmNnSNVBK38kisaHBjA3_5dSl5EWrVDB4yzhz-nD7nUK8WOL7A1-jS_kVZmfEKytFOZYdnYS-k5lFtM5BuLEskIb4cfaJno12YUQe5EYfvjYXjkrsuKAow4Ufc2mM</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -3.5626146,36.7205233,0
+                -3.5586878,36.7187173,0
+                -3.5592457,36.7194225,0
+                -3.5601684,36.7198181,0
+                -3.5626146,36.7205233,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Situación aproximada de la construcción original
+</name>
+        <description>Ahora un solar, era donde estaba la única construcción que existía a la vez que Villa Astrida y el Poblado del Chirimoyo</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5577866,36.7185969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Astrida
+</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/Kl7SsnX4qvHqWh9nwXuMKbWL0SQOLLZ1vZrWb__kP0Sr9Rsat9mAwkZoyQOPWrsqI-tM_Cw8IqWQPT9C1CN4OYp1RmKyqOmo_26O9UldwPp7660Mvi_0G-BGUPykGGXrVgw0" height="200" width="auto" /><br><br>Residencia de los reyes de Bélgica, Balduino y Fabiola, regalada por el conde de Agrela, cuñado de la pareja.]]></description>
+        <styleUrl>#poly-000000-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/Kl7SsnX4qvHqWh9nwXuMKbWL0SQOLLZ1vZrWb__kP0Sr9Rsat9mAwkZoyQOPWrsqI-tM_Cw8IqWQPT9C1CN4OYp1RmKyqOmo_26O9UldwPp7660Mvi_0G-BGUPykGGXrVgw0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -3.5576364,36.7169112,0
+                -3.5576149,36.716464,0
+                -3.5551473,36.7156212,0
+                -3.5548469,36.7161028,0
+                -3.5543748,36.7164124,0
+                -3.5547396,36.7167564,0
+                -3.5562846,36.7173929,0
+                -3.5576364,36.7169112,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Vivienda de AV13 arquitectura
+</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/-cB8Szbl6-LITRL0lJwMMyzImwGDvJHL5pqYW4_e5WZCuqbWhaH4cQ_DkFa19_MpzLlt7WbarWegp2c-cSc3ReBDOG_uvaIDO5ipHGZBKnT__JFAO9uZEXyVr6BWwXxU9v0ueGY" height="200" width="auto" /><br><br>Arquitectura contemporánea, con diseño cuidadoso de la iluminación.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/-cB8Szbl6-LITRL0lJwMMyzImwGDvJHL5pqYW4_e5WZCuqbWhaH4cQ_DkFa19_MpzLlt7WbarWegp2c-cSc3ReBDOG_uvaIDO5ipHGZBKnT__JFAO9uZEXyVr6BWwXxU9v0ueGY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.5567245,36.717681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de Santa Josefina Bakhita</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/MY4xGkejCIi1W0_u-zCgIH1Mn90qtrY6jX16Pl8bs1MM7BSIVDylQSKNz9Br9jlIRJyGPVB3FjJbT8-xykuOKBrD_t7Eu83iQORDeusAL4L_vjZhfBM0ydOToGAh1tx1yqz0" height="200" width="auto" /><br><br>Torre de la iglesia de Santa Josephina Bakhita]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/MY4xGkejCIi1W0_u-zCgIH1Mn90qtrY6jX16Pl8bs1MM7BSIVDylQSKNz9Br9jlIRJyGPVB3FjJbT8-xykuOKBrD_t7Eu83iQORDeusAL4L_vjZhfBM0ydOToGAh1tx1yqz0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.55431959999999,36.7168734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oleaje</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/ZGyvcZ97RwQ3f69hb38lY-NbkWc0GUhggJdTW3oDk6WO010R4xOkE2kP-HoaFVD69VQ0O5cUtcupNPlyeGoKP9kMR9Xf376sl5CdWWJqhsfBOL0fn4b-gZ3Q73DXcb1P1I0hPg" height="200" width="auto" /><br><br>De Loreto Spa, chiringuito de arquitectura contemporánea]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/ZGyvcZ97RwQ3f69hb38lY-NbkWc0GUhggJdTW3oDk6WO010R4xOkE2kP-HoaFVD69VQ0O5cUtcupNPlyeGoKP9kMR9Xf376sl5CdWWJqhsfBOL0fn4b-gZ3Q73DXcb1P1I0hPg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.55385179999996,36.7155032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Calle Rector Federico Mayor Zaragoza, 15, 18613 Motril, Granada, España a Calle Rector David Aguilar Peña, 8, 18613 Motril, Granada, España</name>
+      <Placemark>
+        <name>Indicaciones de Calle Rector Federico Mayor Zaragoza, 15, 18613 Motril, Granada, España a Calle Rector David Aguilar Peña, 8, 18613 Motril, Granada, España</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -3.55399,36.72183,0
+            -3.55471,36.7223,0
+            -3.5553,36.72267,0
+            -3.55559,36.72285,0
+            -3.55568,36.72292,0
+            -3.55569,36.72292,0
+            -3.5557,36.72292,0
+            -3.55571,36.72292,0
+            -3.55572,36.72292,0
+            -3.55573,36.72292,0
+            -3.55574,36.72292,0
+            -3.55575,36.72292,0
+            -3.55575,36.72293,0
+            -3.55576,36.72293,0
+            -3.55577,36.72293,0
+            -3.55577,36.72294,0
+            -3.55578,36.72294,0
+            -3.55578,36.72295,0
+            -3.55579,36.72295,0
+            -3.55579,36.72296,0
+            -3.5558,36.72296,0
+            -3.5558,36.72297,0
+            -3.5558,36.72298,0
+            -3.55581,36.72298,0
+            -3.55581,36.72299,0
+            -3.55615,36.72311,0
+            -3.55652,36.72321,0
+            -3.55674,36.72326,0
+            -3.55695,36.72329,0
+            -3.55782,36.72344,0
+            -3.5588,36.72355,0
+            -3.55926,36.7236,0
+            -3.55927,36.72359,0
+            -3.55928,36.72358,0
+            -3.55929,36.72358,0
+            -3.5593,36.72357,0
+            -3.55943,36.72263,0
+            -3.55954,36.72204,0
+            -3.55967,36.72139,0
+            -3.55981,36.72075,0
+            -3.55997,36.72005,0
+            -3.55996,36.72004,0
+            -3.55995,36.72003,0
+            -3.55995,36.72002,0
+            -3.55994,36.72002,0
+            -3.55994,36.72001,0
+            -3.55994,36.72,0
+            -3.55994,36.71999,0
+            -3.55994,36.71998,0
+            -3.55994,36.71997,0
+            -3.55994,36.71996,0
+            -3.55994,36.71995,0
+            -3.55995,36.71994,0
+            -3.55995,36.71993,0
+            -3.55996,36.71992,0
+            -3.55997,36.71991,0
+            -3.55997,36.7199,0
+            -3.55998,36.7199,0
+            -3.55999,36.71989,0
+            -3.56,36.71989,0
+            -3.56001,36.71988,0
+            -3.56002,36.71988,0
+            -3.56003,36.71988,0
+            -3.56004,36.71987,0
+            -3.56005,36.71987,0
+            -3.56007,36.71987,0
+            -3.56008,36.71987,0
+            -3.56009,36.71987,0
+            -3.5601,36.71987,0
+            -3.56011,36.71988,0
+            -3.56012,36.71988,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Calle Rector Federico Mayor Zaragoza, 15, 18613 Motril, Granada, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5539927,36.7218256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Rector David Aguilar Peña, 8, 18613 Motril, Granada, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5601216,36.7198789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de VI Playa Poniente, 2, 18613 Motril, Granada, España a Iglesia de Santa Josefina Bakhita</name>
+      <Placemark>
+        <name>Indicaciones de VI Playa Poniente, 2, 18613 Motril, Granada, España a Iglesia de Santa Josefina Bakhita</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -3.56007,36.71987,0
+            -3.55996,36.71982,0
+            -3.55991,36.7198,0
+            -3.55986,36.71979,0
+            -3.55979,36.71977,0
+            -3.55969,36.71976,0
+            -3.5596,36.71974,0
+            -3.55954,36.71972,0
+            -3.55948,36.7197,0
+            -3.55943,36.71968,0
+            -3.55935,36.71964,0
+            -3.55929,36.7196,0
+            -3.55923,36.71956,0
+            -3.55911,36.71947,0
+            -3.55906,36.71943,0
+            -3.55903,36.71939,0
+            -3.55901,36.71937,0
+            -3.55895,36.71929,0
+            -3.55892,36.71923,0
+            -3.55848,36.71853,0
+            -3.55845,36.71847,0
+            -3.55844,36.71846,0
+            -3.55829,36.71823,0
+            -3.5582,36.71808,0
+            -3.55783,36.71744,0
+            -3.55777,36.71734,0
+            -3.55772,36.71727,0
+            -3.55768,36.71722,0
+            -3.55769,36.71721,0
+            -3.5577,36.7172,0
+            -3.55771,36.71719,0
+            -3.55771,36.71718,0
+            -3.55771,36.71717,0
+            -3.55772,36.71717,0
+            -3.55772,36.71716,0
+            -3.55772,36.71715,0
+            -3.55772,36.71714,0
+            -3.55772,36.71713,0
+            -3.55771,36.71712,0
+            -3.55771,36.71711,0
+            -3.5577,36.7171,0
+            -3.5577,36.71709,0
+            -3.55769,36.71709,0
+            -3.55769,36.71708,0
+            -3.55768,36.71708,0
+            -3.55767,36.71707,0
+            -3.55766,36.71707,0
+            -3.55765,36.71706,0
+            -3.55764,36.71706,0
+            -3.55763,36.71706,0
+            -3.55761,36.71705,0
+            -3.55765,36.71699,0
+            -3.55769,36.71695,0
+            -3.55772,36.71693,0
+            -3.55777,36.71691,0
+            -3.55782,36.71689,0
+            -3.55789,36.71689,0
+            -3.55792,36.71689,0
+            -3.55794,36.71689,0
+            -3.55801,36.7169,0
+            -3.55804,36.71691,0
+            -3.55807,36.71692,0
+            -3.5581,36.71694,0
+            -3.55812,36.71695,0
+            -3.5582,36.71681,0
+            -3.55812,36.71695,0
+            -3.5581,36.71694,0
+            -3.55807,36.71692,0
+            -3.55804,36.71691,0
+            -3.55801,36.7169,0
+            -3.55794,36.71689,0
+            -3.55792,36.71689,0
+            -3.55789,36.71689,0
+            -3.55782,36.71689,0
+            -3.55777,36.71691,0
+            -3.55772,36.71693,0
+            -3.55769,36.71695,0
+            -3.55765,36.71699,0
+            -3.55761,36.71705,0
+            -3.5576,36.71705,0
+            -3.55759,36.71705,0
+            -3.55758,36.71706,0
+            -3.55757,36.71706,0
+            -3.55756,36.71706,0
+            -3.55755,36.71706,0
+            -3.55754,36.71707,0
+            -3.55753,36.71707,0
+            -3.55752,36.71708,0
+            -3.55751,36.71708,0
+            -3.55751,36.71709,0
+            -3.5575,36.71709,0
+            -3.5575,36.7171,0
+            -3.55749,36.71711,0
+            -3.55749,36.71712,0
+            -3.55748,36.71712,0
+            -3.55748,36.71713,0
+            -3.55748,36.71714,0
+            -3.55748,36.71715,0
+            -3.55748,36.71716,0
+            -3.55702,36.71731,0
+            -3.5567,36.71742,0
+            -3.55658,36.71746,0
+            -3.55653,36.71747,0
+            -3.55646,36.71748,0
+            -3.55641,36.71748,0
+            -3.55637,36.71748,0
+            -3.55631,36.71748,0
+            -3.55625,36.71747,0
+            -3.5562,36.71746,0
+            -3.55613,36.71744,0
+            -3.55572,36.71727,0
+            -3.55522,36.71705,0
+            -3.55486,36.7169,0
+            -3.55481,36.71686,0
+            -3.55477,36.71684,0
+            -3.55472,36.71679,0
+            -3.55458,36.71664,0
+            -3.55446,36.71652,0
+            -3.55439,36.71645,0
+            -3.55437,36.71643,0
+            -3.55435,36.71641,0
+            -3.5543,36.71637,0
+            -3.55418,36.71632,0
+            -3.55383,36.71616,0
+            -3.55374,36.71613,0
+            -3.55398,36.71578,0
+            -3.55403,36.71571,0
+            -3.55396,36.71568,0
+            -3.55384,36.71563,0
+            -3.55396,36.71568,0
+            -3.55403,36.71571,0
+            -3.55398,36.71578,0
+            -3.55374,36.71613,0
+            -3.55383,36.71616,0
+            -3.55418,36.71632,0
+            -3.5543,36.71637,0
+            -3.55435,36.71641,0
+            -3.55437,36.71643,0
+            -3.55439,36.71645,0
+            -3.55446,36.71652,0
+            -3.55458,36.71664,0
+            -3.55462,36.71669,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>VI Playa Poniente, 2, 18613 Motril, Granada, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5600667,36.7198718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Rector Lorenzo Morillas Cuevas, 2, 18613 Motril, Granada, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.5538396,36.7156273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de Santa Josefina Bakhita</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.554622,36.7166866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
