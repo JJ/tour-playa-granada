@@ -88,5 +88,7 @@ mar para que nos dé la brisa y veamos los [casoplones](viviendas-varias.md) que
 enfrente, en la misma acera que La Pesquera y el resto de los bares.
 
 
+## Referencias
 
+* [Colliers para crear el hotel de lujo](https://es.slideshare.net/thierrydebels/colliers-mag-spaanse-villa-van-boudewijn-verkopen)
 
