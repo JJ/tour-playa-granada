@@ -118,7 +118,7 @@ ocurrió hasta muchos años más tarde, en 2014.
 ¿Pasará el futuro por el hotel? Si no pasa por ahí, el mar puede
 acabar reclamando lo que era suyo. Como cuentan en 
 [un informe de riesgos medioambientales del ayuntamiento de Motril](http://www.motril.es/fileadmin/areas/medioambiente/agenda21/anexo3riesgos.pdf)
-el riesto de retroceso es muy alto. Los que venían a la playa
+el peligro de retroceso es muy alto. Los que venían a la playa
 recuerdan que el mar ha llegado en ocasiones hasta la misma valla, que
 tiene que haber aguantado lo suyo durante el invierno. Si la playa se
 conserva es por la aportación periódica de arena, y menos periódica de
