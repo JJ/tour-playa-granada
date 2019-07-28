@@ -1,5 +1,7 @@
 # Oleaje
 
+![Oleaje en su forma original](img/oleaje.jpg)
+
 Tradicionalmente, los chiringuitos en la costa granadina se llamaban
 chambaos o sombraos. A diferencia de los chiringuitos de hoy en día,
 que son básicamente bares situados a pie de playa, el concepto de

@@ -1,7 +1,9 @@
 # Viviendas notables en primera (o casi) línea de playa.
 
+![Viviendas en la calle Rector Lorenzo Morillas](img/viviendas-rector-lorenzo-morillas.jpg)
+
 El estilo mediterráneo estaba bien cuando uno conducía un
-Supermirafiori o un Mercedes 190. Pero los gustos modernos se inclinan
+Supermirafiori o un Mercedes 220. Pero los gustos modernos se inclinan
 por otro estilo, que del anterior conserva solo el color blanco, pero
 que pasa por ángulos rectos, grandes volúmenes (posiblemente más
 fáciles de acondicionar) y sobre todo, grandes ventanales que permiten

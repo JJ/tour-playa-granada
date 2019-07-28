@@ -1,5 +1,7 @@
 # Villa Astrida
 
+![Villa Astrida desde la playa](img/villa-astrida.jpg)
+
 Villa Astrida fue la residencia de verano de los reyes de Bélgica
 hasta su muerte. Ahora
 parece [que se pretende convertir en un hotel de lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611),
