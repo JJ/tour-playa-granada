@@ -1,6 +1,6 @@
 # Las Terrazas de Playa Granada
 
-![Terrazas de Playa Granada](../img/terrazas-playa-granada.jpg)
+![Terrazas de Playa Granada](img/terrazas-playa-granada.jpg)
 
 Los arquitectos hablan de [dialogar con el espacio](https://www.plataformaarquitectura.cl/cl/776632/150-palabras-o-expresiones-que-solo-usamos-los-arquitectos) cuando un proyecto es sensible a su contexto, a los otros edificios que hay alrededor y el espacio y luz que crean.
 
@@ -15,11 +15,11 @@ qué se podía construir, sino también cómo se podía construir.
 
 En ese momento, [según la web del ayuntamiento](http://www.motril.es/index.php?id=666), solo existía en Playa Granada el Poblado, Villa Astrida, y una residencia independiente (que posiblemente haya desaparecido), aparte de los equipamientos del campo de golf.
 
-![Ortofoto en 1997/98, de la web de PNOA](../img/imagen-olistat-97-98.png)
+![Ortofoto en 1997/98, de la web de PNOA](img/imagen-olistat-97-98.png)
 
 Realmente no es el primer bloque de viviendas que se construyó. En esa época, en 2003, ya estaba en construcción una serie de bloques más hacia el sur, en dirección a la orilla del mar, como revela la siguiente foto.
 
-![Ortofoto en 2003, de la web de PNOA](../img/imagen-sigpac-2003.png)
+![Ortofoto en 2003, de la web de PNOA](img/imagen-sigpac-2003.png)
 
 Es notable, sobre, todo, por ser el primer bloque de viviendas de cuya construcción se tiene cierta constancia y cuyo estudio de arquitectura se conoce. Se trata de [Gijón Arquitectura](http://www.gijonarquitectura.com/las_terrazas_de_playa_granada.html), un estudio dirigido por el arquitecto de Motril Ángel Gijón, que también ha construido otra serie de equipamientos y viviendas, sobre todo en Motril y la provincia de Granada.
 

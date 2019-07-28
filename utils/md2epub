@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+
+pandoc -S --toc --epub-metadata=metadata.xml --epub-stylesheet=playa-granada.css \
+    -o playa-granada.epub playa-granada.txt \
+    intro.md pois/pueblo-del-chirimoyo.md\
+    pois/terrazas-playa-granada.md pois/villa-astrida.md\
+    pois/viviendas-varias.md pois/Oleaje.md\
+    pois/iglesia-josefina-bakhita.md
+
+
+

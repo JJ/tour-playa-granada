@@ -1,6 +1,6 @@
 # Pueblo del chirimoyo
 
-![Puerta del Pueblo del Chirimoyo, con fecha de construcción](../img/poblado-chirimoyo.jpg)
+![Puerta del Pueblo del Chirimoyo, con fecha de construcción](img/poblado-chirimoyo.jpg)
 
 Imaginemos la escena en Marbella, circa 1965. La familia Mora y Aragón
 se reúne en torno a una botella de coñac Soberano, que para eso son de
@@ -66,7 +66,7 @@ manos de la familia real belga (o del estado belga, a saber) y el
 resto siguió en manos del conde de Agrela. Se creó la empresa "Costa
 Granada, S. A.", y se puso a desarrollar la zona.
 
-![Anuncio de parcelas y viviendas en el Blanco y Negro, 1973](../img/byn-1973.png).
+![Anuncio de parcelas y viviendas en el Blanco y Negro, 1973](img/byn-1973.png).
 
 El uso del chirimoyo en el nombre refleja, quizás, el cambio de la
 economía de la zona. Durante los años 50 y 60 se habían ido eliminando
