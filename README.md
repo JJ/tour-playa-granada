@@ -85,3 +85,7 @@ una publicación sobre Salobreña
 * [Bar a concurso público](https://motrildigital.blogia.com/2014/032507-el-ayuntamiento-saca-a-concurso-la-gesti-n-de-un-caf-bar-en-playa-granada.php), posiblemente el Swing
 
 * [El porqué las calles tienen nombres de rectores](https://www.ideal.es/granada/20091014/costa/playa-granada-propone-quitar-20091014.html)
+
+* [Vinculación de Federico Mayor Zaragoza a Salobreña](https://www.ideal.es/granada/20130604/local/costa/federico-mayor-zaragoza-encanta-201306040123.html): veraneaba ahí.
+
+* [Terrenos en Motril como fianza del caso Serrallo](https://www.granadahoy.com/granada/Serrallo-caso-fianza-terrenos-playa-granada_0_1315368674.html)
