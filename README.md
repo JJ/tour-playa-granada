@@ -89,3 +89,6 @@ una publicación sobre Salobreña
 * [Vinculación de Federico Mayor Zaragoza a Salobreña](https://www.ideal.es/granada/20130604/local/costa/federico-mayor-zaragoza-encanta-201306040123.html): veraneaba ahí.
 
 * [Terrenos en Motril como fianza del caso Serrallo](https://www.granadahoy.com/granada/Serrallo-caso-fianza-terrenos-playa-granada_0_1315368674.html)
+
+
+* [Historia del Peñón de Salobreña](http://revistas.uned.es/index.php/ETFVI/article/view/18846), el otro lado del delta del Guadalfeo.
