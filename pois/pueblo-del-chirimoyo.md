@@ -81,7 +81,10 @@ ingresos: turismo y la fruta.
 
 La construcción del campo de golf y del Pueblo del Chirimoyo fueron
 más o menos simultáneas. El campo de golf lo diseñó la empresa Iber
-Golf, que ya ha desaparecido, y fue uno de los primeros de Andalucía.
+Golf, que ya ha desaparecido, y fue uno de los primeros de Andalucía;
+en concreto, el sexto, después de 5 campos en Cádiz (Sotogrande) y en
+la provincia de Málaga. Por supuesto, el primero de la provincia de
+Granada, que incluso ahora cuenta solamente con otros dos campos.
 
 El nombre, en realidad, se refiere a Salobreña, que también se le
 conoce como el pueblo del chirimoyo. Pero puede ser que se llame así

@@ -109,7 +109,11 @@ estado belga? ¿Era de una fundación que creó la esposa (para eludir
 impuestos, imagino), o era de ella y por tanto tenía que pagar tales
 impuestos? Estas disputas han impedido que se haga ningún tipo de
 cambio en la finca, aunque parece que el ayuntamiento se encarga de
-cuidar el jardín.
+cuidar el jardín. Por lo pronto, 
+[en 2014 una parte fue expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
+para abrir la pequeña calle que llega desde la rotonda de la calle
+Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, pero no
+ocurrió hasta muchos años más tarde, en 2014.
 
 ¿Pasará el futuro por el hotel? Si no pasa por ahí, el mar puede
 acabar reclamando lo que era suyo. Como cuentan en 
