@@ -43,7 +43,28 @@ marítimo por razones de seguridad pero, sobre todo, por la parte
 Los chambaos tuvieron que desaparecer o convertirse en chiringuitos
 con algún tipo de construcción permanente, pero en Playa Granada
 todavía faltaban algunos que correspondieran con la imagen que quería
-tratar de transmitir el ayuntamiento de Motril de Playa Granada. 
+tratar de transmitir el ayuntamiento de Motril de Playa Granada. Así
+que el Ayuntamiento sacó un concurso de ideas para constuir un, no
+sabría como decirlo, centro de ocio o algo así, chiringuito 2.0, algo
+por el estilo.
+
+El concurso lo ganó una empresa
+llamada
+[Swing Chill Out](http://www.elfaromotril.es/2012/09/15/el-club-de-ocio-%E2%80%98swing%E2%80%99-chill-out-de-playa-granada-sera-referente-turistico-de-la-costa-granadina/),
+con un diseño de la arquitecta [Loreto Spa](http://www.loretospa.es/oleaje.html), una persona cuya familia ha
+estado ligada a Motril durante mucho tiempo. Y se llamó Oleaje.
+
+El concepto del chiringuito es muy original: en vez del clásico
+chiringuito cuadrado, con barra en una esquina y terrazas alrededor,
+la construcción es de forma aproximadamente circular, como una
+caracola o, efectivamente, como dos ola superpuestas, con terrazas
+para reservados, piscina y un área grande abierta al mar.
+
+![Captura satélite de Google Maps](img/oleaje.png)
+
+Si hay un *pato* arquitectónico, este es uno de ellos. Un chiringuito,
+edificación cerca de las olas por antonomasia, con forma de ola, y que
+además se llama Oleaje.
 
 ## Referencias
 
