@@ -58,7 +58,7 @@ tiene apenas tres años.
 > de que, en este caso particular, la relación no sea tan negativa.
 
 En vez del mediterráneo enjalbegado, Elisa Valero elige el cemento
-desnudo, en una vuelta a las primeras iglesias, sólo piedra sin ningún
+desnudo, en una vuelta a las primeras iglesias, solo piedra sin ningún
 tipo de decoración. Y apuesta también por la ventilación natural, con
 una serie de puertas abiertas al sur y a la playa, que permiten
 ventilar el espacio sin necesidad de gastar en aire acondicionado.
@@ -79,7 +79,7 @@ general.
 Un final espectacular para un tour de una urbanización que, además de
 mostrar el interés de los edificios que miramos sin ver de forma
 cotidiana, es un punto en el tiempo en una zona que, como todas las de
-playa, cambiará con el tiempo hasta hacerse irreconocible. Sólo
+playa, cambiará con el tiempo hasta hacerse irreconocible. Solo
 esperamos que no evolucione hacia la masificación y la fealdad masiva.
 
 

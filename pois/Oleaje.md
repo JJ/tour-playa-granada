@@ -44,7 +44,7 @@ Los chambaos tuvieron que desaparecer o convertirse en chiringuitos
 con algún tipo de construcción permanente, pero en Playa Granada
 todavía faltaban algunos que correspondieran con la imagen que quería
 tratar de transmitir el ayuntamiento de Motril de Playa Granada. Así
-que el Ayuntamiento sacó un concurso de ideas para constuir un, no
+que el Ayuntamiento sacó un concurso de ideas para construir un, no
 sabría como decirlo, centro de ocio o algo así, chiringuito 2.0, algo
 por el estilo.
 
@@ -84,7 +84,7 @@ condiciones originales, que pedían que estuviera abierto todo el año.
 
 Tras un episodio en el que los propietarios lo pusieron a la venta en
 WallaPop, finalmente recaló en su propietario actual (en 2019), que lo
-reconvirtión en Badía Beach Club. Los problemas de ruido siguen ahí:
+reconvirtió en Badía Beach Club. Los problemas de ruido siguen ahí:
 la música se escucha hasta más allá del campo de golf. Pero por lo
 menos está abierto. La barca donde se hacían los espetos, tristemente,
 ha desaparecido.
