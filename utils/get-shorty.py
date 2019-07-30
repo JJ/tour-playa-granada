@@ -3,9 +3,10 @@
 import re
 import sys
 import glob
-import json
-import requests
 import os
+import requests
+import json
+from pprint import pprint
 
 if len(sys.argv) > 1:
     urls_json = sys.argv[1]
@@ -15,16 +16,17 @@ else:
 with open( urls_json ) as data_file:
     urls = json.load(data_file)
 
-b = pyshorteners.Shortener(api_key = os.environ["BITLY_TOKEN"])
+api_key = os.environ["BITLY_TOKEN"]
+group_guid = os.environ["BITLY_USER"]
 
 shortened_links = []
 for u in urls:
-#    print(u)
-    if (re.search("amzn.to",u[1])):
-        shortened_links.append( [ u[0], u[1], u[1] ] )
-    else:
-        response = b.bitly.short( u[1] )
-        print(response)
-#        shortened_links.append( [ u[0], u[1], my_id['id'] ] )
+    payload = {'long_url': u[1], "domain": "bit.ly" }
+    print(payload)
+    response = requests.post( "https://api-ssl.bitly.com/v4/shorten",
+                              json=payload,
+                              headers={'Authorization': f"Bearer {api_key}" } )
+    short_url = json.loads( response.text )
+    shortened_links.append( [ u[0], u[1], short_url['id'] ] )
 
-#print(json.dumps( shortened_links ))
+print(json.dumps( shortened_links ))
