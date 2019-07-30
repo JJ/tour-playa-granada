@@ -1,6 +1,6 @@
 # Iglesia de Santa Josefina Bakhita
 
-![Iglesia Santa Josefina Bakhita desde la parcela](img/iglesia-josefina-bakhita.jpg)
+![Iglesia Santa Josefina Bakhita desde la parcela](img/santa-josefina-bakhita.jpg)
 
 Si hubiera algún punto de Playa Granada *que no te puedes perder*,
 sería este. Esta construcción es el tipo de lugar que merece la pena
