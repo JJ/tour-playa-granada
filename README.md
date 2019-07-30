@@ -1,7 +1,14 @@
-# tour-playa-granada
+# Un tour por Playa Granada
 
-Tour por Playa Granada, un recorrido histórico y arquitectónico de esta urbanización.
+Tour por Playa Granada, un recorrido histórico y arquitectónico de
+esta urbanización. Empieza por [esta introducción](intro.md) y ve
+siguiendo los puntos de interés, comenzando
+por [el poblado del Chirimoyo](pois/pueblo-del-chirimoyo.md).
 
+También lo puedes adquirir como libro tanto en formato electrónico
+como físico.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=atalaya-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07VTP9MJT&linkId=05e5ab5ea7b5f620675d13c698e39473"></iframe>
 
 ## Historia y naturaleza
 
