@@ -64,7 +64,34 @@ para reservados, piscina y un área grande abierta al mar.
 
 Si hay un *pato* arquitectónico, este es uno de ellos. Un chiringuito,
 edificación cerca de las olas por antonomasia, con forma de ola, y que
-además se llama Oleaje.
+además se llama Oleaje. Se nota mucho mejor visto desde arriba; olas o
+caracolas, pero pato en todo caso.
+
+![Ortofoto de Oleaje en sus orígenes](img/oleaje-ortofoto.png)
+
+Sin embargo, la originalidad arquitectónica no está reñida con el
+fracaso en los negocios. Como se ve en la ortofoto superior, a Oleaje
+se le concedió también la administración de una serie de sombrillas y
+hamacas.
+
+Estas hamacas yacen ahora, abandonadas, en uno de los laterales. La
+apertura, a bombo y platillo, se produjo en la fecha prevista, mayo
+de 2013, con presencia de las fuerzas vivas de la localidad. Pero para
+principios del año 2019 el chiringuito estaba "cerrado" (en realidad
+abierto y expuesto al saqueo y la intemperie), con deudas al
+ayuntamiento por impago de los cánones y también incumplimiento de las
+condiciones originales, que pedían que estuviera abierto todo el año.
+
+Tras un episodio en el que los propietarios lo pusieron a la venta en
+WallaPop, finalmente recaló en su propietario actual (en 2019), que lo
+reconvirtión en Badía Beach Club. Los problemas de ruido siguen ahí:
+la música se escucha hasta más allá del campo de golf. Pero por lo
+menos está abierto. La barca donde se hacían los espetos, tristemente,
+ha desaparecido.
+
+Desde aquí vamos al pato siguiente: La iglesia de Santa Josefina
+Bakhita.
+
 
 ## Referencias
 
