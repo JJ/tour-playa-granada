@@ -13,7 +13,7 @@ else:
 if len(sys.argv) > 2:
     short_urls_json = sys.argv[2]
 else:
-    short_urls_json = "short-links.json"
+    short_urls_json = "utils/short-links.json"
 
 with open( short_urls_json ) as data_file:
     short_urls = json.load(data_file)
