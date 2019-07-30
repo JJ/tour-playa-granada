@@ -94,6 +94,12 @@ las hojas de las palmeras que el jardinero belga desechara?
 familiar allí asentadas durante los meses de verano? ¿Sacaría el
 servicio unos túpers de codillo para compartir?
 
+O, quizás, ¿quitarían todos estos chambaos cuando efectivamente se
+alojaran los reyes allí? Los testimonios dicen que el área de playa
+delante de Villa Astrida estaban también vallados y custodiados por
+los grises, la policía de Franco. No serían muy largas las estancias,
+posiblemente. 
+
 > Todo esto da para una novela, en la que desaparecería alguien del servicio y el sargento de la guardia civil de Motril tendría que investigar. Una historia apasionante, a medio camino entre la serie Milenio y Cuéntame.
 
 Balduino murió en 1993, en diferentes lugares de la casa según la
