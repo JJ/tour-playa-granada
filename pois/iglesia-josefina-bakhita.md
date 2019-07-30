@@ -57,8 +57,30 @@ tiene apenas tres años.
 > la llamada guerra árabe-congoleña, así que cabe cierta posibilidad
 > de que, en este caso particular, la relación no sea tan negativa.
 
+En vez del mediterráneo enjalbegado, Elisa Valero elige el cemento
+desnudo, en una vuelta a las primeras iglesias, sólo piedra sin ningún
+tipo de decoración. Y apuesta también por la ventilación natural, con
+una serie de puertas abiertas al sur y a la playa, que permiten
+ventilar el espacio sin necesidad de gastar en aire acondicionado.
+
+La piedra está siendo progresivamente recubierta por una hiedra en la
+parte norte, la que da al campo de golf y que generalmente está más
+oculta al público. Desde esa perspectiva, la iglesia se integra en la
+naturaleza, pero también la hiedra provee frescor al interior,
+resguardando la fachada del sol.
+
+En resumen, una genialidad de Elisa Valero, una arquitecta
+contemporánea que se puede ver desde toda Playa Granada. Para visitar
+el interior, sin embargo, tendrás que hacerlo en las horas de misa,
+porque no es iglesia parroquial y no está abierta al público en
+general.
 
 
+Un final espectacular para un tour de una urbanización que, además de
+mostrar el interés de los edificios que miramos sin ver de forma
+cotidiana, es un punto en el tiempo en una zona que, como todas las de
+playa, cambiará con el tiempo hasta hacerse irreconocible. Sólo
+esperamos que no evolucione hacia la masificación y la fealdad masiva.
 
 
 
