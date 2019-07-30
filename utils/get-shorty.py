@@ -4,7 +4,7 @@ import re
 import sys
 import glob
 import json
-import bitly
+import requests
 import os
 
 if len(sys.argv) > 1:
@@ -15,9 +15,7 @@ else:
 with open( urls_json ) as data_file:
     urls = json.load(data_file)
 
-print(os.environ["BITLY_USER"], os.environ["BITLY_TOKEN"])
-
-b = bitly.Connection(os.environ["BITLY_USER"], os.environ["BITLY_TOKEN"])
+b = pyshorteners.Shortener(api_key = os.environ["BITLY_TOKEN"])
 
 shortened_links = []
 for u in urls:
@@ -25,7 +23,7 @@ for u in urls:
     if (re.search("amzn.to",u[1])):
         shortened_links.append( [ u[0], u[1], u[1] ] )
     else:
-        response = b.shorten( uri=u[1] )
+        response = b.bitly.short( u[1] )
         print(response)
 #        shortened_links.append( [ u[0], u[1], my_id['id'] ] )
 
