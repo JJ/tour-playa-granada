@@ -8,7 +8,7 @@ import json
 if len(sys.argv) > 1:
     dir = sys.argv[1]
 else:
-    dir = "txt/"
+    dir = "pois/"
 
 if len(sys.argv) > 2:
     short_urls_json = sys.argv[2]
@@ -24,6 +24,8 @@ for u in short_urls:
     dict_urls[u[1]] = u[2]
 
 ficheros = glob.glob(dir+"/*.md")
+ficheros.append( "intro.md" )
+
 for f in ficheros:
     file_content = open(f,"r").read()
     file_content = re.sub(r'\[([^\]]+)\]\((http[^\(]+)\)',r'\1 → \2', file_content)

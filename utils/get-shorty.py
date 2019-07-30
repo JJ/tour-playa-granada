@@ -22,7 +22,6 @@ group_guid = os.environ["BITLY_USER"]
 shortened_links = []
 for u in urls:
     payload = {'long_url': u[1], "domain": "bit.ly" }
-    print(payload)
     response = requests.post( "https://api-ssl.bitly.com/v4/shorten",
                               json=payload,
                               headers={'Authorization': f"Bearer {api_key}" } )
