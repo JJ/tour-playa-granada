@@ -74,5 +74,5 @@ oro de Playa Granada. Si al menos no tuviera tantos solares... O tantos otros ch
 > El precio por metro cuadrado, sin embargo, es de 2358€, lo que es una cantidad apreciable en esta época post-burbuja, por [encima de la costa del sol y cercana al Maresme catalán](https://www.elespanol.com/economia/empresas/20190727/comprar-mision-imposible-islas-peninsula-precios-nubes/416708810_0.html). Es precio de oferta, sin embargo. Habrá que ver el precio de venta final.
 
 Pasemos ahora a ver un par de magníficos patos, empezando por el
-"chiringuito" Badía, antiguo Oleaje.
+"chiringuito" Badía, antiguo [Oleaje](Oleaje.md).
 

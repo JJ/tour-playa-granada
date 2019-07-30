@@ -89,8 +89,7 @@ la música se escucha hasta más allá del campo de golf. Pero por lo
 menos está abierto. La barca donde se hacían los espetos, tristemente,
 ha desaparecido.
 
-Desde aquí vamos al pato siguiente: La iglesia de Santa Josefina
-Bakhita.
+Desde aquí vamos al pato siguiente: [La iglesia de Santa Josefina Bakhita](iglesia-josefina-bakhita.md).
 
 
 ## Referencias
