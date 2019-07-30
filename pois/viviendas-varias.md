@@ -1,4 +1,4 @@
-# Viviendas notables en primera (o casi) línea de playa.
+# Viviendas notables en la milla de oro
 
 ![Viviendas en la calle Rector Lorenzo Morillas](img/viviendas-rector-lorenzo-morillas.jpg)
 

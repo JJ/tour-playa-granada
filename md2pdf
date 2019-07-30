@@ -12,6 +12,6 @@ pandoc --template="$PWD"/utils/plantilla.latex \
     pois/terrazas-playa-granada-links.md pois/villa-astrida-links.md\
     pois/viviendas-varias-links.md  pois/Oleaje-links.md\
      pois/iglesia-josefina-bakhita-links.md --toc
-rm *-links.md
+rm *-links.md pois/*-links.md
 
 
