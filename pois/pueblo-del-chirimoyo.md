@@ -124,3 +124,5 @@ de la playa, del campo de golf, del pequeño núcleo de restaurantes que
 abren solo de forma estacional.
 
 Y, por supuesto, de Villa Astrida. 
+
+Pero antes, vayamos justo enfrente, a [las terrazas de Playa Granada](terrazas-playa-granada.md)
