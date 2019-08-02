@@ -99,3 +99,5 @@ una publicación sobre Salobreña
 
 
 * [Historia del Peñón de Salobreña](http://revistas.uned.es/index.php/ETFVI/article/view/18846), el otro lado del delta del Guadalfeo.
+
+* [Otra casa de Olóriz Arquitectura](http://oloriz.net/playa_granada.html#4)
