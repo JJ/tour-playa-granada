@@ -10,6 +10,7 @@ como físico.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=atalaya-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07VTP9MJT&linkId=05e5ab5ea7b5f620675d13c698e39473"></iframe>
 
+
 ## Historia y naturaleza
 
 *  [Evolución de la costa en Granada](https://books.google.es/books?id=hRlSAQAAQBAJ&pg=PA47&dq=%22playa+granada%22&hl=es&sa=X&ved=0ahUKEwipl9vvtsrjAhVRBGMBHaEBAuUQ6AEIKTAA#v=onepage&q=%22playa%20granada%22&f=false)
@@ -101,3 +102,5 @@ una publicación sobre Salobreña
 * [Historia del Peñón de Salobreña](http://revistas.uned.es/index.php/ETFVI/article/view/18846), el otro lado del delta del Guadalfeo.
 
 * [Otra casa de Olóriz Arquitectura](http://oloriz.net/playa_granada.html#4)
+
+* [Foto de duques de Lécera o Agrela](https://archive.org/details/BSRes0041929EJ/page/n1). Es muy posible que los duques de Agrela conocieran a los padres de Alfonso de Hohenlohe.
