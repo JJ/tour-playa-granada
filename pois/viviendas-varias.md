@@ -17,7 +17,7 @@ Esta casa es muy reciente, de 2017, y además parece que ha creado
 estilo, con una apariencia imitada por la otra vivienda que se está
 construyendo (en 2019) justo al lado de la iglesia, y sobre la que no
 he podido encontrar gran cosa. Podemos hacer referencia una vez más al
-diálogo, con el color blanco como la vaya de Villa Astrida, pero
+diálogo, con el color blanco como la valla de Villa Astrida, pero
 también a la luz: la iluminación de esta casa está diseñada por un
 estudio dedicado a ello, BIG lighting, y aparece [en su web](https://www.biglighting.es/proyectos/vivienda-en-playa-granada/). El
 diseño de los vanos, que también aparece en dicha web, es posible que
