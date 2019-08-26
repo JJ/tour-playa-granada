@@ -34,7 +34,7 @@ que los nobles podían tomar con cucharilla. Pero ni era fácil de
 exportar ni daba tanto dinero como el azúcar.
 
 La familia de su mujer tenía muchos títulos, pero poco pecunio. "Don
-sin din, gilipoyas en latín". La razón por la que se casó con ella fue, posiblemente,
+sin din, gilipollas en latín". La razón por la que se casó con ella fue, posiblemente,
 porque no pudo casarse con una reina, o al menos recibir su
 amor. [El padre de Jaime, y al parecer también su esposa (la de su padre)](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
 estaban [los dos enamorados de la (ex) reina Victoria Eugenia](https://www.lne.es/cultura/2012/11/19/traje-nuevo-emperador/1328754.html). Pero, y
