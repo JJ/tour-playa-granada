@@ -112,3 +112,5 @@ Desde aquí vamos al pato siguiente: [La iglesia de Santa Josefina Bakhita](igle
 
 *  [Club de ocio chill out Swing](http://www.elfaromotril.es/2012/09/15/el-club-de-ocio-%E2%80%98swing%E2%80%99-chill-out-de-playa-granada-sera-referente-turistico-de-la-costa-granadina/),
   el nombre original.
+
+* [El juicio de Oleaje](https://cadenaser.com/emisora/2019/07/02/radio_motril/1562069221_752268.html)
