@@ -65,7 +65,7 @@ una publicación sobre Salobreña
 
 * [Los Moriscos Club de Golf](http://www.juntadeandalucia.es/turismoycomercio/publicaciones/143334969_Cap10.pdf)
 
-* [Loreto Spa en Tele Motril](https://twitter.com/OleajeGranada/status/336796344792518656) 
+* [Loreto Spa en Tele Motril](https://twitter.com/OleajeGranada/status/336796344792518656)
 
 * [Construcciones Calderón](https://www.construccionescalderon.com/es/Proyectos-Construcciones-Calderon) que construyó la iglesia.
 
@@ -108,8 +108,8 @@ una publicación sobre Salobreña
 
 
 * [Recasamiento de Balduino y Fabiola](https://www.lameuse.be/429008/article/2019-08-27/revelations-le-remariage-secret-de-baudouin-et-fabiola)
-* [Historia del noviazgo](https://books.google.es/books?id=900EAAAAMBAJ&pg=PA92&lpg=PA92&dq=baudouin+and+fabiola+secrets&source=bl&ots=o0Pz5E78_y&sig=ACfU3U2aerVreQPwb4wGwx2SS9f-gCa5nQ&hl=es&sa=X&ved=2ahUKEwjI5eW_pf7pAhWJmBQKHXsKBMoQ6AEwFXoECAkQAQ#v=onepage&q=baudouin%20and%20fabiola%20secrets&f=false=
-* Hay rumores de que hay una "Fundación Astrida" en Liechtenstein con fondos secretos, y [algunos en Estados Unidos]8https://books.google.es/books?id=xWpxAAAAQBAJ&pg=PT166&lpg=PT166&dq=%22BOUDEWIJN%22+%22stichting+astrida%22+liechtenstein&source=bl&ots=EzhkVVQd-o&sig=ACfU3U0qHY5OC9zQ6kFgIBGfi_GXGEDBFA&hl=es&sa=X&ved=2ahUKEwjhhPjwpv7pAhUGohQKHeeQD4kQ6AEwAHoECAcQAQ#v=onepage&q=%22BOUDEWIJN%22%20%22stichting%20astrida%22%20liechtenstein&f=false).
+* [Historia del noviazgo](https://books.google.es/books?id=900EAAAAMBAJ&pg=PA92&lpg=PA92&dq=baudouin+and+fabiola+secrets&source=bl&ots=o0Pz5E78_y&sig=ACfU3U2aerVreQPwb4wGwx2SS9f-gCa5nQ&hl=es&sa=X&ved=2ahUKEwjI5eW_pf7pAhWJmBQKHXsKBMoQ6AEwFXoECAkQAQ#v=onepage&q=baudouin%20and%20fabiola%20secrets&f=false=)
+* Hay rumores de que hay una "Fundación Astrida" en Liechtenstein con fondos secretos, y [algunos en Estados Unidos](https://books.google.es/books?id=xWpxAAAAQBAJ&pg=PT166&lpg=PT166&dq=%22BOUDEWIJN%22+%22stichting+astrida%22+liechtenstein&source=bl&ots=EzhkVVQd-o&sig=ACfU3U0qHY5OC9zQ6kFgIBGfi_GXGEDBFA&hl=es&sa=X&ved=2ahUKEwjhhPjwpv7pAhUGohQKHeeQD4kQ6AEwAHoECAcQAQ#v=onepage&q=%22BOUDEWIJN%22%20%22stichting%20astrida%22%20liechtenstein&f=false).
 * [Más historias del noviazgo](https://www.lesoir.be/art/1286062/article/soirmag/soirmag-histoire/2016-08-08/baudouin-et-fabiola-un-couple-fusionnel), y sus nombres en código: Luigi y Ávila.
 * [Reportaje de la boda](https://www.vogue.com.au/celebrity/royals/inside-king-baudouin-and-queen-fabiolas-1960-wedding/image-gallery/85d5c780a83fc28fe5075eb873bfe1ce)te A
 * [Yate Avila](https://inventaris.onroerenderfgoed.be/erfgoedobjecten/99091)

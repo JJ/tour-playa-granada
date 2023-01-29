@@ -74,7 +74,7 @@ hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién
 sabe.
 
 El mito originario de la playa dice que, en un viaje a Motril, el rey
-Balduio de Bélgica se quedó prendado de esta zona. Sería mucha
+Balduino de Bélgica se quedó prendado de esta zona. Sería mucha
 casualidad que esta zona, que entonces se llamaba el pago del Vasco,
 fuera precisamente propiedad de su cuñado. Pero fuera primero la
 gallina que el huevo, parte del pago del Vasco acabó en manos de la
