@@ -2,8 +2,8 @@
 
 Tour por Playa Granada, un recorrido histórico y arquitectónico de
 esta urbanización. Empieza por [esta introducción](intro.md) y ve
-siguiendo los puntos de interés, comenzando
-por [el poblado del Chirimoyo](pois/pueblo-del-chirimoyo.md).
+siguiendo los puntos de interés, comenzando por [el "pueblo del
+Chirimoyo"](pois/pueblo-del-chirimoyo.md).
 
 También lo puedes adquirir como libro tanto en formato electrónico
 como físico.
