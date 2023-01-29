@@ -1,4 +1,4 @@
-# Oleaje
+# Oleaje/Badía beach club
 
 ![Oleaje en su forma original](img/oleaje.jpg)
 
