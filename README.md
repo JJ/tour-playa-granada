@@ -1,4 +1,4 @@
-# Un tour por Playa Granada
+# Un tour por Playa Granada [![Comprueba texto](https://github.com/JJ/tour-playa-granada/actions/workflows/check-md.yml/badge.svg)](https://github.com/JJ/tour-playa-granada/actions/workflows/check-md.yml)
 
 Tour por Playa Granada, un recorrido histórico y arquitectónico de
 esta urbanización. Empieza por [esta introducción](intro.md) y ve
