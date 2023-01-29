@@ -48,10 +48,10 @@ que el Ayuntamiento sacó un concurso de ideas para construir un, no
 sabría como decirlo, centro de ocio o algo así, chiringuito 2.0, algo
 por el estilo.
 
-El concurso lo ganó una empresa
-llamada
-[Swing Chill Out](http://www.elfaromotril.es/2012/09/15/el-club-de-ocio-%E2%80%98swing%E2%80%99-chill-out-de-playa-granada-sera-referente-turistico-de-la-costa-granadina/),
-con un diseño de la arquitecta [Loreto Spa](http://www.loretospa.es/oleaje.html), una persona cuya familia ha
+El concurso lo ganó una empresa llamada [Swing Chill
+Out](http://www.elfaromotril.es/2012/09/15/el-club-de-ocio-%E2%80%98swing%E2%80%99-chill-out-de-playa-granada-sera-referente-turistico-de-la-costa-granadina/),
+con un diseño de la arquitecta [Loreto
+Spa](http://www.loretospa.es/oleaje.html), una persona cuya familia ha
 estado ligada a Motril durante mucho tiempo. Y se llamó Oleaje.
 
 El concepto del chiringuito es muy original: en vez del clásico
@@ -95,8 +95,7 @@ Desde aquí vamos al pato siguiente: [La iglesia de Santa Josefina Bakhita](igle
 ## Referencias
 
 *  [Recuperación del Oleaje](https://www.ideal.es/granada/costa/nuevo-inversor-inyecta-20190613203108-nt.html)
-  
-  
+
 *  [Más información y entrevista con Ramón España](https://www.ideal.es/granada/costa/manos-negras-querian-20190613204529-nt.html)
   
 * [Retirada de la concesión administrativa](https://www.motrildigital.com/ayuntamiento-motril-acuerda-extinguir-la-concesion-administrativa-del-chiringuito-oleaje/)
