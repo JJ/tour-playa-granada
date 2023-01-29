@@ -6,7 +6,7 @@ pandoc --template="$PWD"/utils/plantilla.latex \
     -V lang=es-ES \
     -V author='JJ Merelo' -V title='Playa Granada: Arquitectura e Historia'\
     -V documentclass=book\
-    -S --latex-engine=xelatex \
+    --pdf-engine=xelatex \
     -o playa-granada-kdp.pdf \
     intro-links.md  pois/pueblo-del-chirimoyo-links.md\
     pois/terrazas-playa-granada-links.md pois/villa-astrida-links.md\
