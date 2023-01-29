@@ -1,8 +1,6 @@
 use Test::Text;
 
-for my $dir (qw(. pois) ) {
-  my $tesxt = Test::Text->new($dir, ".", "Spanish", @_);
-  $tesxt->check();
-}
+use Test::Text;
+just_check( '.','.', 'Spanish',0 );
+just_check( 'pois','.', 'Spanish' );
 
-done_testing;
