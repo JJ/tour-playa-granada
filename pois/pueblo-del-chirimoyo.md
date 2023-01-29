@@ -2,82 +2,99 @@
 
 ![Puerta del Pueblo del Chirimoyo, con fecha de construcción](img/poblado-chirimoyo.jpg)
 
-Imaginemos la escena en Marbella, circa 1965. La familia Mora y Aragón
+Imaginemos la escena en Marbella, circa 1958. La familia Mora y Aragón
 se reúne en torno a una botella de coñac Soberano, que para eso son de
 la realeza. Se encuentran allí Jaime de Mora y Aragón, quizás su
 hermana Ana, y el marido de la misma, el conde de Agrela. Tras rajar
-un poco de su [cuñada, que no le había invitado a su boda](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Boda),
-que es algo muy español, 
-Jaime se
-jacta de como él está creando el nuevo Cannes en el Mediterráneo allí
-mismo, en Marbella. De
-un pueblecito de pescadores, y gracias a su *persona* creada a pulso
-(y también un poco a Alfonso de Hohenlohe), Marbella ha atraído a toda la jet set a
-base de alojamientos de lujo, campos de golf e imagino que algún cable
-del ministro de Turismo, don Manuel Fraga Iribarne...
+un poco de su [cuñada, que no le había invitado a su
+boda](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Boda),
+que es algo muy español, Jaime se jacta de como él está creando el
+nuevo Cannes en el Mediterráneo allí mismo, en Marbella. De un
+pueblecito de pescadores, y gracias a su *persona* creada a pulso (y
+también un poco a Alfonso de Hohenlohe), Marbella acabaría atrayendo a
+toda la *jet set* a base de alojamientos de lujo, campos de golf e
+imagino que algún cable del ministro de Turismo, don Manuel Fraga
+Iribarne...
+
+> Fraga fue ministro de Turismo desde 1962 a 1969.
 
 Jaime de Silva y Agrela, conde de Agrela y duque de Lécera, se mesa un poco la barba.
 
-> Vamos a imaginar que tiene barba. Puede rascarse también el
-> colodrillo, pero qué diablos, es noble y tiene barba y todo el
-> derecho a mesársela, aunque sea en presencia de la plebe.
+> Vamos a imaginar que tiene barba, una perilla en concreto, a la
+> manera de Jaime de Mora y Aragón, su cuñado y tocayo. Puede rascarse
+> también el colodrillo, pero qué diablos, es noble y tiene barba y
+> bigotes puntiagudos y todo el derecho a mesársela, aunque sea en
+> presencia de la plebe.
 
-Sus terrenos en Motril, y había bastantes, porque los Agrela, en la
-época tras la
-guerra,
-[eran los mayores propietarios de tierras dedicadas a la caña de azúcar de la zona](https://issuu.com/antonioromera/docs/historia_de_motril_y_la_costa_de_gr). heredados
-de la  [época en la que se creó el título nobiliario](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/), de la época del oro blanco, la caña de azúcar que
-tantas fortunas (y títulos, si tenías la fortuna de caerle bien a
-algún Alfonso Equis con una o dos "I"s), estaba de capa caída. Toda la
-costa había empezado a popularizar el chirimoyo, la "manzana de nata"
-que los nobles podían tomar con cucharilla. Pero ni era fácil de
-exportar ni daba tanto dinero como el azúcar.
+El conde de Agrela pensaba en sus terrenos en Motril, y había
+bastantes, porque los Agrela, en la época tras la guerra, [eran los
+mayores propietarios de tierras dedicadas a la caña de azúcar de la
+zona](https://issuu.com/antonioromera/docs/historia_de_motril_y_la_costa_de_gr). Heredados
+de la [época en la que se creó el título
+nobiliario](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
+que fue la llamada "Era del oro blanco", la caña de azúcar que tantas
+fortunas (y títulos, si tenías la fortuna de caerle bien a algún
+Alfonso Equis con  dos o tres "I"s), estaba de capa caída. Toda la costa
+había empezado a popularizar el chirimoyo, la "manzana de nata" que
+los nobles podían tomar con cucharilla. Pero ni era fácil de exportar
+ni daba tanto dinero como el azúcar.
 
-La familia de su mujer tenía muchos títulos, pero poco pecunio. "Don
-sin din, gilipollas en latín". La razón por la que se casó con ella fue, posiblemente,
-porque no pudo casarse con una reina, o al menos recibir su
-amor. [El padre de Jaime, y al parecer también su esposa (la de su padre)](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
-estaban [los dos enamorados de la (ex) reina Victoria Eugenia](https://www.lne.es/cultura/2012/11/19/traje-nuevo-emperador/1328754.html). Pero, y
-esto ya parece una historia de Johan Sebastian Mastropiero, en
-realidad quien buscaba el amor de la reina era nuestro Jaime. 
+El dinero tampoco iba a venir de la familia política, tenía muchos
+títulos, pero poco pecunio. "Don sin din, gilipollas en latín". La
+razón por la que se casó con ella fue, posiblemente, porque no pudo
+casarse con una reina, o al menos recibir su amor. [El padre de Jaime,
+y al parecer también su esposa (la de su
+padre)](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
+estaban [los dos enamorados de la (ex) reina Victoria
+Eugenia](https://www.lne.es/cultura/2012/11/19/traje-nuevo-emperador/1328754.html). Pero,
+y esto ya parece una historia de Johan Sebastian Mastropiero, en
+realidad quien buscaba el amor de la reina era nuestro Jaime.
 
 > Conste que esta historia es posible que no tenga ni la más mínima
 > credibilidad. Pero no deja de tener gracia. 
 
-Que al
-no poder conseguirlo (o conseguirlo con una frecuencia menor a la
-deseada), acabó con una hermana de reina. Pero sin reino y sin
-dinero. Había que buscar algo para sacar dinero, como los chirimoyos o
-los aguacates.
+Don Jaime, al no poder conseguir el amor de una reina (o conseguirlo
+con una frecuencia menor a la deseada), acabó con una hermana de
+reina. Pero sin reino y sin dinero. Había que buscar algo para sacar
+dinero, porque en los años cincuenta la caña de azúcar empezaba a
+entrar en un periodo de declive letal, como los chirimoyos o los
+aguacates.
 
 O como el turismo. ¿Qué puedo hacer? "El turismo es un gran invento",
-decía Paco Martínez Soria y Jaime de Mora y Aragón. Golf y realeza
-atraen turismo, y turismo con dinero. Y casualmente, el conde de
-Agrela tenía realeza en la misma familia. [Pero Jaime falleció en 1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
+decía Paco Martínez Soria y se pudo decir Jaime de Mora y Aragón. Golf
+y realeza atraen turismo, y turismo con dinero. Y casualmente, el
+conde de Agrela tenía realeza en la misma familia. [Pero Jaime
+falleció en
+1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
 que ducados, sociedades y todo, pasarían a su hijo, Jaime de Silva y
 Mora (que fue quien heredó el ducado) o a una sociedad formada por
-[todos los hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién sabe.
+[todos los
+hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién
+sabe.
 
-El mito originario de la playa dice que, en un viaje a Motril, el rey se
-quedó prendado de esta zona. Sería mucha casualidad que esta zona, el
-pago del Vasco, fuera precisamente propiedad de su cuñado. Pero fuera
-primero la gallina que el huevo, parte del pago del Vasco acabó en
-manos de la familia real belga (o del estado belga, a saber) y el
-resto siguió en manos del conde de Agrela. Se creó la empresa "Costa
-Granada, S. A.", y se puso a desarrollar la zona.
+El mito originario de la playa dice que, en un viaje a Motril, el rey
+Balduio de Bélgica se quedó prendado de esta zona. Sería mucha
+casualidad que esta zona, que entonces se llamaba el pago del Vasco,
+fuera precisamente propiedad de su cuñado. Pero fuera primero la
+gallina que el huevo, parte del pago del Vasco acabó en manos de la
+familia real belga (o del estado belga, a saber) y el resto siguió en
+manos del conde de Agrela. Se creó la empresa "Costa Granada, S. A.",
+y esta se puso a desarrollar la zona, comenzando por el susodicho
+pueblo (o poblado) del Chirimoyo.
 
 ![Anuncio de parcelas y viviendas en el Blanco y Negro, 1973](img/byn-1973.png).
 
 El uso del chirimoyo en el nombre refleja, quizás, el cambio de la
-economía de la zona. Durante los años 50 y 60 se habían ido eliminando
-las últimas plantaciones de caña de azúcar y se empezó a plantar
-chirimoyo, una planta con origen en Sudamérica pero cuyo cultivo en la
-costa granadina se expandió a partir de la ciudad de Jete, donde
-tienen origen, además, las dos variedades reconocidas por la
-denominación de origen. El conde de Agrela, sabiamente, vio que no
-podía seguir confiando en la caña de azúcar o en la simple tenencia de
-tierras, y en el Pueblo del Chirimoyo unió las dos nuevas fuentes de
-ingresos: turismo y la fruta.
+economía de la zona que se acababa de producir en aquella
+época. Durante los años 50 y 60 se habían ido eliminando las últimas
+plantaciones de caña de azúcar y se empezó a plantar chirimoyo, una
+planta con origen en Sudamérica pero cuyo cultivo en la costa
+granadina se expandió a partir de la ciudad de Jete, donde tienen
+origen, además, las dos variedades reconocidas por la denominación de
+origen. El conde de Agrela, sabiamente, vio que no podía seguir
+confiando en la caña de azúcar o en la simple tenencia de tierras, y
+en el Pueblo del Chirimoyo unió las dos nuevas fuentes de ingresos:
+turismo y la fruta.
 
 La construcción del campo de golf y del Pueblo del Chirimoyo fueron
 más o menos simultáneas. El campo de golf lo diseñó la empresa Iber
