@@ -5,19 +5,22 @@ __* Los orígenes de playa Granada en los años sesenta *__
 
 Imaginemos la escena en Marbella, circa 1958. La familia Mora y Aragón
 se reúne en torno a una botella de coñac Soberano, que para eso son de
-la realeza. Se encuentran allí Jaime de Mora y Aragón, quizás su
-hermana Ana, y el marido de la misma, el conde de Agrela. Tras rajar
-un poco de su [cuñada, que no le había invitado a su
+la realeza. Se encuentran allí Jaime de Mora y Aragón, su hermana Ana,
+y el marido de la misma, el conde de Agrela, junto con algún adláter y
+sicofante más. Tras rajar un poco de su [cuñada (que más adelante no
+le invitaría a su
 boda](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Boda),
 que es algo muy español, Jaime se jacta de como él está creando el
-nuevo Cannes en el Mediterráneo allí mismo, en Marbella. De un
-pueblecito de pescadores, y gracias a su *persona* creada a pulso (y
-también un poco a Alfonso de Hohenlohe), Marbella acabaría atrayendo a
-toda la *jet set* a base de alojamientos de lujo, campos de golf e
-imagino que algún cable del ministro de Turismo, don Manuel Fraga
-Iribarne...
+nuevo Cannes, una nueva costa Azul, en el Mediterráneo, allí mismo, en
+Marbella. De un pueblecito de pescadores, y gracias al *personaje*
+creado a pulso por sí mismo, y también un poco a Alfonso de Hohenlohe,
+Marbella acabaría atrayendo a toda la *jet set* a base de alojamientos
+de lujo, campos de golf, saraos de postín e imagino que algún cable
+del ministro de Turismo, don Manuel Fraga Iribarne...
 
-> Fraga fue ministro de Turismo desde 1962 a 1969.
+> Fraga fue ministro de Información y Turismo desde 1962 a 1969; en
+> ese momento, finales de los 50, ocupaba la cartera Gabriel Arias
+> Salgado como lo había hecho desde la creación del ministerio a principios de los años 50.
 
 Jaime de Silva y Agrela, conde de Agrela y duque de Lécera, se mesa un poco la barba.
 
