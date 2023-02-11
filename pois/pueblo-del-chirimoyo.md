@@ -20,9 +20,11 @@ del ministro de Turismo, don Manuel Fraga Iribarne...
 
 > Fraga fue ministro de Información y Turismo desde 1962 a 1969; en
 > ese momento, finales de los 50, ocupaba la cartera Gabriel Arias
-> Salgado como lo había hecho desde la creación del ministerio a principios de los años 50.
+> Salgado como lo había hecho desde la creación del ministerio a
+> principios de los años 50.
 
-Jaime de Silva y Agrela, conde de Agrela y duque de Lécera, se mesa un poco la barba.
+Jaime de Silva y Agrela, conde de Agrela y duque de Lécera, se mesa un
+poco la barba mientras escucha a su cuñado Jaime.
 
 > Vamos a imaginar que tiene barba, una perilla en concreto, a la
 > manera de Jaime de Mora y Aragón, su cuñado y tocayo. Puede rascarse
@@ -30,24 +32,27 @@ Jaime de Silva y Agrela, conde de Agrela y duque de Lécera, se mesa un poco la 
 > bigotes puntiagudos y todo el derecho a mesársela, aunque sea en
 > presencia de la plebe.
 
-El conde de Agrela pensaba en sus terrenos en Motril, y había
-bastantes, porque los Agrela, en la época tras la guerra, [eran los
-mayores propietarios de tierras dedicadas a la caña de azúcar de la
-zona](https://issuu.com/antonioromera/docs/historia_de_motril_y_la_costa_de_gr). Heredados
-de la [época en la que se creó el título
+El conde de Agrela pensaba en sus terrenos en Motril, que tenía
+bastantes, porque los condes de Agrela, en la posguerra civil, [eran
+los mayores propietarios de tierras dedicadas a la caña de azúcar de
+la
+zona](https://issuu.com/antonioromera/docs/historia_de_motril_y_la_costa_de_gr),
+heredados de la [época en la que se creó el título
 nobiliario](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
-que fue la llamada "Era del oro blanco", la caña de azúcar que tantas
+que fue la llamada "Era del oro blanco". La caña de azúcar, que tantas
 fortunas (y títulos, si tenías la fortuna de caerle bien a algún
-Alfonso Equis con  dos o tres "I"s), estaba de capa caída. Toda la costa
-había empezado a popularizar el chirimoyo, la "manzana de nata" que
-los nobles podían tomar con cucharilla. Pero ni era fácil de exportar
-ni daba tanto dinero como el azúcar.
+Alfonso Equis con dos o tres "I"s), estaba de capa caída. En toda la
+costa se había empezado a popularizar el chirimoyo, la "manzana de
+nata" (*custard apple*, en inglés) que los nobles podían tomar con
+cucharilla. Pero ni era fácil de exportar ni daba tanto dinero como el
+azúcar, así que no había mucho de donde rascar para poder montar esa
+segunda Marbella.
 
-El dinero tampoco iba a venir de la familia política, tenía muchos
-títulos, pero poco pecunio. "Don sin din, gilipollas en latín". La
-razón por la que se casó con ella fue, posiblemente, porque no pudo
-casarse con una reina, o al menos recibir su amor. [El padre de Jaime,
-y al parecer también su esposa (la de su
+El dinero tampoco iba a venir de la familia política, los Mora y
+Aragón; tenía muchos títulos, pero poco pecunio. "Don sin din,
+gilipollas en latín". La razón por la que se casó con ella fue,
+posiblemente, porque no pudo casarse con una reina, o al menos recibir
+su amor. [El padre de Jaime, y al parecer también su esposa (la de su
 padre)](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
 estaban [los dos enamorados de la (ex) reina Victoria
 Eugenia](https://www.lne.es/cultura/2012/11/19/traje-nuevo-emperador/1328754.html). Pero,
