@@ -1,5 +1,5 @@
 # Pueblo del chirimoyo
-__* Los orígenes de playa Granada en los años sesenta *__
+__*Los orígenes de playa Granada en los años sesenta*__
 
 ![Puerta del Pueblo del Chirimoyo, con fecha de construcción](img/poblado-chirimoyo.jpg)
 
