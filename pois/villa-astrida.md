@@ -1,4 +1,5 @@
 # Villa Astrida
+__*La primera construcción, la más desconocida*__
 
 ![Villa Astrida desde la playa](img/villa-astrida.jpg)
 
@@ -23,23 +24,23 @@ no, de alguna cantera de la misma zona y con características
 similares.
 
 La historia de cómo llegó a estar aquí la hemos adelantado en otros
-capítulos, pero
-el
-[mito fundacional se cuenta aquí](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
+capítulos, pero el [mito fundacional se cuenta
+aquí](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
 posiblemente de las mismas fuentes. Si empezamos muy por el principio,
 Balduino y Fabiola se conocieron de puro milagro; aparentemente lo
-hicieron en [una peregrinación a Lourdes](http://www.scj.es/documentos/02.%20Boletines%20y%20Revistas/A.%20El%20Reino/EL%20Reino%202008/02.2008%20EL%20REINO%20FEBRERO.pdf).
+hicieron en [una peregrinación a
+Lourdes](http://www.scj.es/documentos/02.%20Boletines%20y%20Revistas/A.%20El%20Reino/EL%20Reino%202008/02.2008%20EL%20REINO%20FEBRERO.pdf).
 Saltamos al momento en el que "decidieron" establecer su residencia de
-verano aquí, ya sabéis, vuelo en helicóptero,
-todo eso. En el artículo dice que estaba cubierto de cañas de azúcar,
-lo que a esas alturas de la película (y desde 20 años atrás) era
-posiblemente mentira. Pero la historia, diseñada seguramente por los
-publicistas de la familia Agrela, se ha quedado ahí. También dice que
-el terreno había pertenecido antiguamente a la familia de Fabiola y
-que se le dio como regalo de boda en 1960. También es plausible, pero
-que lo oteara en su viaje en helicóptero desde la sierra no
-tanto. Sería mucha casualidad que en el viaje desde la sierra viera precisamente
-unos terrenos que más adelante le regalaron sus cuñados. 
+verano aquí, ya sabéis, vuelo en helicóptero, todo eso. En el artículo
+dice que estaba cubierto de cañas de azúcar, lo que a esas alturas de
+la película (y desde 20 años atrás) era posiblemente mentira. Pero la
+historia, diseñada seguramente por los publicistas de la familia
+Agrela, se ha quedado ahí. También dice que el terreno había
+pertenecido antiguamente a la familia de Fabiola y que se le dio como
+regalo de boda en 1960. También es plausible, pero que lo oteara en su
+viaje en helicóptero desde la sierra no tanto. Sería mucha casualidad
+que en el viaje desde la sierra viera precisamente unos terrenos que
+más adelante le regalaron sus cuñados.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, que los reyes querían pasar
