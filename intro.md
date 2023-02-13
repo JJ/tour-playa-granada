@@ -59,10 +59,10 @@ real. Por qué lo hizo, lo veremos en el primer capítulo.
 
 ## Introducción a la segunda edición
 
-Unos años después, y un número similar de ejemplares vendidos más
-tarde, el panorama arquitectónico de Playa Granada ha cambiado
-considerablemente. También, supongo, mi habilidad a la hora de
-describirlo. Así que esta nueva edición incluye un nuevo capítulo y
+Unos años después, y un número similar (al de años) de ejemplares
+vendidos más tarde, el panorama arquitectónico de Playa Granada ha
+cambiado considerablemente. También, supongo, mi habilidad a la hora
+de describirlo. Así que esta nueva edición incluye un nuevo capítulo y
 revisa casi en su totalidad el texto de la anterior. Durante este
 tiempo, además, ha fallecido Ángel Gijón, artífice de Las Terrazas, de
 su propia vivienda y del centro deportivo que, en febrero de 2023,
