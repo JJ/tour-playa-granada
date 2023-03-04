@@ -60,26 +60,31 @@ y esto ya parece una historia de Johan Sebastian Mastropiero, en
 realidad quien buscaba el amor de la reina era nuestro Jaime.
 
 > Conste que esta historia es posible que no tenga ni la más mínima
-> credibilidad. Pero no deja de tener gracia. 
+> credibilidad, porque en la corte había muchas envidias y luchas
+> internas y una imaginación calenturienta para atacar a la otra
+> parte. Pero no deja de tener gracia.
 
 Don Jaime, al no poder conseguir el amor de una reina (o conseguirlo
 con una frecuencia menor a la deseada), acabó con una hermana de
 reina. Pero sin reino y sin dinero. Había que buscar algo para sacar
-dinero, porque en los años cincuenta la caña de azúcar empezaba a
-entrar en un periodo de declive letal, como los chirimoyos o los
-aguacates.
+ese dinero, porque en los años cincuenta la caña de azúcar empezaba a
+entrar en un periodo de declive letal al mismo tiempo que emergían los
+chirimoyos o los aguacates. Algo de lo que también carecía don Jaime.
 
-O como el turismo. ¿Qué puedo hacer? "El turismo es un gran invento",
-decía Paco Martínez Soria y se pudo decir Jaime de Mora y Aragón. Golf
-y realeza atraen turismo, y turismo con dinero. Y casualmente, el
-conde de Agrela tenía realeza en la misma familia. [Pero Jaime
-falleció en
+O como emergía el turismo. "¿Qué puedo hacer?", se preguntaría Don
+Jaime. "El turismo es un gran invento", decía Paco Martínez Soria y le
+pudo decir Jaime de Mora y Aragón, el que se mesaba las barbas al
+principio del capítulo. Golf y realeza atraen turismo, y turismo con
+dinero. Y casualmente, el conde de Agrela tenía realeza en la misma
+familia. [Pero el conde Don Jaime falleció en
 1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
 que ducados, sociedades y todo, pasarían a su hijo, Jaime de Silva y
 Mora (que fue quien heredó el ducado) o a una sociedad formada por
 [todos los
-hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién
-sabe.
+hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién sabe
+quién fue el pionero, pero en todo caso, para esa época ya estaba
+instalada la realeza, y el golf estaba a punto de llegar. Al turismo,
+así en general, todavía le faltaba.
 
 El mito originario de la playa dice que, en un viaje a Motril, el rey
 Balduino de Bélgica se quedó prendado de esta zona. Sería mucha
