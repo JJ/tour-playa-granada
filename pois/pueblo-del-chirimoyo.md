@@ -147,10 +147,12 @@ incluso ahora cuenta solamente con otros dos campos.
 > en la segunda decena del siglo XXI, y tuvo que ser rescatado por el Ayuntamiento.
 
 El nombre, en realidad, se refiere a Salobreña, que también se le
-conoce como el pueblo del chirimoyo. Pero puede ser que se llame así
-porque antes hubiera aquí campos de ese fruto, o simplemente para
-recordar con cierta ironía qué es lo que había querido abandonar el
-conde de Agrela para convertir Playa Granada en la Nueva Marbella.
+conoce por ese apodo. Pero puede ser que se llame así porque antes
+hubiera aquí campos de ese fruto (aunque sinceramente lo dudo, no dio
+tiempo a plantarlos, porque se empezaron a extender en los años 60), o
+simplemente para recordar con cierta ironía qué es lo que había
+querido abandonar el conde de Agrela para convertir Playa Granada en
+la Nueva Marbella.
 
 La construcción comenzaría en los años 70; en el año 72 hay una
 solicitud de acometida eléctrica para esta zona. En esa época ya
@@ -158,7 +160,7 @@ existía Villa Astrida, pero nada más.
 
 > Algún artículo menciona una construcción adicional, quizás un
 > cortijo o una cabaña de aperos. Cabaña de aperos que ha desaparecido
-> totalmente. 
+> totalmente.
 
 No solo se copió el modelo de desarrollo de Marbella, sino que también
 el estilo en el que se construyó esta primera urbanización vino,
