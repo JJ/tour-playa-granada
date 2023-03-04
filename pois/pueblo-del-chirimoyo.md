@@ -76,7 +76,11 @@ Jaime. "El turismo es un gran invento", decía Paco Martínez Soria y le
 pudo decir Jaime de Mora y Aragón, el que se mesaba las barbas al
 principio del capítulo. Golf y realeza atraen turismo, y turismo con
 dinero. Y casualmente, el conde de Agrela tenía realeza en la misma
-familia. [Pero el conde Don Jaime falleció en
+familia, así que la realeza podía darse por atraída, aunque había que
+darle un empujoncito (y veremos con más profundidad en el capítulo
+siguiente). El resto dependía de ellos.
+
+[Pero el conde Don Jaime falleció en
 1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
 que ducados, sociedades y todo, pasarían a su hijo, Jaime de Silva y
 Mora (que fue quien heredó los condados y el ducado) o a una sociedad
@@ -103,24 +107,44 @@ puede).
 
 ![Anuncio de parcelas y viviendas en el Blanco y Negro, 1973](img/byn-1973.png).
 
+Así fue como, eventualmente, lindando con el campo de golf y a un tiro
+de piedra de los terrenos que se le cedieron a Balduino y Fabiola, se
+creó el Pueblo del Chirimoyo, en unos terrenos que decidió desarrollar
+la familia por su cuenta.
+
 El uso del chirimoyo en el nombre refleja, quizás, el cambio de la
 economía de la zona que se acababa de producir en aquella
 época. Durante los años 50 y 60 se habían ido eliminando las últimas
 plantaciones de caña de azúcar y se empezó a plantar chirimoyo, una
 planta con origen en Sudamérica pero cuyo cultivo en la costa
-granadina se expandió a partir de la ciudad de Jete, donde tienen
-origen, además, las dos variedades reconocidas por la denominación de
-origen. El conde de Agrela, sabiamente, vio que no podía seguir
-confiando en la caña de azúcar o en la simple tenencia de tierras, y
-en el Pueblo del Chirimoyo unió las dos nuevas fuentes de ingresos:
-turismo y la fruta.
+granadina se expandió a partir del pueblo de Jete (el verdadero
+*pueblo del Chirimoyo*), donde se crearon, además, las dos variedades
+reconocidas por la denominación de origen.
+
+Se ve que el conde de Agrela, o a esas alturas, su familia,
+sabiamente, vio que no podía seguir confiando en la caña de azúcar o
+en la simple tenencia de tierras, y en el Pueblo del Chirimoyo unió
+las dos nuevas fuentes de ingresos: turismo y la fruta. Pero sobre
+todo el turismo, que es menos esclavo que la agricultura; la fruta, sólo en nombre.
+
+> En Playa Granada, a estas alturas de 2023, todavía hay terrenos
+> agrícolas más o menos en explotación; hasta hace nada, en la calle
+> Federico Mayor Zaragoza, al principio según se llega desde el camino
+> del Río Seco, había una haza de repollos.
 
 La construcción del campo de golf y del Pueblo del Chirimoyo fueron
-más o menos simultáneas. El campo de golf lo diseñó la empresa Iber
-Golf, que ya ha desaparecido, y fue uno de los primeros de Andalucía;
-en concreto, el sexto, después de 5 campos en Cádiz (Sotogrande) y en
-la provincia de Málaga. Por supuesto, el primero de la provincia de
-Granada, que incluso ahora cuenta solamente con otros dos campos.
+más o menos simultáneas, y tuvieron lugar a finales de los años
+sesenta. El campo de golf lo diseñó la empresa Iber Golf, que ya ha
+desaparecido, y fue uno de los primeros de Andalucía; en concreto, el
+sexto, después de 5 campos en Cádiz (Sotogrande) y en la provincia de
+Málaga. Por supuesto, el primero de la provincia de Granada, que
+incluso ahora cuenta solamente con otros dos campos.
+
+> Solamente, o quién sabe, porque están a pocos quilómetros unos de
+> otros y a saber si hay tanto aficionado como para mantenerlos. De
+> hecho, el de playa Granada estuvo a [punto de
+> quebrar](https://www.granadahoy.com/granada/Motril-rescate-campo-golf_0_1052895263.html)
+> en la segunda decena del siglo XXI, y tuvo que ser rescatado por el Ayuntamiento.
 
 El nombre, en realidad, se refiere a Salobreña, que también se le
 conoce como el pueblo del chirimoyo. Pero puede ser que se llame así
