@@ -79,22 +79,27 @@ dinero. Y casualmente, el conde de Agrela tenía realeza en la misma
 familia. [Pero el conde Don Jaime falleció en
 1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
 que ducados, sociedades y todo, pasarían a su hijo, Jaime de Silva y
-Mora (que fue quien heredó el ducado) o a una sociedad formada por
-[todos los
+Mora (que fue quien heredó los condados y el ducado) o a una sociedad
+formada por [todos los
 hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién sabe
 quién fue el pionero, pero en todo caso, para esa época ya estaba
 instalada la realeza, y el golf estaba a punto de llegar. Al turismo,
 así en general, todavía le faltaba.
 
-El mito originario de la playa dice que, en un viaje a Motril, el rey
-Balduino de Bélgica se quedó prendado de esta zona. Sería mucha
-casualidad que esta zona, que entonces se llamaba el pago del Vasco,
-fuera precisamente propiedad de su cuñado. Pero fuera primero la
-gallina que el huevo, parte del pago del Vasco acabó en manos de la
-familia real belga (o del estado belga, a saber) y el resto siguió en
-manos del conde de Agrela. Se creó la empresa "Costa Granada, S. A.",
-y esta se puso a desarrollar la zona, comenzando por el susodicho
-pueblo (o poblado) del Chirimoyo.
+Ya hemos mencionado que el origen mítico de Playa Granada dice que, en
+un viaje a Motril, el rey Balduino de Bélgica se quedó prendado de
+esta zona. Sería mucha casualidad que la zona de la que se enamoró,
+que entonces se llamaba el pago del Vasco, fuera precisamente
+propiedad de su concuñado. Pero fuera primero la gallina que el huevo,
+parte del pago del Vasco acabó en manos de la familia real belga (o
+del estado belga, a saber) y el resto siguió en manos del conde de
+Agrela. Se creó la empresa "Costa Granada, S. A.", y esta se puso a
+desarrollar la zona, comenzando por el susodicho pueblo (o poblado)
+del Chirimoyo; el logo de la empresa, que mostramos abajo, establecía
+también las bondades del lugar: parece una Granada, y tiene la silueta
+del Mulhacén para dejar claro que la nevada Sierra Nevada se puede
+contemplar desde la misma playa (no siempre, es cierto, pero se
+puede).
 
 ![Anuncio de parcelas y viviendas en el Blanco y Negro, 1973](img/byn-1973.png).
 
