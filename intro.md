@@ -54,8 +54,9 @@ Es posible que Playa Granada hubiera existido sin los reyes, los
 
 En el principio, por tanto, fue Villa Astrida. Pero en el origen del
 barrio estuvo el [Pueblo del Chirimoyo](pois/pueblo-del-chirimoyo.md),
-cuyo propietario, el conde de Agrela, cedió los terrenos a la familia
-real. Por qué lo hizo, lo veremos en el primer capítulo.
+cuyo constructor y propietario de los terrenos, el conde de Agrela,
+cedió los terrenos a la familia real. Por qué lo hizo, lo veremos en
+el primer capítulo.
 
 ## Introducción a la segunda edición
 
