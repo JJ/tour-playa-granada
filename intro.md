@@ -1,8 +1,8 @@
-# Introducción.
+# Introducción
 
 Lo de "antes todo esto era campo" es en Playa Granada más cierto que
 en muchos otros sitios. De hecho, le subo una: antes, todo esto era
-mar. En el siglo XVIII el mar cubría todo lo que es ahora los primeros
+mar. En el siglo XVIII el mar cubría toda la zona ocupada ahora por los primeros
 hoyos del Campo de Golf Los Moriscos, y posiblemente gran parte del
 resto. ¿Qué cambió de entonces a ahora? Las aportaciones del río
 Guadalfeo, que fueron creando tierra a ambos lados de su
@@ -30,7 +30,7 @@ con visión de futuro.
 Por ejemplo, en [un artículo de Granada
 Hoy](https://www.granadahoy.com/granada/Villa-Astrida-queda-epoca-dorada_0_709429403.html)
 afirma que fue la familia Agrela y que lo cedió a muy bajo precio por
-ser parientes de Fabiola, por otro lado; aunque [en este otro artículo
+ser parientes de Fabiola. Por otro lado, [en este otro artículo
 de Motril Digital dice que fue el conde de Agrela quien se lo
 regaló](http://motrildigital.mobile.blogia.com/2011/agosto.php) sin
 que hubiera ninguna venta por medio.
@@ -47,14 +47,14 @@ que hubiera ninguna venta por medio.
 > ayudar a sus promociones inmobiliarias. Y que formara parte de esa
 > visión de la que estábamos hablando.
 
-Es posible que Playa Granada hubiera existido sin los reyes y
-sin Villa Astrida, pero desde luego la historia habría sido totalmente
-diferentes. Y la arquitectura también. Y de las dos cosas hablaremos
-en este panfletillo.
+Es posible que Playa Granada hubiera existido sin los reyes, los
+ duques de Agrela y Villa Astrida, pero desde luego la historia habría
+ sido totalmente diferentes. Y la arquitectura también. Y de las dos
+ cosas hablaremos en este panfletillo.
 
-En el principio, por tanto, fue Villa Astrida. Pero en el origen
-estuvo el [Pueblo del Chirimoyo](pois/pueblo-del-chirimoyo.md), cuyo
-propietario, el conde de Agrela, cedió los terrenos a la familia
+En el principio, por tanto, fue Villa Astrida. Pero en el origen del
+barrio estuvo el [Pueblo del Chirimoyo](pois/pueblo-del-chirimoyo.md),
+cuyo propietario, el conde de Agrela, cedió los terrenos a la familia
 real. Por qué lo hizo, lo veremos en el primer capítulo.
 
 ## Introducción a la segunda edición
