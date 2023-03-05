@@ -164,29 +164,32 @@ encontrado una solicitud de acometida eléctrica para esta zona. En esa
 > construcción estaría en los alrededores del actual Swing Plaza, o
 > enfrente o a la izquierda.
 
-No solo se copió el modelo de desarrollo de Marbella, sino también
-el estilo en el que se construyó esta primera urbanización vino,
+No solo se copió el modelo de desarrollo de Marbella; también el
+estilo en el que se construyó esta primera urbanización vino,
 posiblemente, de allí. El llamado *estilo Mediterráneo*, en realidad,
-se originó en las zonas costeras de Estados Unidos, sobre todo Los
-Angeles y Miami, en los años 30. Pero volvió al Mediterráneo en la
-época del desarrollismo, los años 60, como un estilo *de toda la vida*
-que se caracterizaba por los colores claros, disposición irregular de
-las ventanas, balcones, uso de mosaicos como elementos decorativos,
-patios con fuentes, y en general un estilo parecido a los cortijos o
-casas señoriales de la zona, porque puestos a parecerse a algo, mejor
-a algo que tenga cierta prestancia y distinción.
+se originó en las zonas costeras más cálidas de Estados Unidos, sobre
+todo Los Angeles y Miami, en los años 30. Pero volvió al Mediterráneo
+en la época del desarrollismo, los años 60, como un estilo *de toda la
+vida* que se caracterizaba por los colores claros, disposición
+irregular de las ventanas, balcones, uso de mosaicos como elementos
+decorativos, patios con fuentes, y en general un estilo parecido a los
+cortijos o casas señoriales de la costa mediterránea, porque puestos a
+parecerse a algo, mejor a algo que tenga cierta prestancia y
+distinción.
 
 Pueblo del Chirimoyo, por tanto, se construyó en ese estilo, que se
 parece a la vez a Binibeca, en Menorca, y a la vivienda del dueño de
-un pueblo de la Alpujarra, salvo que esta tenía vista a los
-almendrales y no al campo de golf.
+un pueblo de la Alpujarra, salvo que esta última tendría vista a los
+campos de olivos y almendros y no al campo de golf.
 
-De alguna forma, se convirtió en el pequeño centro de servicios del
-núcleo. Aquí está el supermercado, el kiosco de prensa, y alguna
+Cuando se terminó en 1974 (fecha que está en la puerta de forja), y 
+de alguna forma, se convirtió en el pequeño centro de servicios del
+núcleo. Aquí estaba el supermercado (que cerró en 2019), el kiosco de prensa, y alguna
 oficina de inmobiliaria. Tiene patio, tiene fuente, está a dos pasos
-de la playa, del campo de golf, del pequeño núcleo de restaurantes que
-abren solo de forma estacional.
+de la playa, del campo de golf, y del pequeño núcleo de restaurantes (llamado "la isla"), algunos de los cuales abren solo de forma estacional.
 
-Y, por supuesto, de Villa Astrida. 
+Y, por supuesto, de Villa Astrida.
 
-Pero antes, vayamos justo enfrente, a [las terrazas de Playa Granada](terrazas-playa-granada.md)
+Pero antes de ir a esta Construcción Primigenia, crucemos la calle y
+vayamos justo enfrente, a [las terrazas de Playa
+Granada](terrazas-playa-granada.md)
