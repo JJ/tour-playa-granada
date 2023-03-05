@@ -80,14 +80,13 @@ familia, así que la realeza podía darse por atraída, aunque había que
 darle un empujoncito (y veremos con más profundidad en el capítulo
 siguiente). El resto dependía de ellos.
 
-[Pero el conde Don Jaime falleció en
-1966](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
+[El conde Don Jaime falleció en
+1996](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
 que ducados, sociedades y todo, pasarían a su hijo, Jaime de Silva y
 Mora (que fue quien heredó los condados y el ducado) o a una sociedad
 formada por [todos los
-hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela). Quién sabe
-quién fue el pionero, pero en todo caso, para esa época ya estaba
-instalada la realeza, y el golf estaba a punto de llegar. Al turismo,
+hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela), así que le quedó por ver la verdadera expansión de Playa Granada, que sucedería más adelante. Quién sabe
+quién si realmente fue suya la idea, o no, pero lo cierto es que logró el establecimiento de la realiza, ver la construcción del campo de golf, y tener ciertos beneficios económicos de la venta de terrenos y posiblemente la construcción de este Pueblo. Al turismo,
 así en general, todavía le faltaba.
 
 Ya hemos mencionado que el origen mítico de Playa Granada dice que, en
