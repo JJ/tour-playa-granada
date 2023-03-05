@@ -132,6 +132,14 @@ todo el turismo, que es menos esclavo que la agricultura; la fruta, sólo en nom
 > Federico Mayor Zaragoza, al principio según se llega desde el camino
 > del Río Seco, había una haza de repollos.
 
+El nombre, en realidad, se refiere a Salobreña, que también se le
+conoce por ese apodo. Pero puede ser que se llame así porque antes
+hubiera aquí campos de ese fruto (aunque sinceramente lo dudo, no dio
+tiempo a plantarlos, porque se empezaron a extender en los años 60), o
+simplemente para recordar con cierta ironía qué es lo que había
+querido abandonar el conde de Agrela para convertir Playa Granada en
+la Nueva Marbella.
+
 La construcción del campo de golf y del Pueblo del Chirimoyo fueron
 más o menos simultáneas, y tuvieron lugar a finales de los años
 sesenta. El campo de golf lo diseñó la empresa Iber Golf, que ya ha
@@ -146,23 +154,17 @@ incluso ahora cuenta solamente con otros dos campos.
 > quebrar](https://www.granadahoy.com/granada/Motril-rescate-campo-golf_0_1052895263.html)
 > en la segunda decena del siglo XXI, y tuvo que ser rescatado por el Ayuntamiento.
 
-El nombre, en realidad, se refiere a Salobreña, que también se le
-conoce por ese apodo. Pero puede ser que se llame así porque antes
-hubiera aquí campos de ese fruto (aunque sinceramente lo dudo, no dio
-tiempo a plantarlos, porque se empezaron a extender en los años 60), o
-simplemente para recordar con cierta ironía qué es lo que había
-querido abandonar el conde de Agrela para convertir Playa Granada en
-la Nueva Marbella.
+La construcción comenzaría en los años 70; en el año 72 hemos
+encontrado una solicitud de acometida eléctrica para esta zona. En esa
+época ya existía Villa Astrida, pero nada más.
 
-La construcción comenzaría en los años 70; en el año 72 hay una
-solicitud de acometida eléctrica para esta zona. En esa época ya
-existía Villa Astrida, pero nada más.
+> Algún artículo menciona, y en alguna ortofoto se ve, alguna
+> construcción adicional, quizás un cortijo o una cabaña de
+> aperos. Cabaña de aperos que ha desaparecido totalmente. Esa
+> construcción estaría en los alrededores del actual Swing Plaza, o
+> enfrente o a la izquierda.
 
-> Algún artículo menciona una construcción adicional, quizás un
-> cortijo o una cabaña de aperos. Cabaña de aperos que ha desaparecido
-> totalmente.
-
-No solo se copió el modelo de desarrollo de Marbella, sino que también
+No solo se copió el modelo de desarrollo de Marbella, sino también
 el estilo en el que se construyó esta primera urbanización vino,
 posiblemente, de allí. El llamado *estilo Mediterráneo*, en realidad,
 se originó en las zonas costeras de Estados Unidos, sobre todo Los
