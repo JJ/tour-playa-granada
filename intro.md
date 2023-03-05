@@ -35,7 +35,7 @@ de Motril Digital dice que fue el conde de Agrela quien se lo
 regaló](http://motrildigital.mobile.blogia.com/2011/agosto.php) sin
 que hubiera ninguna venta por medio.
 
-> Buscando, buscando, he encontrado que [el IV duque de Agrela, Jaime
+> Buscando, buscando, he encontrado que [el IV conde de Agrela, Jaime
 > de Silva y Agrela, se casó con Ana María de Mora y
 > Aragón](https://es-es.facebook.com/notes/enrique-lafuente-mu%C3%B1oz/memoria-de-la-realeza-espa%C3%B1ola-de-aquellos-barros-vienen-estos-lodos/3393784494769/),
 > así que resulta que el propietario de los terrenos era [concuñado
@@ -48,7 +48,7 @@ que hubiera ninguna venta por medio.
 > visión de la que estábamos hablando.
 
 Es posible que Playa Granada hubiera existido sin los reyes, los
- duques de Agrela y Villa Astrida, pero desde luego la historia habría
+ condes de Agrela y Villa Astrida, pero desde luego la historia habría
  sido totalmente diferentes. Y la arquitectura también. Y de las dos
  cosas hablaremos en este panfletillo.
 

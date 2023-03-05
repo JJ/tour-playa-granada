@@ -182,11 +182,13 @@ parece a la vez a Binibeca, en Menorca, y a la vivienda del dueño de
 un pueblo de la Alpujarra, salvo que esta última tendría vista a los
 campos de olivos y almendros y no al campo de golf.
 
-Cuando se terminó en 1974 (fecha que está en la puerta de forja), y 
-de alguna forma, se convirtió en el pequeño centro de servicios del
-núcleo. Aquí estaba el supermercado (que cerró en 2019), el kiosco de prensa, y alguna
-oficina de inmobiliaria. Tiene patio, tiene fuente, está a dos pasos
-de la playa, del campo de golf, y del pequeño núcleo de restaurantes (llamado "la isla"), algunos de los cuales abren solo de forma estacional.
+Cuando se terminó en 1974 (fecha que está en la puerta de forja), y de
+alguna forma, se convirtió en el pequeño centro de servicios del
+núcleo. Aquí estaba el supermercado (que cerró en 2019), el kiosco de
+prensa, y alguna oficina de inmobiliaria. Tiene patio, tiene fuente,
+está a dos pasos de la playa, del campo de golf, y del pequeño núcleo
+de restaurantes (llamado "la isla"), algunos de los cuales abren solo
+de forma estacional.
 
 Y, por supuesto, de Villa Astrida.
 

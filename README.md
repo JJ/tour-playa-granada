@@ -102,7 +102,7 @@ una publicación sobre Salobreña
 
 * [Otra casa de Olóriz Arquitectura](http://oloriz.net/playa_granada.html#4)
 
-* [Foto de los duques de Lécera o Agrela](https://archive.org/details/BSRes0041929EJ/page/n1). Es muy posible que los duques de Agrela conocieran a los padres de Alfonso de Hohenlohe.
+* [Foto de los duques de Lécera o Agrela](https://archive.org/details/BSRes0041929EJ/page/n1). Es muy posible que los condes de Agrela conocieran a los padres de Alfonso de Hohenlohe.
 
 ## Sobre Balduino
 
