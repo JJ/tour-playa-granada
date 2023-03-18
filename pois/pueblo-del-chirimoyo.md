@@ -1,5 +1,5 @@
 # Pueblo del chirimoyo
-__*Los orígenes de playa Granada en los años sesenta*__
+__*Los orígenes de Playa Granada en los años sesenta*__
 
 ![Puerta del Pueblo del Chirimoyo, con fecha de construcción](img/poblado-chirimoyo.jpg)
 
@@ -149,7 +149,7 @@ incluso ahora cuenta solamente con otros dos campos.
 
 > Solamente, o quién sabe, porque están a pocos quilómetros unos de
 > otros y a saber si hay tanto aficionado como para mantenerlos. De
-> hecho, el de playa Granada estuvo a [punto de
+> hecho, el de Playa Granada estuvo a [punto de
 > quebrar](https://www.granadahoy.com/granada/Motril-rescate-campo-golf_0_1052895263.html)
 > en la segunda decena del siglo XXI, y tuvo que ser rescatado por el Ayuntamiento.
 
