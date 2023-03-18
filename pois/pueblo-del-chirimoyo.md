@@ -186,8 +186,20 @@ alguna forma, se convirtió en el pequeño centro de servicios del
 núcleo. Aquí estaba el supermercado (que cerró en 2019), el kiosco de
 prensa, y alguna oficina de inmobiliaria. Tiene patio, tiene fuente,
 está a dos pasos de la playa, del campo de golf, y del pequeño núcleo
-de restaurantes (llamado "la isla"), algunos de los cuales abren solo
-de forma estacional.
+de restaurantes (llamado familiarmente "la isla"), algunos de los
+cuales abren solo de forma estacional.
+
+Hoy en día, 50 años, y dos generaciones más tarde, tiene un aspecto un
+tanto desangelado. Un paseo hoy, 18 de marzo y sábado, al atardecer no
+mostraba ninguna luz encendida. El local donde se hacían las reuniones
+y las misas está vacío, a la venta; de hecho, algunos de los locales
+se han intentado colocar como viviendas, sin mucho éxito. El
+supermercado no llegó a abrir después de la pandemia.
+
+El poblado que era el futuro de Playa Granada, y que fue la primera
+frase en el diálogo arquitectónico de la misma, se ha quedado en el
+pasado, con sus persianas de cuerda clavadas al exterior del balcón y
+escaleras empinadas sin ascensor. Quién sabe qué será de ellos.
 
 Y, por supuesto, de Villa Astrida.
 
