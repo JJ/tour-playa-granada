@@ -15,11 +15,12 @@ los granadinos de a pie, se les llegó a conocer como "Los Sanitex", y
 a la prole, "los niñatos Sanitex".
 
 Los chambaos eran para todo el mundo; en El Peñón, que entonces se
-conocía como ["El chambao del Azules"](https://www.ideal.es/granada/costa/201608/11/origen-sanitex-20160803231400.html), cuentan como Balduino llegaba en
-su bicicleta a tomarse imagino que algo más alcohólico que una gaseosa
-Sanitex acompañado de unos espetos. Todo esto viene a decir que esta
-zona, playa Granada, estaba bastante falta de este tipo de
-equipamiento hasta no hace tanto.
+conocía como ["El chambao del
+Azules"](https://www.ideal.es/granada/costa/201608/11/origen-sanitex-20160803231400.html),
+cuentan como Balduino llegaba en su bicicleta a tomarse imagino que
+algo más alcohólico que una gaseosa Sanitex acompañado de unos
+espetos. Todo esto viene a decir que esta zona, Playa Granada, estaba
+bastante falta de este tipo de equipamiento hasta no hace tanto.
 
 No todos los chambaos se dedicaban a la actividad comercial. Algunos
 eran casetas para pasar el verano entero. Cuando llegaban las

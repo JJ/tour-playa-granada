@@ -38,7 +38,7 @@ una publicación sobre Salobreña
 
 * [Pueblo del chirimoyo](http://mirablogdegranada.blogspot.com/2014/08/playa-granada-urbanizacion-pueblo-del.html);
   un
-  [paseo por playa Granada de Carrousel Magazine](http://carrouselmagazine.blogspot.com/2013/08/paseo-por-playa-granada.html) (ver
+  [paseo por Playa Granada de Carrousel Magazine](http://carrouselmagazine.blogspot.com/2013/08/paseo-por-playa-granada.html) (ver
   la foto donde pone 1974) (es sobrenombre de Salobreña). Playa
   Granada se llamó "Urbanización Playa Granada-Pueblo del Chirimoyo",
   y perteneció a Avila Rojas. Según el artículo de Granada Hoy
