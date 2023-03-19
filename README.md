@@ -45,7 +45,7 @@ una publicación sobre Salobreña
   (abajo), el promotor cedió los terrenos a los reyes para promocionar
   la zona.
 
-* [Las terrazas de Playa Granada en Gijón Arquitectura](http://www.gijonarquitectura.com/las_terrazas_de_playa_granada.html),
+* [Las terrazas de Playa Granada en Gijón Arquitectura](https://web.archive.org/web/20161230150700/http://www.gijonarquitectura.com/las_terrazas_de_playa_granada.html),
   [otro artículo sobre Las Terrazas](https://www.plazatio.com/es/proyecto/urbanizacion-las-terrazas-de-playa-granada-2)
 
 * [Mapa del siglo XVIII](http://hera.ugr.es/tesisugr/21930132.pdf),
