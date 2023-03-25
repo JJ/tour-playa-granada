@@ -5,8 +5,17 @@
 Los arquitectos hablan de [diálogo
 arquitectónico](https://www.plataformaarquitectura.cl/cl/776632/150-palabras-o-expresiones-que-solo-usamos-los-arquitectos)
 cuando un proyecto es sensible a su contexto, a los otros edificios
-que hay alrededor y el espacio y luz que crean, *habla* con esos
-edificios o les responde..
+que hay alrededor y el espacio y juego de luces y sombras que crean,
+*habla* con esos edificios o les responde. Un buen estudio de
+arquitectura enmarca sus edificios en este diálogo para crear espacios
+armoniosos, que "peguen", y no una sucesión de adefesios sin nada que
+ver unos con otros. El diálogo hace que la zona sea más agradable para
+la vista, influye positivamente en la calidad de vida, y por supuesto
+hace que el inmueble se revalorice de forma adecuada.
+
+Hace falta ser un buen arquitecto para iniciar o continuar este
+diálogo. Playa Granada y Motril tuvo la fortuna de contar con Ángel
+Gijón, y de que se le encargaran estas terrazas de Playa Granada.
 
 Cuando se construyó el Poblado (o Pueblo) del Chirimoyo, no había mucho que
 dialogar, se trataba más bien de un monólogo. Sin embargo, el contexto
