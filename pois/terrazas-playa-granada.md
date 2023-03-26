@@ -107,8 +107,16 @@ garaje, alguna vez he visto globitos y demás, para celebrar cumpleaños
 y cosas por el estilo. Y reuniones de comunidad en un entorno un poco
 más acogedor que un montón de sillas puestas en un garaje, con alguien
 encargado de encender la luz cuando se vaya apagando (que es lo
-habitual en otras urbanizaciones). También hay un par de pistas de
-pádel. Después de las lluvias de barro del año 2022, las paredes se
+habitual en otras urbanizaciones). No es descartable que esta zona
+común sea parte del diálogo arquitectónico. Después de todo, el Pueblo
+del Chirimoyo la tenía, así que el resto de las construcciones que se
+iniciaron también lo requerían, o al menos el constructor lo solicitó
+a los arquitectos.
+
+También hay un par de pistas de
+pádel.
+
+Después de las lluvias de barro del año 2022, las paredes se
 han quedado un tanto perjudicadas, igual que el resto de las
 urbanizaciones; el color blanco tiene ciertos churretes de color
 exactamente igual al barro. Nada que no arregle una buena derrama con
