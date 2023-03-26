@@ -115,7 +115,7 @@ exactamente igual al barro. Nada que no arregle una buena derrama con
 el tiempo, supongo.
 
 También es única que, al menos en el año 2023, tiene [una página
-web](https://terrazasdeplayagranada.com/). Ahí no shablan del spa, del
+web](https://terrazasdeplayagranada.com/). Ahí nos hablan del spa, del
 jacuzzi, y de muchas otras cosas para las cuales no tenemos
 permiso. Incluso sin él, podemos ver que se pueden hacer reservas del
 pádel y del spa desde él.
