@@ -181,20 +181,56 @@ parece a la vez a Binibeca, en Menorca, y a la vivienda del dueño de
 un pueblo de la Alpujarra, salvo que esta última tendría vista a los
 campos de olivos y almendros y no al campo de golf.
 
+Y es que realmente tiene un patio, alargado, justo detrás de la
+fachada, al que se entra desde la cancela y  al que se
+abren muchas de las casas; otras se abren directamente al interior.
+
+> Desde fuera resulta un poco desconcertante, por la mescolanza de
+> entradas; aparentemente, la torre del extremo más cercano al mar es
+> una sola vivienda, pero otros bloques parecen tener varias
+> viviendas. Hay una torre tipo *loggia*, abierta a todos los puntos
+> cardinales, que parece abandonada, y no está claro si es una zona
+> común o pertenece a una vivienda.
+
+En el patio, que sigue el contorno en sierra de la fachada, hay
+fuentes, maceteros, y se abren escaleras y también locales vacíos con
+cristalera, con apariencia de no haber sido utilizados nunca. Estos
+locales, aparentemente, están a la venta como vivienda; dado que la
+urbanización está cerrada al exterior con una cancela, su uso como
+locales comerciales, al menos de venta el público, habría sido siempre
+cuanto menos dudoso.
+
+Lo que ocurre es que tanto el nombre del bloque como su situación real
+durante casi 30 años traslucía otra intención: el que fuera realmente
+un pueblo andaluz, donde la gente saliera con sus sillas de enea a
+charlar al atardecer, cuando cerraran la piscina. También tenía un
+chiringuito adjunto a la piscina, que aparentemente ya no existe;
+durante algún tiempo apareció en Google Maps y tuvo incluso reseñas en
+Google. Posiblemente no resistió a la pandemia y por supuesto el
+desarrollo hostelero de la barriada, con muchos bares justo a la
+vuelta de la esquina.
+
+El "pueblo" tenía incluso iglesia: un local bajo acristalado, abierto
+tanto hacia la piscina como al exterior, en el extremo más cercano a
+la piscina; un local donde se podían hacer tanto reuniones de
+comunidad, como fiestas, como misas los domingos, y así se estuvo
+haciendo durante bastante tiempo, hasta la construcción de la propia
+iglesia de Santa Josefina Bakhita (de la que hablamos en otro
+capítulo). Una pretensión de totalidad, de urbanismo, aparte de
+arquitectura, de cortijada o de aldea más que de cortijo andaluz.
+
 Cuando se terminó en 1974 (fecha que está en la puerta de forja), y de
 alguna forma, se convirtió en el pequeño centro de servicios del
-núcleo. Aquí estaba el supermercado (que cerró en 2019), el kiosco de
-prensa, y alguna oficina de inmobiliaria. Tiene patio, tiene fuente,
-está a dos pasos de la playa, del campo de golf, y del pequeño núcleo
-de restaurantes (llamado familiarmente "la isla"), algunos de los
-cuales abren solo de forma estacional.
+núcleo, o quizás en el núcleo mismo. Aquí estaba el supermercado (que
+cerró en 2019), el kiosco de prensa, y alguna oficina de inmobiliaria,
+que todavía sigue abierta.
 
-Hoy en día, 50 años, y dos generaciones más tarde, tiene un aspecto un
-tanto desangelado. Un paseo hoy, 18 de marzo y sábado, al atardecer no
-mostraba ninguna luz encendida. El local donde se hacían las reuniones
-y las misas está vacío, a la venta; de hecho, algunos de los locales
-se han intentado colocar como viviendas, sin mucho éxito. El
-supermercado no llegó a abrir después de la pandemia.
+Hoy en día, 50 años, y dos generaciones después de su inauguración,
+tiene un aspecto un tanto desangelado. Un paseo hoy, 18 de marzo y
+sábado, al atardecer no mostraba ninguna luz encendida. El local donde
+se hacían las reuniones y las misas está vacío, a la venta; de hecho,
+algunos de los locales se han intentado colocar como viviendas, sin
+mucho éxito. El supermercado no llegó a abrir después de la pandemia.
 
 El poblado que era el futuro de Playa Granada, y que fue la primera
 frase en el diálogo arquitectónico de la misma, se ha quedado en el
