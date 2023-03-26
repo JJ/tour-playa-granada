@@ -95,6 +95,31 @@ balcones, algún arco de medio punto y las cubiertas de [teja
 > en Motril. Hoy en día, la teja árabe se vende hasta de segunda mano
 > y solo quedan unos cuantos constructores artesanos.
 
+Hoy en día sigue siendo una urbanización bastante popular, aunque los
+pisos no parecen haberse revalorizado mucho desde que se compraron. No
+hay muchos a la venta, pero el que hay, de 175 m2, cuesta menos de
+300000 euros.  Las reseñas en Google se quejan sobre todo del tamaño
+de las piscinas (que, realmente, no son nada del otro jueves) y del
+WiFi de la zona común; lo que me dice que, al parecer, tiene tal zona
+común que no hay en las urbanizaciones más modernas. En esa zona
+común, una construcción separada, al otro lado de la entrada al
+garaje, alguna vez he visto globitos y demás, para celebrar cumpleaños
+y cosas por el estilo. Y reuniones de comunidad en un entorno un poco
+más acogedor que un montón de sillas puestas en un garaje, con alguien
+encargado de encender la luz cuando se vaya apagando (que es lo
+habitual en otras urbanizaciones). También hay un par de pistas de
+pádel. Después de las lluvias de barro del año 2022, las paredes se
+han quedado un tanto perjudicadas, igual que el resto de las
+urbanizaciones; el color blanco tiene ciertos churretes de color
+exactamente igual al barro. Nada que no arregle una buena derrama con
+el tiempo, supongo.
+
+También es única que, al menos en el año 2023, tiene [una página
+web](https://terrazasdeplayagranada.com/). Ahí no shablan del spa, del
+jacuzzi, y de muchas otras cosas para las cuales no tenemos
+permiso. Incluso sin él, podemos ver que se pueden hacer reservas del
+pádel y del spa desde él.
+
 Este respeto al entorno construido, aunque un poco sui géneris, va a
 brillar por su ausencia en casi todo el resto de Playa Granada. No hay
 más que ver los bloques que lo rodean, el Saqqara y, a partir de 2022,
