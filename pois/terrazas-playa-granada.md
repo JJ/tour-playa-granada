@@ -113,8 +113,9 @@ del Chirimoyo la tenía, así que el resto de las construcciones que se
 iniciaron también lo requerían, o al menos el constructor lo solicitó
 a los arquitectos.
 
-También hay un par de pistas de
-pádel.
+También hay un par de pistas de pádel; un tipo de servicios para una
+urbanización concebida para algo más que el sol y la playa; en tono
+con el nivel de turismo que se esperaba para esta zona.
 
 Después de las lluvias de barro del año 2022, las paredes se
 han quedado un tanto perjudicadas, igual que el resto de las
