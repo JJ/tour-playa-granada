@@ -85,9 +85,14 @@ siguiente). El resto dependía de ellos.
 que ducados, sociedades y todo, pasarían a su hijo, Jaime de Silva y
 Mora (que fue quien heredó los condados y el ducado) o a una sociedad
 formada por [todos los
-hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela), así que le quedó por ver la verdadera expansión de Playa Granada, que sucedería más adelante. Quién sabe
-quién si realmente fue suya la idea, o no, pero lo cierto es que logró el establecimiento de la realiza, ver la construcción del campo de golf, y tener ciertos beneficios económicos de la venta de terrenos y posiblemente la construcción de este Pueblo. Al turismo,
-así en general, todavía le faltaba.
+hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela), así que le
+quedó por ver la verdadera expansión de Playa Granada, que sucedería
+pocos años más adelante. Quién sabe quién si realmente fue suya la
+idea, o no, pero lo cierto es que logró el establecimiento de la
+realiza, ver la construcción del campo de golf, y tener ciertos
+beneficios económicos de la venta de terrenos y posiblemente la
+construcción de este Pueblo. Al turismo, así en general, todavía le
+faltaba.
 
 Ya hemos mencionado que el origen mítico de Playa Granada dice que, en
 un viaje a Motril, el rey Balduino de Bélgica se quedó prendado de
@@ -165,16 +170,18 @@ encontrado una solicitud de acometida eléctrica para esta zona. En esa
 
 No solo se copió el modelo de desarrollo de Marbella; también el
 estilo en el que se construyó esta primera urbanización vino,
-posiblemente, de allí. El llamado *estilo Mediterráneo*, en realidad,
-se originó en las zonas costeras más cálidas de Estados Unidos, sobre
-todo Los Angeles y Miami, en los años 30. Pero volvió al Mediterráneo
-en la época del desarrollismo, los años 60, como un estilo *de toda la
-vida* que se caracterizaba por los colores claros, disposición
-irregular de las ventanas, balcones, uso de mosaicos como elementos
-decorativos, patios con fuentes, y en general un estilo parecido a los
-cortijos o casas señoriales de la costa mediterránea, porque puestos a
-parecerse a algo, mejor a algo que tenga cierta prestancia y
-distinción.
+posiblemente, de allí, aunque también es bastante probable que tomara
+inspiración en Villa Astrida, que llevaba allí unos cuantos años
+cuando se empezó a construir. El llamado *estilo Mediterráneo*, en
+realidad, se originó en las zonas costeras más cálidas de Estados
+Unidos, sobre todo Los Angeles y Miami, en los años 30. Pero volvió al
+Mediterráneo en la época del desarrollismo, los años 60, como un
+estilo *de toda la vida* que se caracterizaba por los colores claros,
+disposición irregular de las ventanas, balcones, uso de mosaicos como
+elementos decorativos, patios con fuentes, y en general un estilo
+parecido a los cortijos o casas señoriales de la costa mediterránea,
+porque puestos a parecerse a algo, mejor a algo que tenga cierta
+prestancia y distinción.
 
 Pueblo del Chirimoyo, por tanto, se construyó en ese estilo, que se
 parece a la vez a Binibeca, en Menorca, y a la vivienda del dueño de
@@ -230,7 +237,7 @@ tiene un aspecto un tanto desangelado. Un paseo hoy, 18 de marzo y
 sábado, al atardecer no mostraba ninguna luz encendida. El local donde
 se hacían las reuniones y las misas está vacío, a la venta; de hecho,
 algunos de los locales se han intentado colocar como viviendas, sin
-mucho éxito. El supermercado no llegó a abrir después de la pandemia.
+mucho éxito. El supermercado no volvió a abrir después de la pandemia.
 
 El poblado que era el futuro de Playa Granada, y que fue la primera
 frase en el diálogo arquitectónico de la misma, se ha quedado en el
