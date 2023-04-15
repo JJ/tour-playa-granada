@@ -4,43 +4,56 @@ __*La primera construcción, la más desconocida*__
 ![Villa Astrida desde la playa](img/villa-astrida.jpg)
 
 Villa Astrida fue la residencia de verano de los reyes de Bélgica
-hasta su muerte. Ahora parece [que se pretende convertir en un hotel
-de
-lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611),
-pero mientras tanto nos falta una visión general y poco sabemos de su
-decoración, cómo está distribuida, o qué estilo tiene. Imaginamos que,
-como el Pueblo del Chirimoyo, y por las pocas imágenes que hay, se
-trata de una mansión estilo mediterráneo, pasado quizás por el Atomium
-de Bruselas. O a saber. Según [el artículo-obituario de Balduino en
+hasta su muerte; literalmente, porque Balduino murió en este preciso lugar.
+
+Desde entonces, permanece (más o menos) vacía, aunque periódicamente
+corren rumores sobre ella, por ejemplo, [que se pretende convertir en
+un hotel de
+lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). Si
+tal cosa sucede, seguramente se abrirá al público; pero mientras tanto
+nos falta una visión general y poco sabemos de su decoración, cómo
+está distribuida, o qué estilo tiene. Imaginamos que, como el Pueblo
+del Chirimoyo, y por las pocas imágenes que hay, se trata de una
+mansión estilo mediterráneo, pasado quizás por el Atomium de
+Bruselas. O a saber. Según [el artículo-obituario de Balduino en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría esa teja árabe que es
-característica del estilo mediterráneo. También usa piedra blanca (en
-vez del encalado mediterráneo, porque hasta ahí podíamos llegar); la
-misma piedra que, si creemos el artículo de ABC, se trajo de Alcalá de
-Guadaira y se usó para el muro que rodea la finca. Puede que se
-tratara de [esta piedra paloma](https://www.piedrapaloma.com/es/); si
-no, de alguna cantera de la misma zona y con características
-similares.
+característica del estilo mediterráneo (y del Pueblo del Chirimoyo y
+las Terrazas). También usa piedra blanca (en vez del encalado
+mediterráneo, porque hasta ahí podíamos llegar); la misma piedra que,
+si creemos el artículo de ABC, se trajo de Alcalá de Guadaira y se usó
+para el muro que rodea la finca. Puede que se tratara de [esta piedra
+paloma](https://www.piedrapaloma.com/es/); si no, de alguna cantera de
+la misma zona y con características similares.
 
 La historia de cómo llegó a estar aquí la hemos adelantado en otros
 capítulos, pero el [mito fundacional se cuenta
 aquí](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
 posiblemente de las mismas fuentes. Si empezamos muy por el principio,
-Balduino y Fabiola se conocieron de puro milagro; aparentemente lo
-hicieron en [una peregrinación a
+es decir, rey conoce a reina, Balduino y Fabiola se conocieron de puro
+milagro; aparentemente lo hicieron en [una peregrinación a
 Lourdes](http://www.scj.es/documentos/02.%20Boletines%20y%20Revistas/A.%20El%20Reino/EL%20Reino%202008/02.2008%20EL%20REINO%20FEBRERO.pdf).
 Saltamos al momento en el que "decidieron" establecer su residencia de
-verano aquí, ya sabéis, vuelo en helicóptero, todo eso. En el artículo
-dice que estaba cubierto de cañas de azúcar, lo que a esas alturas de
-la película (y desde 20 años atrás) era posiblemente mentira. Pero la
-historia, diseñada seguramente por los publicistas de la familia
-Agrela, se ha quedado ahí. También dice que el terreno había
-pertenecido antiguamente a la familia de Fabiola y que se le dio como
-regalo de boda en 1960. También es plausible, pero que lo oteara en su
-viaje en helicóptero desde la sierra no tanto. Sería mucha casualidad
-que en el viaje desde la sierra viera precisamente unos terrenos que
-más adelante le regalaron sus cuñados.
+verano aquí, ya sabéis, vuelo en helicóptero, todo eso, el "mito
+fundacional" que se repite en los artículos anteriores y que no vamos
+a repetir aquí. En el artículo dice que estaba cubierto de cañas de
+azúcar, lo que a esas alturas de la película (y desde 20 años atrás)
+era posiblemente mentira. Pero la historia, diseñada seguramente por
+los publicistas de la familia Agrela (siendo una familia noble, seguro
+que tenían algún plumilla a sueldo), se ha quedado ahí. También dice
+que el terreno había pertenecido antiguamente a la familia de Fabiola
+y que se le dio como regalo de boda en 1960. También es plausible,
+pero que lo oteara en su viaje en helicóptero desde la sierra no
+tanto. Sería mucha casualidad que en el viaje desde la sierra viera
+precisamente unos terrenos que más adelante le regalaron sus cuñados;
+lo cierto es que la familia de Fabiola era de antigua nobleza vasca
+venida a menos, y que esta zona se llamaba "El pago del vasco". No he
+encontrado, sin embargo, ninguna documentación que realmente ligue a
+la familia Mora y Aragón a Playa Granada antes del regalo de bodas. Sí
+que, en las crónicas sociales de finales de los sesenta y principios
+de los setenta, no se hablaba de "Villa Astrida" sino de la finca "El
+vasco". ¿Por qué? Ni idea.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, que los reyes querían pasar
