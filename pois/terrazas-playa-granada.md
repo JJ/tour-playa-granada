@@ -79,39 +79,43 @@ diferente altura que le dan cierto dinamismo y que también permiten
 aprovechar la luz de Playa Granada, una luz mediterránea que es uno de
 los principales atractivos de la zona.
 
-Pero volvemos al diálogo: construyéndose justamente al lado del
-poblado de estilo mediterráneo del Chirimoyo, había que establecer una
-conversación arquitectónica que no lo dejara fuera y que tratara de
-"contestarle" sobre todo con el diseño, que no es compacto ni
-rectangular sino ligeramente piramidal, y un color terracota que no
-existe en muchos más lugares, pero sobre todo el color blanco, los
-balcones, algún arco de medio punto y las cubiertas de [teja
-árabe](https://es.wikipedia.org/wiki/Teja_%C3%A1rabe).
+Pero volvemos al diálogo: construyéndose justamente al lado de la
+ urbanización de estilo mediterráneo del Chirimoyo, había que
+ establecer una conversación arquitectónica que no lo dejara fuera y
+ que tratara de "contestarle" sobre todo con el diseño, que no es
+ compacto ni rectangular sino ligeramente piramidal, con la forma, que
+ no es rectangular sino ondulada, con las dos piscinas en el seno de
+ las "olas, un color
+ terracota que no existe en muchos más lugares, pero sobre todo el
+ color blanco, los balcones, algún arco de medio punto y las cubiertas
+ de [teja árabe](https://es.wikipedia.org/wiki/Teja_%C3%A1rabe).
 
-> Tradicionalmente, había fábricas de teja árabe en toda Andalucía y
-> se usaba en todo tipo de construcciones, como la [fábrica Nuestra
-> Señora de la
+> Tradicionalmente, había fábricas de teja árabe en toda Andalucía,
+> como la [fábrica Nuestra Señora de la
 > Cabeza](https://guiadigital.iaph.es/bien/inmueble/29053/granada/motril/fabrica-nuestra-senora-de-la-cabeza)
-> en Motril. Hoy en día, la teja árabe se vende hasta de segunda mano
-> y solo quedan unos cuantos constructores artesanos.
+> en Motril, y su producto se usaba en todo tipo de
+> construcciones. Hoy en día, la teja árabe se vende hasta de segunda
+> mano y solo quedan unos cuantos constructores artesanos.
 
 Hoy en día sigue siendo una urbanización bastante popular, aunque los
 pisos no parecen haberse revalorizado mucho desde que se compraron. No
 hay muchos a la venta, pero el que hay, de 175 m2, cuesta menos de
-300000 euros.  Las reseñas en Google se quejan sobre todo del tamaño
-de las piscinas (que, realmente, no son nada del otro jueves) y del
-WiFi de la zona común; lo que me dice que, al parecer, tiene tal zona
-común que no hay en las urbanizaciones más modernas. En esa zona
-común, una construcción separada, al otro lado de la entrada al
-garaje, alguna vez he visto globitos y demás, para celebrar cumpleaños
-y cosas por el estilo. Y reuniones de comunidad en un entorno un poco
+300000 euros.  Las reseñas en Google (de los pisos alquilados, claro)
+se quejan sobre todo del tamaño de las piscinas (que, realmente, no
+son nada del otro jueves) y del WiFi de la zona común; lo que me dice
+que, al parecer, tiene tal zona común que no hay en las urbanizaciones
+más modernas. Como parte de esa zona común hay una construcción
+separada, al otro lado de la entrada al garaje, donde alguna vez he
+visto globitos y decoración para celebrar cumpleaños y cosas por el
+estilo. Y, en su momento, reuniones de comunidad en un entorno un poco
 más acogedor que un montón de sillas puestas en un garaje, con alguien
 encargado de encender la luz cuando se vaya apagando (que es lo
 habitual en otras urbanizaciones). No es descartable que esta zona
-común sea parte del diálogo arquitectónico. Después de todo, el Pueblo
-del Chirimoyo la tenía, así que el resto de las construcciones que se
-iniciaron también lo requerían, o al menos el constructor lo solicitó
-a los arquitectos.
+común sea parte de ese diálogo arquitectónico, o se haya inspirado por
+equipamientos similares. Después de todo, el Pueblo del Chirimoyo la
+tenía (también el residencial Albatros), así que el resto de las
+construcciones que se iniciaron también lo requerían, o al menos el
+promotor lo solicitó a los arquitectos.
 
 También hay un par de pistas de pádel; un tipo de servicios para una
 urbanización concebida para algo más que el sol y la playa; en tono
@@ -124,7 +128,7 @@ exactamente igual al barro. Nada que no arregle una buena derrama con
 el tiempo, supongo.
 
 También es única que, al menos en el año 2023, tiene [una página
-web](https://terrazasdeplayagranada.com/). Ahí nos hablan del spa, del
+web](https://terrazasdeplayagranada.com/). Ahí nos hablan del *spa*, del
 jacuzzi, y de muchas otras cosas para las cuales no tenemos
 permiso. Incluso sin él, podemos ver que se pueden hacer reservas del
 pádel y del spa desde él.
@@ -135,7 +139,6 @@ más que ver los bloques que lo rodean, el Saqqara y, a partir de 2022,
 el del curioso nombre Aguacate Beach.
 
 O la misma [Villa Astrida](villa-astrida.md).
-
 
 
 ## Referencias
