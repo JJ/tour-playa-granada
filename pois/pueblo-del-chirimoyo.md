@@ -50,7 +50,7 @@ segunda Marbella.
 
 El dinero tampoco iba a venir de la familia política, los Mora y
 Aragón; tenía muchos títulos (marquesado de Casa Riera, condado de
-Mora, marquesado de Casa Torrez, vizcondado de Baiguer, condado de
+Mora, marquesado de Casa Torres, vizcondado de Baiguer, condado de
 Rosa de Abarca), pero poco pecunio. "Don sin din, gilipollas en
 latín". La razón por la que se casó con ella fue, posiblemente, porque
 no pudo casarse con una reina, o al menos recibir su amor. [El padre
