@@ -1,10 +1,15 @@
 # Arquitectura tradicional
+__*Cañizo y barro*__
 
-Cada vez queda menos, y seguramente cuando leáis esto (si es que
+![Cañizo en el pago justo al lado de Playa Granada](img/cañizo.jpg)
+
+Cada vez queda menos de esta, y seguramente cuando leáis esto (si es que
 alguien lo lee) quedará menos todavía (o nada), pero en Playa Granada
-hay ejemplos interesantes de arquitectura tradicional, e incluso
-mejor, de arquitectura más o menos efímera tradicional: las
-construcciones de cañizo.
+hay ejemplos interesantes de arquitectura tradicional, o de
+construcciones, que igual no llegan al nivel de poder ser llamadas
+"arquitectura", tradicionales. E incluso
+mejor, de construcciones más o menos efímera tradicional: las
+lindes de cañizo.
 
 El cañizo o caña, procedente o bien de los residuos de la caña de
 azúcar o bien de las cañas de la ribera de algún arroyo o marismas, se
