@@ -60,7 +60,7 @@ desagradable por la temperatura y la fuerza, las familias empezaron a
 emigrar a las cercanías de la valla, donde milagrosamente, no soplaba
 ni un suspiro. Allí me terminé mi hamburguesa, sentado en el suelo,
 mientras veía las toallas y sombrillas agitadas por el poniente,
-apenas metro y medio más alla, en la playa, más allá de la protección
+apenas a metro y medio de distancia, en la playa, más allá de la protección
 del humilde cañizo.
 
 Harían bien el Bonobo, el Tinglao, y otros chiringuitos de proveerse
