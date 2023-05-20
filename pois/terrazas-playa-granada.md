@@ -70,8 +70,8 @@ construir hasta muchos años más tarde en la zona, así que durante
 bastante tiempo fueron un entorno bastante exclusivo.
 
 Y mientras que el Pueblo de Chirimoyo (y también los bloques de
-Albatros, que no estaban de ninguna forma contiguos al mismo)) se hizo
-más o menos como el constructor y el arquitecto deseó, en este caso ya
+Albatros, que no estaban de ninguna forma contiguos al mismo) se hizo
+más o menos como el constructor y el arquitecto desearon, en este caso ya
 había *contexto* y, sobre todo, restricciones del plan urbanístico: la
 principal, que en altura se podía ocupar solo el 60% de la parcela. De
 la necesidad se hizo virtud, y se construyeron una serie de terrazas a
@@ -85,10 +85,10 @@ Pero volvemos al diálogo: construyéndose justamente al lado de la
  que tratara de "contestarle" sobre todo con el diseño, que no es
  compacto ni rectangular sino ligeramente piramidal, con la forma, que
  no es rectangular sino ondulada, con las dos piscinas en el seno de
- las "olas, un color
- terracota que no existe en muchos más lugares, pero sobre todo el
- color blanco, los balcones, algún arco de medio punto y las cubiertas
- de [teja árabe](https://es.wikipedia.org/wiki/Teja_%C3%A1rabe).
+ las "olas"; un color terracota que no existe en muchos más lugares,
+ pero sobre todo el color blanco, los balcones, algún arco de medio
+ punto y las cubiertas de [teja
+ árabe](https://es.wikipedia.org/wiki/Teja_%C3%A1rabe).
 
 > Tradicionalmente, había fábricas de teja árabe en toda Andalucía,
 > como la [fábrica Nuestra Señora de la
@@ -99,39 +99,44 @@ Pero volvemos al diálogo: construyéndose justamente al lado de la
 
 Hoy en día sigue siendo una urbanización bastante popular, aunque los
 pisos no parecen haberse revalorizado mucho desde que se compraron. No
-hay muchos a la venta, pero el que hay, de 175 m2, cuesta menos de
-300000 euros.  Las reseñas en Google (de los pisos alquilados, claro)
-se quejan sobre todo del tamaño de las piscinas (que, realmente, no
-son nada del otro jueves) y del WiFi de la zona común; lo que me dice
-que, al parecer, tiene tal zona común que no hay en las urbanizaciones
-más modernas. Como parte de esa zona común hay una construcción
-separada, al otro lado de la entrada al garaje, donde alguna vez he
-visto globitos y decoración para celebrar cumpleaños y cosas por el
-estilo. Y, en su momento, reuniones de comunidad en un entorno un poco
-más acogedor que un montón de sillas puestas en un garaje, con alguien
-encargado de encender la luz cuando se vaya apagando (que es lo
-habitual en otras urbanizaciones). No es descartable que esta zona
-común sea parte de ese diálogo arquitectónico, o se haya inspirado por
-equipamientos similares. Después de todo, el Pueblo del Chirimoyo la
-tenía (también el residencial Albatros), así que el resto de las
-construcciones que se iniciaron también lo requerían, o al menos el
-promotor lo solicitó a los arquitectos.
+hay muchos a la venta, pero el que hay en el momento que se escribe
+esto, de 175 m2, cuesta menos de 300000 euros.  Las reseñas en Google
+(de los pisos en alquiler turístico, claro) se quejan sobre todo del tamaño de
+las piscinas (que, realmente, no son nada del otro jueves) y del WiFi
+de la zona común; lo que me dice que, al parecer, tiene tal zona común
+que no hay en las urbanizaciones más modernas. Como parte de esa zona
+común se ve una construcción separada, al otro lado de la entrada al
+garaje, donde alguna vez he visto globitos y decoración para celebrar
+cumpleaños y cosas por el estilo como, en su momento, reuniones de
+comunidad en un entorno un poco más acogedor que un montón de sillas
+puestas en un garaje, con alguien encargado de encender la luz cuando
+se vaya apagando (que es lo habitual en otras urbanizaciones). No es
+descartable que esta zona común sea parte de ese diálogo
+arquitectónico, o se haya inspirado por equipamientos
+similares. Después de todo, el Pueblo del Chirimoyo la tenía (también
+el residencial Albatros), así que el resto de las construcciones que
+se iniciaron también lo requerían, o al menos el promotor lo solicitó
+a los arquitectos.
 
-También hay un par de pistas de pádel; un tipo de servicios para una
-urbanización concebida para algo más que el sol y la playa; en tono
+También hay un par de pistas de pádel, un tipo de servicios para una
+urbanización concebida para algo más que el sol y la playa, en tono
 con el nivel de turismo que se esperaba para esta zona.
 
-Después de las lluvias de barro del año 2022, las paredes se
-han quedado un tanto perjudicadas, igual que el resto de las
+Después de las lluvias de barro del año 2022, las paredes se han
+quedado un tanto perjudicadas, igual que el resto de las
 urbanizaciones; el color blanco tiene ciertos churretes de color
 exactamente igual al barro. Nada que no arregle una buena derrama con
 el tiempo, supongo.
 
-También es única que, al menos en el año 2023, tiene [una página
-web](https://terrazasdeplayagranada.com/). Ahí nos hablan del *spa*, del
-jacuzzi, y de muchas otras cosas para las cuales no tenemos
-permiso. Incluso sin él, podemos ver que se pueden hacer reservas del
-pádel y del spa desde él.
+También es la única de la zona que, al menos en el año 2023, tiene
+[una página web](https://terrazasdeplayagranada.com/). Ahí nos hablan
+del *spa*, del jacuzzi, y de muchas otras cosas para las cuales no
+tenemos permiso de consulta. Incluso sin él, podemos ver que se pueden
+hacer reservas del pádel y del spa desde esa página.
+
+Todo ello son aspectos que nos hablan de la búsqueda de un turismo de
+cierto nivel, incluso más residencial que efímero, pero también de un
+conocimiento, respeto y hasta cariño al entorno arquitectónico.
 
 Este respeto al entorno construido, aunque un poco sui géneris, va a
 brillar por su ausencia en casi todo el resto de Playa Granada. No hay
