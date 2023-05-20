@@ -4,10 +4,10 @@ __*La primera construcción, la más desconocida*__
 ![Villa Astrida desde la playa](img/villa-astrida.jpg)
 
 Villa Astrida fue la residencia de verano de los reyes de Bélgica
-hasta su muerte; literalmente, porque Balduino murió en este preciso lugar.
+hasta la muerte de Balduino; literalmente, porque Balduino murió en este preciso lugar.
 
 Desde entonces, permanece (más o menos) vacía, aunque periódicamente
-corren rumores sobre ella, por ejemplo, [que se pretende convertir en
+corren rumores sobre ella; por ejemplo, [que se pretende convertir en
 un hotel de
 lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). Si
 tal cosa sucede, seguramente se abrirá al público; pero mientras tanto
@@ -27,8 +27,9 @@ para el muro que rodea la finca. Puede que se tratara de [esta piedra
 paloma](https://www.piedrapaloma.com/es/); si no, de alguna cantera de
 la misma zona y con características similares.
 
-La historia de cómo llegó a estar aquí la hemos adelantado en otros
-capítulos, pero el [mito fundacional se cuenta
+La historia de cómo llegó a estar aquí la residencia de los reyes de
+Bélgica la hemos adelantado en otros capítulos, pero el [mito
+fundacional se cuenta
 aquí](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
 posiblemente de las mismas fuentes. Si empezamos muy por el principio,
 es decir, rey conoce a reina, Balduino y Fabiola se conocieron de puro
@@ -115,34 +116,38 @@ O, quizás, ¿quitarían todos estos chambaos cuando efectivamente se
 alojaran los reyes allí? Los testimonios dicen que el área de playa
 delante de Villa Astrida estaban también vallados y custodiados por
 los grises, la policía de Franco. No serían muy largas las estancias,
-posiblemente. 
+posiblemente.
 
-> Todo esto da para una novela, en la que desaparecería alguien del servicio y el sargento de la guardia civil de Motril tendría que investigar. Una historia apasionante, a medio camino entre la serie Milenio y Cuéntame.
+> Todo esto da para una novela, en la que desaparecería alguien del
+> servicio y el sargento de la guardia civil de Motril tendría que
+> investigar. Una historia apasionante, a medio camino entre la serie
+> Milenio y Cuéntame.
 
 Balduino murió en 1993, en diferentes lugares de la casa según la
 historia que leas. Según algunos en su despacho, según otros en la
-terraza, según otros más al lado de la piscina. 
+terraza, según otros más al lado de la piscina.
 
-> Toda el relato de la relación de Balduino y Fabiola con Playa
+> Todo el relato de la relación de Balduino y Fabiola con Playa
 > Granada parece redactado por un publicista que trate de mostrar
 > tanto el lugar como al monarca en la mejor luz posible.
 
-A partir de ese
-momento comenzaron las disputas sobre la herencia. ¿Era de la familia,
-y por tanto podía ser heredado por la esposa y sobrinos, o era del
-estado belga? ¿Era de una fundación que creó la esposa (para eludir
-impuestos, imagino), o era de ella y por tanto tenía que pagar tales
-impuestos? Estas disputas han impedido que se haga ningún tipo de
-cambio en la finca, aunque parece que el ayuntamiento se encarga de
-cuidar el jardín. Por lo pronto, 
-[en 2014 una parte fue expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
+A partir de ese momento comenzaron las disputas sobre la
+herencia. ¿Era de la familia, y por tanto podía ser heredado por la
+esposa y sobrinos, o era del estado belga? ¿Era de una fundación que
+creó la esposa (para eludir impuestos, imagino), o era de ella y por
+tanto tenía que pagar tales impuestos? Estas disputas han impedido que
+se haga ningún tipo de cambio en la finca, aunque parece que el
+ayuntamiento se encarga de cuidar el jardín. Por lo pronto, [en 2014
+una parte fue
+expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
 para abrir la pequeña calle que llega desde la rotonda de la calle
 Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, pero no
 ocurrió hasta muchos años más tarde, en 2014.
 
 ¿Pasará el futuro por el hotel? Si no pasa por ahí, el mar puede
-acabar reclamando lo que era suyo. Como cuentan en 
-[un informe de riesgos medioambientales del ayuntamiento de Motril](http://www.motril.es/fileadmin/areas/medioambiente/agenda21/anexo3riesgos.pdf)
+acabar reclamando lo que era suyo. Como cuentan en [un informe de
+riesgos medioambientales del ayuntamiento de
+Motril](http://www.motril.es/fileadmin/areas/medioambiente/agenda21/anexo3riesgos.pdf)
 el peligro de retroceso es muy alto. Los que venían a la playa
 recuerdan que el mar ha llegado en ocasiones hasta la misma valla, que
 tiene que haber aguantado lo suyo durante el invierno. Si la playa se
