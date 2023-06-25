@@ -162,18 +162,19 @@ estado belga adujo que lo que intentaba era eludir el pago de
 impuestos, y de hecho una de las fundaciones que creó, llamada [Fons
 Pereos](https://www.vanitatis.elconfidencial.com/casas-reales/2013-01-26/la-reina-fabiola-renuncia-a-la-fundacion-que-podria-salvar-su-herencia-del-fisco_534316/),
 fue anulada por el gobierno belga. Pero había otras dos fundaciones,
-una de ellas reservarada a la caridad y, al parecer, esta, que no
+una de ellas reservada a la caridad y, al parecer, esta, que no
 parece tener ninguna actividad aparte de la posesión de inmuebles,
 incluyendo esta Villa Astrida.
 
 Merece la pena pararnos un poco sobre esta fundación, que no parece
 tener página web, ni carta fundacional, ni mucha información propia;
-ni siquiera está claro qué significan sus siglas o siquiera si son unas siglas o un nombre, aunque teniendo en
-cuenta las inclinaciones de Fabiola, cabe pensar que se trata de
-alguna frase más o menos pía en latín. Lo que se encuentra en una
-búsqueda en la web son cosas relacionadas con patrimonio propiedad de
-esa fundación que es cedido a otras fundaciones que pertenecen a
-familiares; por ejemplo [esta noticia sobre el señorío de
+ni siquiera está claro qué significan sus siglas o siquiera si son
+unas siglas o un nombre, aunque teniendo en cuenta las inclinaciones
+de Fabiola, cabe pensar que se trata de alguna frase más o menos pía
+en latín. Lo que se encuentra en una búsqueda en la web son cosas
+relacionadas con patrimonio propiedad de esa fundación que es cedido a
+otras fundaciones que pertenecen a familiares; por ejemplo [esta
+noticia sobre el señorío de
 Elío](https://www.diariodenavarra.es/noticias/navarra/pamplona-comarca/2023/06/25/nueva-vida-el-senorio-elio-573337-1002.html),
 que fue cedido o vendido, o cedida la explotación, a otra fundación
 diferente creada por un familiar más o menos lejano de
