@@ -11,24 +11,34 @@ preciso lugar.
 Desde entonces, permanece (más o menos) vacía, aunque periódicamente
 corren rumores sobre ella; por ejemplo, [que se pretende convertir en
 un hotel de
-lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). En el año 2023, la destrucción de las lonas que cubrían la reja metálica que la rodeaba por dentro permitía vislumbrar parte de lo que había dentro, revelando un pabellón cercano a la pista de tenis, la que está al lado del (ahora) Badía, ocupada, con ropa tendida, juguetes de niños y (curiosamente) gallinas o pollos sueltos por el patio, que se podían escuchar perfectamente desde fuera. Si estos pertenecían a los guardeses, eran unos ocupas, o simplemente aparecieron por allí volando un día e hicieron su casa, es complicado de saber.
+lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). En
+el año 2023, el deterioro de las lonas que cubrían la reja metálica
+que la rodeaba por dentro permitía vislumbrar parte de lo que había
+dentro, revelando un pabellón cercano a la pista de tenis, la que está
+al lado del (ahora) Badía, ocupada, con ropa tendida en cuerdas, juguetes de
+niños esparcidos por el suelo de las pistas de tenis, y (curiosamente) gallinas o pollos sueltos por el patio, que se
+podían escuchar perfectamente desde fuera. Si estos pertenecían a los
+guardeses, eran unos ocupas, o simplemente aparecieron por allí
+volando un día e hicieron su casa, es complicado de saber.
 
 
-Si
-tal cosa sucede, seguramente se abrirá al público; pero mientras tanto
-nos falta una visión general y poco sabemos de su decoración, cómo
-está distribuida, o qué estilo tiene. Imaginamos que, como el Pueblo
-del Chirimoyo, y por las pocas imágenes que hay, se trata de una
-mansión estilo mediterráneo, pasado quizás por el Atomium de
-Bruselas. O a saber. Según [el artículo-obituario de Balduino en
+Mientras no se pueda hacer una visita más extensa, nos falta una
+visión general y poco sabemos de su decoración, cómo está distribuida,
+o qué estilo tiene. Imaginamos que, como el Pueblo del Chirimoyo, se
+trata de una villa estilo mediterráneo, pasado quizás por el Atomium
+de Bruselas. O a saber. Según [el artículo-obituario de Balduino en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
-el hierro forjado", es decir, que tendría esa teja árabe que es
-característica del estilo mediterráneo (y del Pueblo del Chirimoyo y
-las Terrazas). También usa piedra blanca (en vez del encalado
-mediterráneo, porque hasta ahí podíamos llegar); la misma piedra que,
-si creemos el artículo de ABC, se trajo de Alcalá de Guadaira y se usó
-para el muro que rodea la finca. Puede que se tratara de [esta piedra
+el hierro forjado", es decir, que tendría dos de las características
+que definen al estilo mediterráneo (y del Pueblo del Chirimoyo y las
+Terrazas), pero dado que fue la primera construcción de la zona, es
+posible que, en realidad, fuera su arquitectura la que iniciara el
+diálogo, continuado luego por el Pueblo del Chirimoyo, con quien
+quizás compartiera también capataces o incluso arquitectos. También
+usa piedra blanca (en vez del encalado mediterráneo, porque hasta ahí
+podíamos llegar); la misma piedra que, si creemos el artículo de ABC,
+se trajo de Alcalá de Guadaira y se usó para el muro que rodea la
+finca. Puede que se tratara de [esta piedra
 paloma](https://www.piedrapaloma.com/es/); si no, de alguna cantera de
 la misma zona y con características similares.
 
@@ -182,9 +192,12 @@ Fabiola. También era la propietaria de cuadros como
 [este](https://www.museodelprado.es/coleccion/obra-de-arte/francisco-de-ocariz-y-ochoa/90a4c562-7f1e-4405-bc3a-2b341341ab1a),
 vendido en 2020 al Museo del Prado.
 
-¿Pasará el futuro por el hotel? Si no pasa por ahí, el mar puede
-acabar reclamando lo que era suyo. Como cuentan en [un informe de
-riesgos medioambientales del ayuntamiento de
+Es bastante improbable que haya ningún hotel, dado que la fundación es
+probable que no tenga capacidad jurídica para venderlo o explotarlo
+comercialmente. Pero el futuro puede ser algo incierto. Como sucede ya
+en el otro extremo de la urbanización, en la zona del hotel, el mar
+puede acabar reclamando lo que era suyo. Como cuentan en [un informe
+de riesgos medioambientales del ayuntamiento de
 Motril](http://www.motril.es/fileadmin/areas/medioambiente/agenda21/anexo3riesgos.pdf)
 el peligro de retroceso es muy alto. Los que venían a la playa
 recuerdan que el mar ha llegado en ocasiones hasta la misma valla, que
