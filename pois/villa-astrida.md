@@ -11,7 +11,10 @@ preciso lugar.
 Desde entonces, permanece (más o menos) vacía, aunque periódicamente
 corren rumores sobre ella; por ejemplo, [que se pretende convertir en
 un hotel de
-lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). Si
+lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). En el año 2023, la destrucción de las lonas que cubrían la reja metálica que la rodeaba por dentro permitía vislumbrar parte de lo que había dentro, revelando un pabellón cercano a la pista de tenis, la que está al lado del (ahora) Badía, ocupada, con ropa tendida, juguetes de niños y (curiosamente) gallinas o pollos sueltos por el patio, que se podían escuchar perfectamente desde fuera. Si estos pertenecían a los guardeses, eran unos ocupas, o simplemente aparecieron por allí volando un día e hicieron su casa, es complicado de saber.
+
+
+Si
 tal cosa sucede, seguramente se abrirá al público; pero mientras tanto
 nos falta una visión general y poco sabemos de su decoración, cómo
 está distribuida, o qué estilo tiene. Imaginamos que, como el Pueblo
