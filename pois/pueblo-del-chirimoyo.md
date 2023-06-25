@@ -9,8 +9,12 @@ la realeza. Se encuentran allí Jaime de Mora y Aragón, su hermana Ana,
 y el marido de la misma, el conde de Agrela, junto con algún adláter y
 sicofante más. Tras rajar un poco de su [cuñada (que más adelante no
 le invitaría a su
-boda](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Boda),
-que es algo muy español, Jaime se jacta de como él está creando el
+boda)](https://es.wikipedia.org/wiki/Fabiola_de_Mora_y_Arag%C3%B3n#Boda),
+y por una buena razón, porque abrió el palacio familiar para que
+[Jesús Hermida, el periodista del flequillo más famoso, robara el
+diario de su
+hermana](https://www.rtve.es/television/20220928/jaime-mora-aragon-hermano-fabiola-belgica-traicion-boda-diario-jaime-penafiel/2403892.shtml)
+, Jaime se jacta de como él está creando el
 nuevo Cannes, una nueva costa Azul, en el Mediterráneo, allí mismo, en
 Marbella. De un pueblecito de pescadores, y gracias al *personaje*
 creado a pulso por sí mismo, y también un poco a Alfonso de Hohenlohe,
