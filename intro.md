@@ -32,7 +32,7 @@ Hoy](https://www.granadahoy.com/granada/Villa-Astrida-queda-epoca-dorada_0_70942
 afirma que fue la familia Agrela y que lo cedió a muy bajo precio por
 ser parientes de Fabiola. Por otro lado, [en este otro artículo
 de Motril Digital dice que fue el conde de Agrela quien se lo
-regaló](http://motrildigital.mobile.blogia.com/2011/agosto.php) sin
+regaló](https://web.archive.org/web/20121207014035/http://motrildigital.blogia.com/2011/080116-hace-18-anos-de-la-muerte-en-motril-del-rey-balduino-de-belgica.php) sin
 que hubiera ninguna venta por medio.
 
 > Buscando, buscando, he encontrado que [el IV conde de Agrela, Jaime
