@@ -204,7 +204,7 @@ recuerdan que el mar ha llegado en ocasiones hasta la misma valla, que
 tiene que haber aguantado lo suyo durante el invierno. Si la playa se
 conserva es por la aportación periódica de arena, y menos periódica de
 piedras y grava, que posiblemente sea lo que la ha conservado, con
-mayor o menor fortuna, durante este tiempo.
+mayor o menor fortuna, durante este tiempo. Lo cierto es que en las crónicas de la muerte de Balduino se comenta que Villa Astrida está a unos cientos de metros del mar, así que el retroceso es evidente.
 
 Sí podemos ver una serie de viviendas justo enfrente, viviendas
 realmente notables. Giremos 180 grados, pongamos nuestras espaldas al
