@@ -3,8 +3,10 @@ __*La primera construcción, la más desconocida*__
 
 ![Villa Astrida desde la playa](img/villa-astrida.jpg)
 
-Villa Astrida fue la residencia de verano de los reyes de Bélgica
-hasta la muerte de Balduino; literalmente, porque Balduino murió en este preciso lugar.
+Villa Astrida, un recinto y palacete que nace directamente en la
+playa, fue la residencia de verano de los reyes de Bélgica hasta la
+muerte de Balduino; literalmente, porque Balduino murió en este
+preciso lugar.
 
 Desde entonces, permanece (más o menos) vacía, aunque periódicamente
 corren rumores sobre ella; por ejemplo, [que se pretende convertir en
@@ -57,7 +59,8 @@ de los setenta, no se hablaba de "Villa Astrida" sino de la finca "El
 vasco". ¿Por qué? Ni idea.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
-propietario de las tierras era atraer al famoseo y la realeza, que los reyes querían pasar
+propietario de las tierras era atraer al famoseo y la realeza, no
+necesariamente por ese orden, que los reyes querían pasar
 desapercibidos fuera de la farándula y que precisamente se le regaló
 este terreno para atraer a la farándula (si bien no tuvo mucho éxito);
 corren rumores en todo caso de que Balduino se paseaba, como un guiri
@@ -137,12 +140,15 @@ esposa y sobrinos, o era del estado belga? ¿Era de una fundación que
 creó la esposa (para eludir impuestos, imagino), o era de ella y por
 tanto tenía que pagar tales impuestos? Estas disputas han impedido que
 se haga ningún tipo de cambio en la finca, aunque parece que el
-ayuntamiento se encarga de cuidar el jardín. Por lo pronto, [en 2014
-una parte fue
+ayuntamiento se encarga de cuidar el jardín y se han repuesto las
+lonas que cerraban la vista del interior en el año 2022. Por lo
+pronto, [en 2014 una parte fue
 expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
 para abrir la pequeña calle que llega desde la rotonda de la calle
 Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, pero no
 ocurrió hasta muchos años más tarde, en 2014.
+
+En el año 2023 se reveló que la finca pertenecía a una [fundación INEIS](https://www.cope.es/emisoras/andalucia/granada-provincia/motril/noticias/partir-del-agosto-podremos-visitar-memorial-sobre-rey-balduino-villa-astrida-20230607_2751261) de la que es prácticamente imposible encontrar nada fuera de este hecho, que poseen la finca. Junto con esta revelación vino el hecho de que se va a abrir al público a partir de agosto de 2023. Esperemos que se produzca, y podamos ver por dentro esta finca.
 
 ¿Pasará el futuro por el hotel? Si no pasa por ahí, el mar puede
 acabar reclamando lo que era suyo. Como cuentan en [un informe de
