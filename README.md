@@ -117,3 +117,4 @@ una publicación sobre Salobreña
 * [Reportaje de la boda](https://www.vogue.com.au/celebrity/royals/inside-king-baudouin-and-queen-fabiolas-1960-wedding/image-gallery/85d5c780a83fc28fe5075eb873bfe1ce)
 * [Yate Avila](https://inventaris.onroerenderfgoed.be/erfgoedobjecten/99091)
 * [Sobre la historia de origen de la finca](https://realeza.forosactivos.com/t526-balduino-y-fabiola#93675)
+* [Mini-reportaje en la web de RTVE](https://www.rtve.es/television/20220928/rey-balduino-belgica-murio-haciendo-mas-queria/2404035.shtml), no aporta nada nuevo ,pero es más probable que dure cierto tiempo.
