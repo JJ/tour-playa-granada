@@ -102,7 +102,10 @@ una publicación sobre Salobreña
 
 * [Otra casa de Olóriz Arquitectura](http://oloriz.net/playa_granada.html#4)
 
-* [Foto de los duques de Lécera o Agrela](https://archive.org/details/BSRes0041929EJ/page/n1). Es muy posible que los condes de Agrela conocieran a los padres de Alfonso de Hohenlohe.
+* [Foto de los duques de Lécera o
+  Agrela](https://archive.org/details/BSRes0041929EJ/page/n1). Es muy
+  posible que los condes de Agrela conocieran a los padres de Alfonso
+  de Hohenlohe.
 
 ## Sobre Balduino
 
@@ -113,3 +116,4 @@ una publicación sobre Salobreña
 * [Más historias del noviazgo](https://www.lesoir.be/art/1286062/article/soirmag/soirmag-histoire/2016-08-08/baudouin-et-fabiola-un-couple-fusionnel), y sus nombres en código: Luigi y Ávila.
 * [Reportaje de la boda](https://www.vogue.com.au/celebrity/royals/inside-king-baudouin-and-queen-fabiolas-1960-wedding/image-gallery/85d5c780a83fc28fe5075eb873bfe1ce)
 * [Yate Avila](https://inventaris.onroerenderfgoed.be/erfgoedobjecten/99091)
+* [Sobre la historia de origen de la finca](https://realeza.forosactivos.com/t526-balduino-y-fabiola#93675)
