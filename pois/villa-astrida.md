@@ -92,7 +92,9 @@ se llevó a cabo una construcción que, al parecer, ardió en 1965. Según
 60](https://es.wikipedia.org/wiki/Juan_Antonio_Escribano_Castilla), la
 construcción del edificio actual comenzó en 1966 y terminó
 en 1968. Eso la convierte en la construcción más antigua de Playa
-Granada que todavía está en pie.
+Granada que todavía está en pie. Hasta que se construyó, la pareja
+real pasaba los veranos en Zarauz, en villa María Pilar,  de la familia Mora
+y Aragón.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, no
