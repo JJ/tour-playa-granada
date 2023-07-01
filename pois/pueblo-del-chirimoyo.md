@@ -98,7 +98,7 @@ idea, o no, pero lo cierto es que logró el establecimiento de la
 realiza, ver la construcción del campo de golf, y tener ciertos
 beneficios económicos de la venta de terrenos y posiblemente la
 construcción de este Pueblo. Al turismo, así en general, todavía le
-faltaba.
+faltaba tiempo por llegar.
 
 Ya hemos mencionado que el origen mítico de Playa Granada dice que, en
 un viaje a Motril, el rey Balduino de Bélgica se quedó prendado de
@@ -164,9 +164,16 @@ incluso ahora cuenta solamente con otros dos campos.
 > quebrar](https://www.granadahoy.com/granada/Motril-rescate-campo-golf_0_1052895263.html)
 > en la segunda decena del siglo XXI, y tuvo que ser rescatado por el Ayuntamiento.
 
-La construcción comenzaría en los años 70; en el año 72 hemos
-encontrado una solicitud de acometida eléctrica para esta zona. En esa
-época ya existía Villa Astrida, pero nada más.
+La construcción de un campo de golf no es casual, ya que el rey
+Balduino era, al parecer, un gran aficionado al golf. A su muerte se
+instituyó un torneo en este campo a su nombre; sin embargo, si se hizo
+unos hoyos en este campo lo haría lejos de las cámaras o de forma que
+aparentemente no ha quedado registrada.
+
+La construcción de la urbanización comenzaría en los años 70; en el
+año 72 hemos encontrado una solicitud de acometida eléctrica para esta
+zona. En esa época ya existía Villa Astrida (terminada en el 1968),
+pero nada más.
 
 > Algún artículo menciona, y en alguna ortofoto se ve, alguna
 > construcción adicional, quizás un cortijo o una cabaña de
