@@ -231,12 +231,25 @@ recuerdan que el mar ha llegado en ocasiones hasta la misma valla, que
 tiene que haber aguantado lo suyo durante el invierno. Si la playa se
 conserva es por la aportación periódica de arena, y menos periódica de
 piedras y grava, que posiblemente sea lo que la ha conservado, con
-mayor o menor fortuna, durante este tiempo. Lo cierto es que en las crónicas de la muerte de Balduino se comenta que Villa Astrida está a unos cientos de metros del mar, así que el retroceso es evidente.
+mayor o menor fortuna, durante este tiempo. Lo cierto es que en las
+crónicas de la muerte de Balduino se comenta que Villa Astrida está a
+unos cientos de metros del mar, así que el retroceso es evidente.
 
-Sí podemos ver una serie de viviendas justo enfrente, viviendas
-realmente notables. Giremos 180 grados, pongamos nuestras espaldas al
-mar para que nos dé la brisa y veamos los [casoplones](viviendas-varias.md) que hay justo
-enfrente, en la misma acera que La Pesquera y el resto de los bares.
+Lo cierto que los veranos de Balduino y Fabiola en Motril dieron lugar
+a muchas anécdotas, todas ellas destilando un carácter amable y
+cercano de la pareja en su trato con dependientes y hosteleros. La
+paradoja es que si la intención inicial de los que hicieron el regalo
+era de atraer la realeza a Playa Granada, consiguieron justamente lo
+contrario: que la pareja real se acercara a las gentes de Motril y
+toda la costa tropical, y viceversa.
+
+De alguna forma, la calle enfrente de Villa Astrida se convirtió en la
+"zona noble" del barrio; podemos ver una serie de viviendas justo
+enfrente, viviendas realmente notables. Así que continuemos el tour
+por Playa Granada girando 180 grados, poniendo nuestras espaldas al
+mar para que nos dé la brisa y veamos los
+[casoplones](viviendas-varias.md) que hay justo enfrente, en la misma
+acera que La Pesquera y el resto de los bares.
 
 
 ## Referencias
