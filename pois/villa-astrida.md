@@ -42,50 +42,65 @@ finca. Puede que se tratara de [esta piedra
 paloma](https://www.piedrapaloma.com/es/); si no, de alguna cantera de
 la misma zona y con características similares.
 
-La historia de cómo llegó a estar aquí la residencia de los reyes de
-Bélgica la hemos adelantado en otros capítulos, pero el [mito
-fundacional se cuenta
-aquí](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
-posiblemente de las mismas fuentes. Si empezamos muy por el principio,
-es decir, rey conoce a reina, Balduino y Fabiola se conocieron de puro
-milagro; aparentemente lo hicieron en [una peregrinación a
+La historia de cómo llegó a erigirse esta villa, residencia veraniega
+de los reyes de Bélgica, la hemos adelantado en otros capítulos, pero
+el [mito fundacional se cuenta en este otro
+artículo](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
+posiblemente de las mismas fuentes, ya sabéis, vuelo en helicóptero,
+se enamoró de esta zona de la costa (que en esa época no tendría más
+que cañaverales, indistinguibles de cualquier otra zona salvo por el
+pequeño cabo a la izquierda de la actual Villa Astrida), compró la
+tierra a muy bajo precio a un constructor "que ya tenía ideas de
+construir una urbanización". Pero es el mito que ha
+perdurado, y muchas veces el relato tiene más fuerza que la historia.
+
+Pero si empezamos muy por el principio, es decir, rey conoce a reina,
+Balduino y Fabiola se conocieron de puro milagro; aparentemente lo
+hicieron en [una peregrinación a
 Lourdes](http://www.scj.es/documentos/02.%20Boletines%20y%20Revistas/A.%20El%20Reino/EL%20Reino%202008/02.2008%20EL%20REINO%20FEBRERO.pdf).
 Saltamos al momento en el que "decidieron" establecer su residencia de
 verano aquí, ya sabéis, vuelo en helicóptero, todo eso, el "mito
 fundacional" que se repite en los artículos anteriores y que no vamos
 a repetir aquí. En el artículo dice que estaba cubierto de cañas de
 azúcar, lo que a esas alturas de la película (y desde 20 años atrás)
-era posiblemente mentira. Pero la historia, diseñada seguramente por
-los publicistas de la familia Agrela (siendo una familia noble, seguro
-que tenían algún plumilla a sueldo), se ha quedado ahí. También dice
-que el terreno había pertenecido antiguamente a la familia de Fabiola
-y que se le dio como regalo de boda en 1960. También es plausible,
-pero que lo oteara en su viaje en helicóptero desde la sierra no
-tanto. Sería mucha casualidad que en el viaje desde la sierra viera
-precisamente unos terrenos que más adelante le regalaron sus cuñados;
-lo cierto es que la familia de Fabiola era de antigua nobleza vasca
-venida a menos, y que esta zona se llamaba "El pago del vasco". No he
-encontrado, sin embargo, ninguna documentación que realmente ligue a
-la familia Mora y Aragón a Playa Granada antes del regalo de bodas. Sí
-que, en las crónicas sociales de finales de los sesenta y principios
-de los setenta, no se hablaba de "Villa Astrida" sino de la finca "El
+era posiblemente mentira, porque ya se habían comenzado otros
+cultivos. Pero la historia, diseñada seguramente por los publicistas
+de la familia Agrela (siendo una familia noble, seguro que tenían
+algún plumilla a sueldo), se ha quedado ahí, y un relato pleno de
+emociones suele tener mucha más fuerza que la propia historia.  En
+otros artículos dice que el terreno había pertenecido antiguamente a
+la familia de Fabiola y que se le dio como regalo de boda en 1960;
+esto último es lo más creíble. Sería mucha casualidad que en el viaje
+desde la sierra en helicóptero viera precisamente unos terrenos que
+más adelante le regalaron sus cuñados. En cuanto a lo de que
+pertenecía a la familia de Fabiola en su época, lo cierto es que la
+familia de Fabiola era de antigua nobleza vasca venida a menos, y que
+esta zona se llamaba "El pago del vasco". No he encontrado, sin
+embargo, ninguna documentación que realmente ligue a la familia Mora y
+Aragón a la zona de Motril antes del regalo de bodas. Sí que, en las
+crónicas sociales de finales de los sesenta y principios de los
+setenta, no se hablaba de "Villa Astrida" sino de la finca "El
 vasco". ¿Por qué? Ni idea.
+
+En todo caso, el terreno empezó a ser usado casi de forma inmediata, y
+se llevó a cabo una construcción que, al parecer, ardió en 1965. Según
+[el artículo de la Wikipedia del alcalde de Motril en los
+60](https://es.wikipedia.org/wiki/Juan_Antonio_Escribano_Castilla), la
+construcción del edificio actual comenzó en 1966 y terminó
+en 1968. Eso la convierte en la construcción más antigua de Playa
+Granada que todavía está en pie.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, no
 necesariamente por ese orden, que los reyes querían pasar
-desapercibidos fuera de la farándula y que precisamente se le regaló
-este terreno para atraer a la farándula (si bien no tuvo mucho éxito);
+desapercibidos fuera de la farándula. El hecho es que, como hemos dicho al principio de este libro, precisamente se le regaló
+este terreno para atraer a la farándula, si bien no tuvo mucho éxito;
 corren rumores en todo caso de que Balduino se paseaba, como un guiri
 más, en su bicicleta, por los chambaos de la costa para meterse unos
-espetos y que Fabiola iba a Motril a comprar el pan o unos visillos,
-lo que hiciera falta para la mansión. Pero una vez dejado el jardín
-botánico a su suerte, se ha convertido en hábitat de especies tales
-como la cotorra de Kramer, que ha sido observada en esta zona con
-asiduidad. Esta villa no solo ha creado un ecosistema turístico, sino
-también uno natural.
+espetos y unas gaseosas Sanitex y que Fabiola iba a Motril a comprar el pan o unos visillos,
+lo que hiciera falta para la mansión.
 
-Mansión que, aunque no existen muchas fotos de la misma, no debía
+Mansión que, aunque no existen muchas fotos del interior de la misma, no debía
 carecer de nada. Se menciona repetidamente la afición a la botánica de
 Balduino, que hizo traer a un jardinero innombrado de Bélgica para que
 construyera un pequeño jardín botánico alrededor de la misma, porque
@@ -94,7 +109,11 @@ bien tener un poco de sombrica para poder disfrutar tranquilamente de
 la cerveza de abadía. El jardín se diseñó de forma que diera tanto
 humedad como sombra, en varias capas, con una cantidad considerable de
 palmeras y otras especies; las palmeras son bien visibles desde fuera,
-y el resto podemos imaginarlo.
+y el resto podemos imaginarlo. Hoy en día, el jardín
+botánico se ha dejado a su suerte, se ha convertido en hábitat de especies tales
+como la cotorra de Kramer, que ha sido observada en esta zona con
+asiduidad. Esta villa no solo ha creado un ecosistema turístico, sino
+también uno natural.
 
 Estas plantas incluían, al parecer, algunas traídas del Congo, país
 que fue propiedad [del bisabuelo de Balduino](https://es.wikipedia.org/wiki/Leopoldo_II_de_B%C3%A9lgica),
