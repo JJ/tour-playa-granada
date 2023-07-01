@@ -63,8 +63,12 @@ verano aquí, ya sabéis, vuelo en helicóptero, todo eso, el "mito
 fundacional" que se repite en los artículos anteriores y que no vamos
 a repetir aquí. En el artículo dice que estaba cubierto de cañas de
 azúcar, lo que a esas alturas de la película (y desde 20 años atrás)
-era posiblemente mentira, porque ya se habían comenzado otros
-cultivos. Pero la historia, diseñada seguramente por los publicistas
+era posiblemente mentira; lo más probable es que fuera solo cañizo, o
+plantaciones de caña de azúcar abandonadas; si queremos ver a qué se
+parecería la playa en aquella época lo más parecido sería la zona sin
+urbanizar que hay entre el hotel y la desembocadura del Guadalfeo
+
+Pero la historia, diseñada seguramente por los publicistas
 de la familia Agrela (siendo una familia noble, seguro que tenían
 algún plumilla a sueldo), se ha quedado ahí, y un relato pleno de
 emociones suele tener mucha más fuerza que la propia historia.  En
@@ -93,27 +97,29 @@ Granada que todavía está en pie.
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, no
 necesariamente por ese orden, que los reyes querían pasar
-desapercibidos fuera de la farándula. El hecho es que, como hemos dicho al principio de este libro, precisamente se le regaló
-este terreno para atraer a la farándula, si bien no tuvo mucho éxito;
+desapercibidos fuera de la farándula. El hecho es que, como hemos
+dicho al principio de este libro, precisamente se le regaló este
+terreno para atraer a la farándula, si bien no tuvo mucho éxito;
 corren rumores en todo caso de que Balduino se paseaba, como un guiri
 más, en su bicicleta, por los chambaos de la costa para meterse unos
-espetos y unas gaseosas Sanitex y que Fabiola iba a Motril a comprar el pan o unos visillos,
-lo que hiciera falta para la mansión.
+espetos y unas gaseosas Sanitex y que Fabiola iba a Motril a comprar
+el pan o unos visillos, lo que hiciera falta para la mansión.
 
-Mansión que, aunque no existen muchas fotos del interior de la misma, no debía
-carecer de nada. Se menciona repetidamente la afición a la botánica de
-Balduino, que hizo traer a un jardinero innombrado de Bélgica para que
-construyera un pequeño jardín botánico alrededor de la misma, porque
-si bien el clima y la luz de la costa son excelentes, también está
-bien tener un poco de sombrica para poder disfrutar tranquilamente de
-la cerveza de abadía. El jardín se diseñó de forma que diera tanto
-humedad como sombra, en varias capas, con una cantidad considerable de
-palmeras y otras especies; las palmeras son bien visibles desde fuera,
-y el resto podemos imaginarlo. Hoy en día, el jardín
-botánico se ha dejado a su suerte, se ha convertido en hábitat de especies tales
-como la cotorra de Kramer, que ha sido observada en esta zona con
-asiduidad. Esta villa no solo ha creado un ecosistema turístico, sino
-también uno natural.
+Aunque no existen muchas fotos del interior de la misma, debemos
+suponer que esta villa no debía carecer de nada. Se menciona
+repetidamente la afición a la botánica de Balduino, que hizo traer a
+un jardinero innombrado de Bélgica para que construyera un pequeño
+jardín botánico alrededor de la misma, porque si bien el clima y la
+luz de la costa son excelentes, también está bien tener un poco de
+sombrica para poder disfrutar tranquilamente de la cerveza de abadía a
+temperatura ambiente, *comme il faut*. El jardín se diseñó de forma
+que diera tanto humedad como sombra, en varias capas, con una cantidad
+considerable de palmeras y otras especies; las palmeras son bien
+visibles desde fuera, y el resto podemos imaginarlo. Hoy en día, el
+jardín botánico se ha dejado a su suerte, se ha convertido en hábitat
+de especies tales como la cotorra de Kramer, que ha sido observada en
+esta zona con asiduidad. Esta villa no solo ha creado un ecosistema
+turístico, sino también uno natural.
 
 Estas plantas incluían, al parecer, algunas traídas del Congo, país
 que fue propiedad [del bisabuelo de Balduino](https://es.wikipedia.org/wiki/Leopoldo_II_de_B%C3%A9lgica),
