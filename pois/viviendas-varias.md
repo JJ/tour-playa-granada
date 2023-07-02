@@ -1,6 +1,6 @@
 # Viviendas notables en la milla de oro
 
-![Viviendas en la calle Rector Lorenzo Morillas](img/viviendas-rector-lorenzo-morillas.jpg)
+![Viviendas en la calle Rector Lorenzo Morillas; el número 13 está en medio](img/viviendas-rector-lorenzo-morillas.jpg)
 
 El estilo mediterráneo estaba bien cuando uno conducía un
 Supermirafiori o un Mercedes 220. Pero los gustos modernos se inclinan
@@ -32,7 +32,7 @@ conde de Agrela, sobre todo porque se parece más a esa idea de lujo
 turístico que le impulsó a crear Playa Granada.
 
 Pero lo más interesante de esta construcción es cómo se crea alrededor
-de la luz. 
+de la luz.
 
 > Cuando visitamos la playa en invierno, una de las cosas que más nos
 > gusta es la luz. La insolación vendrá a ser la misma que en Granada,
@@ -50,8 +50,15 @@ refleja este intento por modelar la luz natural y artificial, para
 lograr un efecto de calidez sin calor, y de frescor sin frío.
 
 El bloque que hay al lado le quita bastante luz y aire a este; no
-tengo muy claro quién lo ha construido, pero usa otros colores, grises por ejemplo, que en esa conversación
-arquitectónica hace que salga un poco por peteneras. Está demasiado cerca de la vivienda anterior, por ejemplo; el color oscuro de las paredes no debe ser demasiado adecuado para reflejar los rayos del sol, y el material que usan debe acumular calor de una forma que no debe resultar agradable. Pero seguro que tiene buen aire acondicionado y está en primera línea de playa. Desde sus balcones de la planta alta hasta se podrá ver Villa Astrida. Así que no creo que los propietarios, o inquilinos, se quejen demasiado.
+tengo muy claro quién lo ha construido, pero usa otros colores, grises
+por ejemplo, que en esa conversación arquitectónica hace que salga un
+poco por peteneras. Está demasiado cerca de la vivienda anterior, por
+ejemplo; el color oscuro de las paredes no debe ser demasiado adecuado
+para reflejar los rayos del sol, y el material que usan debe acumular
+calor de una forma que no debe resultar agradable. Pero seguro que
+tiene buen aire acondicionado y está en primera línea de playa. Desde
+sus balcones de la planta alta hasta se podrá ver Villa Astrida. Así
+que no creo que los propietarios, o inquilinos, se quejen demasiado.
 
 Quizás la podemos clasificar como "cabaña de aperos decorada". Hay dos
 tipos de construcciones: las cabañas de aperos decoradas y los
@@ -63,13 +70,18 @@ cualquiera de las construcciones de los capítulos anteriores. Más o
 menos sensibles al contexto, sin embargo este diálogo se establece por
 los materiales o por elementos decorativos, no por la forma en sí.
 
-Otra cabaña de aperos decorada mediterráneamente
-es
-[el número 34](https://housfy.com/comprar-casa/motril/calle-rector-lorenzo-morillas-cuevas-85724). Con
+Otra cabaña de aperos decorada mediterráneamente es [el número
+34](https://housfy.com/comprar-casa/motril/calle-rector-lorenzo-morillas-cuevas-85724). Con
 su ladrillo visto, terraza y tejas árabes, recuerda un poco a Las
 Terrazas. Y puede ser tuya por tres cuartos de millón de euros. Un
 poco más y esta calle Lorenzo Morillas se convertiría en la milla de
-oro de Playa Granada. Si al menos no tuviera tantos solares... O tantos otros chalés a la venta. El de al lado de la casa anterior [cuesta casi un millón de euros](https://www.idealista.com/inmueble/37412792/), aunque es un casoplón del quince y es posible que los valga. Pero si ese no te gusta [este también está a la venta](https://www.idealista.com/inmueble/86170035/).
+oro de Playa Granada. Si al menos no tuviera tantos solares... O
+tantos otros chalés a la venta. El de al lado de la casa anterior
+[cuesta casi un millón de
+euros](https://www.idealista.com/inmueble/37412792/), aunque es un
+casoplón del quince y es posible que los valga. Pero si ese no te
+gusta [este también está a la
+venta](https://www.idealista.com/inmueble/86170035/).
 
 > El precio por metro cuadrado, sin embargo, es en 2019 de 2358€, lo
 > que es una cantidad apreciable en esta época post-burbuja, por
