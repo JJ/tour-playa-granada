@@ -5,8 +5,8 @@ __*La primera construcción, la más desconocida*__
 
 Villa Astrida, un recinto y palacete que nace directamente en la
 playa, fue la residencia de verano de los reyes de Bélgica hasta la
-muerte de Balduino; literalmente, porque Balduino murió en este
-preciso lugar.
+muerte de Balduino; literalmente, porque Balduino murió (en julio de
+1993) en este preciso lugar.
 
 Desde entonces, permanece (más o menos) vacía, aunque periódicamente
 corren rumores sobre ella; por ejemplo, [que se pretende convertir en
