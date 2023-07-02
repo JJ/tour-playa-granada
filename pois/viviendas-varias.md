@@ -71,7 +71,12 @@ Terrazas. Y puede ser tuya por tres cuartos de millón de euros. Un
 poco más y esta calle Lorenzo Morillas se convertiría en la milla de
 oro de Playa Granada. Si al menos no tuviera tantos solares... O tantos otros chalés a la venta. El de al lado de la casa anterior [cuesta casi un millón de euros](https://www.idealista.com/inmueble/37412792/), aunque es un casoplón del quince y es posible que los valga. Pero si ese no te gusta [este también está a la venta](https://www.idealista.com/inmueble/86170035/).
 
-> El precio por metro cuadrado, sin embargo, es de 2358€, lo que es una cantidad apreciable en esta época post-burbuja, por [encima de la costa del sol y cercana al Maresme catalán](https://www.elespanol.com/economia/empresas/20190727/comprar-mision-imposible-islas-peninsula-precios-nubes/416708810_0.html). Es precio de oferta, sin embargo. Habrá que ver el precio de venta final.
+> El precio por metro cuadrado, sin embargo, es en 2019 de 2358€, lo
+> que es una cantidad apreciable en esta época post-burbuja, por
+> [encima de la Costa del Sol y cercana al Maresme
+> catalán](https://www.elespanol.com/economia/empresas/20190727/comprar-mision-imposible-islas-peninsula-precios-nubes/416708810_0.html). Es
+> precio de oferta, sin embargo. Habrá que ver el precio de venta
+> final.
 
 Pasemos ahora a ver un par de magníficos patos, empezando por el
 "chiringuito" Badía, antiguo [Oleaje](Oleaje.md).
