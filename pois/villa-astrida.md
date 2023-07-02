@@ -154,7 +154,7 @@ Agrela imaginaron para esta zona. ¿Aprovecharían para los sombrajos
 las hojas de las palmeras que el jardinero belga desechara?
 ¿Invitarían al jardinero a tortilla de patatas y chirimoyos esas
 familiar allí asentadas durante los meses de verano? ¿Sacaría el
-servicio unos túpers de codillo para compartir?
+servicio unos túpers de codillo para compartir entre la plebe?
 
 O, quizás, ¿quitarían todos estos chambaos cuando efectivamente se
 alojaran los reyes allí? Los testimonios dicen que el área de playa
@@ -165,7 +165,7 @@ largas las estancias, posiblemente.
 > Todo esto da para una novela, en la que desaparecería alguien del
 > servicio y el sargento de la guardia civil de Motril tendría que
 > investigar. Una historia apasionante, a medio camino entre la serie
-> Milenio y Cuéntame.
+> Milenio y Cuéntame. Un "chambao noir".
 
 
 La entrada principal de Villa Astrida está en el lado contrario a la
@@ -184,17 +184,21 @@ terraza, según otros más al lado de la piscina.
 
 > Todo el relato de la relación de Balduino y Fabiola con Playa
 > Granada parece redactado por un publicista que trate de mostrar
-> tanto el lugar como al monarca en la mejor luz posible.
+> tanto el lugar como el monarca, como la relación entre ambos, en la
+> mejor luz posible.
 
 A partir de ese momento comenzaron las disputas sobre la
 herencia. ¿Era de la familia, y por tanto podía ser heredado por la
 esposa y sobrinos, o era del estado belga? ¿Era de una fundación que
 creó la esposa (para eludir impuestos, imagino), o era de ella y por
 tanto tenía que pagar tales impuestos? Estas disputas han impedido que
-se haga ningún tipo de cambio en la finca, aunque parece que el
-ayuntamiento se encarga de cuidar el jardín y se han repuesto las
-lonas que cerraban la vista del interior en el año 2022. Por lo
-pronto, [en 2014 una parte fue
+se haga ningún tipo de cambio en la finca, aunque parece que alguien
+se encarga de cuidar el jardín y se han repuesto las lonas que
+cerraban la vista del interior en el año 2022; también alguien tendrá
+que pagar las farolas que iluminan el recinto por la noche.
+
+
+Por otro lado, la finca ha experimentado al menos un cambio:  [en 2014, una parte fue
 expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
 para abrir la pequeña calle que llega desde la rotonda de la calle
 Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, que, como recordamos, es de los 90, pero no
@@ -260,8 +264,9 @@ De alguna forma, la calle enfrente de Villa Astrida se convirtió en la
 enfrente, viviendas realmente notables. Así que continuemos el tour
 por Playa Granada girando 180 grados, poniendo nuestras espaldas al
 mar para que nos dé la brisa y veamos los
-[casoplones](viviendas-varias.md) que hay justo enfrente, en la misma
-acera que La Pesquera y el resto de los bares.
+[casoplones](viviendas-varias.md) que hay ahí, en la misma acera que
+La Pesquera y el resto de los bares, en la zona que los locales suelen
+denominar "la isla".
 
 
 ## Referencias
