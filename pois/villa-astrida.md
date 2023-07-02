@@ -139,13 +139,14 @@ Bélgica con ayuda de la CIA.
 
 La construcción también se usó durante bastante tiempo para una
 costumbre tradicional de motrileños y otra gente de la costa: los
-sombrajos, alternativa sesentera a los AirBnB, construcciones efímeras
-de cañas, cartones, rafia y lo que hiciera falta, donde los maridos
-motrileños aparcaban a la familia durante el verano, para ir ellos a
-dormir de noche, al fresquito de la playa. Estos chambaos, que a veces
-se convertían en establecimientos expendedores de bebidas, eran
-tolerados sin ningún problema por la familia real, de la que cabe
-imaginar poco interés por la playa de chinos más allá del aire
+sombrajos o chambaos, alternativa sesentera a los AirBnB,
+construcciones efímeras de cañas, cartones, rafia y lo que hiciera
+falta, donde los maridos motrileños aparcaban a la familia durante el
+verano, para ir ellos a dormir de noche, al fresquito de la
+playa. Estos chambaos, que a veces se convertían en establecimientos
+expendedores de bebidas, eran tolerados sin ningún problema por la
+familia real, o más bien por los guardeses en su ausencia, de lo que
+cabe imaginar poco interés por la playa de chinos más allá del aire
 salutífero que proporcionaba. Una vez más y por mor de su simple
 existencia, Villa Astrida se convirtió en causa y soporte de un
 turismo, aunque en este caso bastante lejano a lo que los condes de
@@ -157,14 +158,25 @@ servicio unos túpers de codillo para compartir?
 
 O, quizás, ¿quitarían todos estos chambaos cuando efectivamente se
 alojaran los reyes allí? Los testimonios dicen que el área de playa
-delante de Villa Astrida estaban también vallados y custodiados por
-los grises, la policía de Franco. No serían muy largas las estancias,
-posiblemente.
+delante de Villa Astrida estaba también vallada y custodiados por los
+grises, la policía de Franco o quizás la Guardia Civil. No serían muy
+largas las estancias, posiblemente.
 
 > Todo esto da para una novela, en la que desaparecería alguien del
 > servicio y el sargento de la guardia civil de Motril tendría que
 > investigar. Una historia apasionante, a medio camino entre la serie
 > Milenio y Cuéntame.
+
+
+La entrada principal de Villa Astrida está en el lado contrario a la
+playa, y en esta sólo hay un pequeño cobertizo con una puerta lateral,
+y un recinto vallado por dos de sus lados donde quizás se podría
+alojar o atar una pequeña barca. ¿Alguna vez hubo un embarcadero
+adosado a esta valla, donde se pudiera atracar el yate "Ávila"
+llegando por mar a Villa Astrida? Es posible; pero hemos de tener en
+cuenta que en la época que se construyó se dice repetidamente que
+estaba a cientos de metros del mar, así que tendría que haber sido una
+construcción de envergadura considerable.
 
 Balduino murió en 1993, en diferentes lugares de la casa según la
 historia que leas. Según algunos en su despacho, según otros en la
@@ -185,8 +197,8 @@ lonas que cerraban la vista del interior en el año 2022. Por lo
 pronto, [en 2014 una parte fue
 expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
 para abrir la pequeña calle que llega desde la rotonda de la calle
-Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, pero no
-ocurrió hasta muchos años más tarde, en 2014.
+Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, que, como recordamos, es de los 90, pero no
+ocurrió hasta muchos años más tarde.
 
 En el año 2023 se reveló que la finca pertenecía a una [fundación
 INEIS](https://www.cope.es/emisoras/andalucia/granada-provincia/motril/noticias/partir-del-agosto-podremos-visitar-memorial-sobre-rey-balduino-villa-astrida-20230607_2751261)
