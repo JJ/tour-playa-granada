@@ -101,15 +101,23 @@ En esta calle, precisamente, hay una [vivienda muy
 interesante](http://gijonarquitectura.blogspot.com/2017/03/seguimiento-de-obra-vivienda_7.html)
 del fallecido Ángel Gijón, una vivienda de bloques, en un estilo que
 se podría denominar mediterráneo contemporáneo, y que una vez más
-marca tendencia en las construcciones unifamiliares que se harían en la
-misma zona a partir de 2017, cuando se terminó. Abierta hacia la calle
-tiene dos ventanales divididos por un bloque de imitación madera. En
-la parte trasera, una gran terraza se abre al campo de golf. Un
-lucernario con un pequeño techo recorre la mitad de la edificación,
-permitiendo la entrada de luz a las escaleras internas. Una pequeña
-maravilla, que se relaciona tanto con el entorno, como añade una línea
-al diálogo, abriendo camino al resto de las construcciones, sobre todo
-las que se iniciaron después de la pandemia.
+marca tendencia en las construcciones unifamiliares que se harían en
+la misma zona a partir de 2017, cuando se terminó. Abierta hacia la
+calle tiene dos ventanales divididos por un bloque de imitación
+madera. En la parte trasera, una gran terraza se abre al campo de
+golf. Un lucernario con un pequeño techo recorre la mitad de la
+edificación, permitiendo la entrada de luz a las escaleras internas;
+este tipo de ventanas, denominadas "termómetro" por su aspecto
+exterior, como el tubo graduado de un antiguo termómetro de mercurio,
+son bastante características del estilo Bauhaus, un estilo modernista
+que desarrollaron arquitectos alemanes en los años 30, el Alemania
+pero sobre todo en Israel. En Tel Aviv y Jerusalén hay varios ejemplos
+de estos "termómetros" construidos en esa época. Una vez más, muestra
+la maestría del lenguaje arquitectónico por parte de Ángel Gijón y
+cómo ha sabido adaptarlo al clima local. Una pequeña maravilla, que se
+relaciona tanto con el entorno, como añade una línea al diálogo,
+abriendo camino al resto de las construcciones, sobre todo las que se
+iniciaron después de la pandemia.
 
 Pasemos ahora a ver un par de magníficos patos, empezando por el
 "chiringuito" Badía, antiguo [Oleaje](Oleaje.md).
