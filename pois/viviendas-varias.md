@@ -101,7 +101,7 @@ En esta calle, precisamente, hay una [vivienda muy
 interesante](http://gijonarquitectura.blogspot.com/2017/03/seguimiento-de-obra-vivienda_7.html)
 del fallecido Ángel Gijón, una vivienda de bloques, en un estilo que
 se podría denominar mediterráneo contemporáneo, y que una vez más
-marca tendencia en las construciones unifamiliares que se harían en la
+marca tendencia en las construcciones unifamiliares que se harían en la
 misma zona a partir de 2017, cuando se terminó. Abierta hacia la calle
 tiene dos ventanales divididos por un bloque de imitación madera. En
 la parte trasera, una gran terraza se abre al campo de golf. Un
