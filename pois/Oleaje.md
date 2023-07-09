@@ -6,7 +6,7 @@ Tradicionalmente, los chiringuitos en la costa granadina se llamaban
 chambaos o sombraos. A diferencia de los chiringuitos de hoy en día,
 que son básicamente bares situados a pie de playa, el concepto de
 chambao iba un poco más allá: por el precio de una bebida se alquilaba
-un espacio que una familia podía usar durante todo el día.
+un espacio a la sombra que una familia podía usar durante todo el día.
 
 En Motril los chambaos estaban, sobre todo, por la zona cercana del
 puerto, por el barrio de Santa Adela y la playa de Poniente. Y la
@@ -14,30 +14,34 @@ bebida estrella era la gaseosa Sanitex. Como era lo primero que pedían
 los granadinos de a pie, se les llegó a conocer como "Los Sanitex", y
 a la prole, "los niñatos Sanitex".
 
-Los chambaos eran para todo el mundo; en El Peñón, que entonces se
-conocía como ["El chambao del
+Los chambaos eran para todo el mundo; en El Peñón de Salobreña, que
+entonces se conocía como ["El chambao del
 Azules"](https://www.ideal.es/granada/costa/201608/11/origen-sanitex-20160803231400.html),
 cuentan como Balduino llegaba en su bicicleta a tomarse imagino que
-algo más alcohólico que una gaseosa Sanitex acompañado de unos
+algo más alcohólico que una gaseosa Sanitex, acompañado de unos
 espetos. Todo esto viene a decir que esta zona, Playa Granada, estaba
 bastante falta de este tipo de equipamiento hasta no hace tanto.
 
 No todos los chambaos se dedicaban a la actividad comercial. Algunos
-eran casetas para pasar el verano entero. Cuando llegaban las
-vacaciones escolares y los niños empezaban a ponerse empachosos, se
-enfilaba la playa, se agarraban cañas de los cañaverales y cualquier
-otra cosa de la que se pudiera echar mano, y se construía una chabola
-apoyada donde se pudiera, por ejemplo en la propia valla de Villa
+eran construcciones efímeras para que una familia pasara el verano
+entero. Cuando llegaban las vacaciones escolares y los niños empezaban
+a ponerse empachosos, se enfilaba la playa, se agarraban cañas de los
+cañaverales y cualquier otra cosa de la que se pudiera echar mano,
+como plásticos y trozos de uralita, y se construía una chabola apoyada
+donde se pudiera, por ejemplo en la propia valla de Villa
 Astrida. Niños y esposa pasaban allí los meses del verano con visitas
 esporádicas o nocturnas por parte del *pater familias*, que llevaría
-un dinerillo y lo que hubiera menester.
+un dinerillo y lo que hubiera menester. La actividad comercial no
+estaba totalmente excluida, sin embargo; muchas veces se
+complementaban esos ingresos con la venta de gaseosas o simplemente el
+alquiler de zona de sombra, como hemos visto anteriormente.
 
-Todo eso se acabó con la ley de costas, e imagino que también con la
+Todo eso se acabó con la ley de Costas (de 1988), e imagino que también con la
 subida del nivel de vida que hizo que las familias se pudieran
 permitir, por lo menos, un cámping o al menos un familiar con piso en
 la playa que los pudiera alojar por el coste de invitar a una paella y
 proporcionar entretenimiento gratuito a toda la familia. Pero sobre
-todo por la ley de costas, que impedía la ocupación del dominio
+todo por la ley de Costas, que impedía la ocupación del dominio
 marítimo por razones de seguridad pero, sobre todo, por la parte
 "pública" del asunto.
 
