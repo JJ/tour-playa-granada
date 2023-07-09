@@ -59,7 +59,7 @@ con un diseño de la arquitecta [Loreto
 Spa](https://www.behance.net/gallery/52436491/Oleaje-Playa-Granada), una persona cuya familia ha
 estado ligada a Motril durante mucho tiempo. Y se llamó Oleaje.
 
-> La página de tal nombre en la web de Loreto Spá ha desaparecido, y
+> La página de tal nombre en la web de Loreto Spa ha desaparecido, y
 > ha sido sustituida por una titulada [Beach Club Playa
 > Granada](https://loretospa.es/proyectos/beach-club-playa-granada/).
 
@@ -114,7 +114,7 @@ alguna positiva, como la mía), creo que merece la pena ir, quizás al
 mediodía en un día luminoso de invierno, a tomarse una cerveza
 tranquila mirando al mar; por la noche el ambiente cambia totalmente y
 puede que no sea para todo el mundo, pero aún así merece la pena
-disfrutar desde el interior la visión arquitectónica de Loreto Spá.
+disfrutar desde el interior la visión arquitectónica de Loreto Spa.
 
 Desde aquí vamos al pato siguiente: [La iglesia de Santa Josefina Bakhita](iglesia-josefina-bakhita.md).
 
