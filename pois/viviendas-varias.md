@@ -120,5 +120,5 @@ abriendo camino al resto de las construcciones, sobre todo las que se
 iniciaron después de la pandemia.
 
 Pasemos ahora a ver un par de magníficos patos, empezando por el
-"chiringuito" Badía, antiguo [Oleaje](Oleaje.md).
+"chiringuito" Badía, llamado [Oleaje](Oleaje.md) cuando se creó.
 
