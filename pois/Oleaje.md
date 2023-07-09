@@ -46,53 +46,75 @@ marítimo por razones de seguridad pero, sobre todo, por la parte
 "pública" del asunto.
 
 Los chambaos tuvieron que desaparecer o convertirse en chiringuitos
-con algún tipo de construcción permanente, pero en Playa Granada
+con algún tipo de construcción permanente. Pero en Playa Granada
 todavía faltaban algunos que correspondieran con la imagen que quería
-tratar de transmitir el ayuntamiento de Motril de Playa Granada. Así
-que el Ayuntamiento sacó un concurso de ideas para construir un, no
-sabría como decirlo, centro de ocio o algo así, chiringuito 2.0, algo
-por el estilo.
+tratar de transmitir el ayuntamiento de Motril de la misma. Así que el
+Ayuntamiento sacó un concurso de ideas para construir un, no sabría
+como decirlo, centro de ocio o algo así, chiringuito 2.0, algo por el
+estilo.
 
 El concurso lo ganó una empresa llamada [Swing Chill
 Out](http://www.elfaromotril.es/2012/09/15/el-club-de-ocio-%E2%80%98swing%E2%80%99-chill-out-de-playa-granada-sera-referente-turistico-de-la-costa-granadina/),
 con un diseño de la arquitecta [Loreto
-Spa](http://www.loretospa.es/oleaje.html), una persona cuya familia ha
+Spa](https://www.behance.net/gallery/52436491/Oleaje-Playa-Granada), una persona cuya familia ha
 estado ligada a Motril durante mucho tiempo. Y se llamó Oleaje.
 
-El concepto del chiringuito es muy original: en vez del clásico
+> La página de tal nombre en la web de Loreto Spá ha desaparecido, y
+> ha sido sustituida por una titulada [Beach Club Playa
+> Granada](https://loretospa.es/proyectos/beach-club-playa-granada/).
+
+El concepto de este *beach club* es muy original: en vez del clásico
 chiringuito cuadrado, con barra en una esquina y terrazas alrededor,
-la construcción es de forma aproximadamente circular, como una
+la construcción tiene una forma aproximadamente circular, como una
 caracola o, efectivamente, como dos ola superpuestas, con terrazas
 para reservados, piscina y un área grande abierta al mar.
 
 ![Captura satélite de Google Maps](img/oleaje.png)
 
-Si hay un *pato* arquitectónico, este es uno de ellos. Un chiringuito,
-edificación cerca de las olas por antonomasia, con forma de ola, y que
-además se llama Oleaje. Se nota mucho mejor visto desde arriba; olas o
-caracolas, pero pato en todo caso.
+Si hay un *pato* arquitectónico en Playa Granada, este es uno de
+ellos. Un chiringuito, edificación cerca de las olas por antonomasia,
+con forma de ola, y que además se llamó (originalmente) Oleaje. Se
+nota mucho mejor visto desde arriba; olas o caracolas, pero pato en
+todo caso.
 
 ![Ortofoto de Oleaje en sus orígenes](img/oleaje-ortofoto.png)
 
 Sin embargo, la originalidad arquitectónica no está reñida con el
 fracaso en los negocios. Como se ve en la ortofoto superior, a Oleaje
 se le concedió también la administración de una serie de sombrillas y
-hamacas.
+hamacas. Estas hamacas estuvieron durante un tiempo abandonadas en uno
+de los laterales; en 2023 han vuelto a tener un área de hamacas
+servidas por el ahora Badía.
 
-Estas hamacas yacen ahora, abandonadas, en uno de los laterales. La
-apertura, a bombo y platillo, se produjo en la fecha prevista, mayo
-de 2013, con presencia de las fuerzas vivas de la localidad. Pero para
-principios del año 2019 el chiringuito estaba "cerrado" (en realidad
-abierto y expuesto al saqueo y la intemperie), con deudas al
-ayuntamiento por impago de los cánones y también incumplimiento de las
-condiciones originales, que pedían que estuviera abierto todo el año.
+Pero la historia hasta aquí, y posiblemente en adelante, ha sido un
+tanto tortuosa. La apertura, a bombo y platillo, se produjo en la
+fecha prevista, mayo de 2013, con presencia de las fuerzas vivas de la
+localidad. Pero para principios del año 2019 el chiringuito estaba
+"cerrado" (en realidad abierto y expuesto al saqueo y la intemperie),
+con deudas al ayuntamiento por impago de los cánones y también
+incumplimiento de las condiciones originales, que pedían, entre otras
+cosas, que estuviera abierto todo el año.
 
 Tras un episodio en el que los propietarios lo pusieron a la venta en
-WallaPop, finalmente recaló en su propietario actual (en 2019), que lo
-reconvirtió en Badía Beach Club. Los problemas de ruido siguen ahí:
-la música se escucha hasta más allá del campo de golf. Pero por lo
-menos está abierto. La barca donde se hacían los espetos, tristemente,
-ha desaparecido.
+WallaPop, finalmente recaló en su propietario actual (en 2019), que,
+tras un breve período en que compartía el espacio con la franquicia
+D'Platos, lo reconvirtió en Badía Beach Club. Los problemas de ruido
+siguen ahí: la música se escucha hasta más allá del campo de
+golf. Pero por lo menos está abierto. La barca donde se hacían los
+espetos, tristemente, ha desaparecido.
+
+En el año 2023, además, ha habido pequeñas modificaciones del
+original: la torreta (el centro de la caracola) está pintada de verde,
+rompiendo la uniformidad blanca original de todo el conjunto. Y las
+puertas tampoco están pintadas con el mismo color; hay un jardín
+invertido encima de la barra que no parece que esté muy cuidado.
+
+Con todo y con eso (y las múltiples reseñas negativas que tiene, y
+alguna positiva, como la mía), creo que merece la pena ir, quizás al
+mediodía en un día luminoso de invierno, a tomarse una cerveza
+tranquila mirando al mar; por la noche el ambiente cambia totalmente y
+puede que no sea para todo el mundo, pero aún así merece la pena
+disfrutar desde el interior la visión arquitectónica de Loreto Spá.
 
 Desde aquí vamos al pato siguiente: [La iglesia de Santa Josefina Bakhita](iglesia-josefina-bakhita.md).
 
