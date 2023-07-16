@@ -41,10 +41,10 @@ adelante de la publicidad (de la forma más burda, tapada con una tela)
 para quedarse en el nombre actual, Mar de Astrid.
 
 El edificio tiene dos partes, cada una de ellas con forma de ola con
-el seno abieto hacia la calle, y un hueco entre las dos; vistas desde
-arriba, parece una M liberamente curvada con un pequeño corte en
+el seno abierto hacia la calle, y un hueco entre las dos; vistas desde
+arriba, parece una M ligeramente curvada con un pequeño corte en
 medio; la parte encima del travesaño de la M albergaría la piscina, y
-los huecos incluirían un parque infantil y unas pistas de paddle. La
+los huecos incluirían un parque infantil y unas pistas de pádel. La
 verdad es que visto desde fuera (que no lo he visto de otra forma)
 tiene un aspecto bastante original. Las última fase se terminó y ocupó
 en 2023. Por el perfil en Instagram, parece que quien lo construyó fue
