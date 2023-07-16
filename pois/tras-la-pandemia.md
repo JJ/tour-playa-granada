@@ -71,4 +71,11 @@ río, y empezó a construir viviendas funcionales, que se ajustaran
 estrictamente al plan urbanístico, pero que se pudieran vender con
 facilidad a todo tipo de clientes: el residencial, porque al fin y al
 cabo Playa Granada es un barrio de Motril, el vacacional, y por
-supuesto al cliente que quiere convertir una planta completa en AirBnB.
+supuesto al cliente que quiere convertir una planta completa en
+AirBnB.
+
+El curiosamente llamado Aguacata Beach tiene casi cuatrocientas
+viviendas, y un poco de todo. Se fueron entregando las diferentes
+fases poco a poco, pero para el verano de 2023 estaba ya completo y
+ocupado, y bien que se notó en la ocupación de los aparcamientos de la
+calle.
