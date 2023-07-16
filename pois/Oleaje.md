@@ -65,11 +65,12 @@ tiempo, y una propuesta llamada Oleaje.
 > ha sido sustituida por una titulada [Beach Club Playa
 > Granada](https://loretospa.es/proyectos/beach-club-playa-granada/).
 
-El concepto de este *beach club* es muy original: en vez del clásico
-chiringuito cuadrado, con barra en una esquina y terrazas alrededor,
-la construcción tiene una forma aproximadamente circular, como una
-caracola o, efectivamente, como dos ola superpuestas, con terrazas
-para reservados, piscina y un área grande abierta al mar.
+El concepto de este *beach club* era, de partida, bastante original:
+en vez del clásico chiringuito cuadrado, con barra en una esquina y
+terrazas alrededor, la construcción tiene una forma aproximadamente
+circular, como una caracola o, efectivamente, como dos ola
+superpuestas, con terrazas para reservados, piscina y un área grande
+abierta al mar.
 
 ![Captura satélite de Google Maps](img/oleaje.png)
 
@@ -86,33 +87,41 @@ fracaso en los negocios. Como se ve en la ortofoto superior, a Oleaje
 se le concedió también la administración de una serie de sombrillas y
 hamacas. Estas hamacas estuvieron durante un tiempo abandonadas en uno
 de los laterales; en 2023 han vuelto a tener un área de hamacas
-servidas por el ahora Badía.
+servidas por el ahora Badía, pero el éxito de las mismas es
+relativamente variable.
 
-Pero la historia hasta aquí, y posiblemente en adelante, ha sido un
-tanto tortuosa. La apertura, a bombo y platillo, se produjo en la
-fecha prevista, mayo de 2013, con presencia de las fuerzas vivas de la
-localidad. Pero para principios del año 2019 el chiringuito estaba
-"cerrado" (en realidad abierto y expuesto al saqueo y la intemperie),
-con deudas al ayuntamiento por impago de los cánones y también
-incumplimiento de las condiciones originales, que pedían, entre otras
-cosas, que estuviera abierto todo el año.
+Porque el resto de la historia comercial hasta aquí, y posiblemente en
+adelante, ha sido un tanto tortuosa. La apertura, a bombo y platillo,
+se produjo en la fecha prevista, mayo de 2013, con presencia de las
+fuerzas vivas de la localidad. Pero para principios del año 2019 el
+chiringuito estaba "cerrado" (en realidad abierto y expuesto al saqueo
+y la intemperie), con deudas al ayuntamiento por impago de los cánones
+y también incumplimiento de las condiciones originales, que pedían,
+entre otras cosas, que estuviera abierto todo el año.
 
-Tras un episodio en el que los propietarios lo pusieron a la venta en
-WallaPop, finalmente recaló en su propietario actual (en 2019), que,
-tras un breve período en que compartía el espacio con la franquicia
-D'Platos, lo reconvirtió en Badía Beach Club. Los problemas de ruido
-siguen ahí: la música se escucha hasta más allá del campo de
+Tras un episodio en el que los propietarios pusieron a la venta la
+concesión en WallaPop, finalmente recaló en su propietario actual (en
+2019), que, tras un breve período en que compartía el espacio con la
+franquicia D'Platos, lo reconvirtió en Badía Beach Club. Los problemas
+de ruido siguen ahí: la música se escucha hasta más allá del campo de
 golf. Pero por lo menos está abierto. La barca donde se hacían los
-espetos, tristemente, ha desaparecido.
+espetos, tristemente, ha desaparecido. El éxito sigue siendo, por
+decirlo suavemente, variable; 3,3 de media en las reseñas de Google
+(julio de 2023); la mayoría de las reseñas recientes no son muy
+positivas. Destacada, por cierto, mi reseña, puesta justo a la vuelta
+de la pandemia, donde pensé que había que darle una oportunidad. No he
+vuelto mucho desde entonces, para ser honesto.
 
-En el año 2023, además, ha habido pequeñas modificaciones del
-original: la torreta (el centro de la caracola) está pintada de verde,
-rompiendo la uniformidad blanca original de todo el conjunto. Y las
-puertas tampoco están pintadas con el mismo color; hay un jardín
-invertido encima de la barra que no parece que esté muy cuidado.
+Volviendo a la arquitectura: en el año 2023, además, ha habido
+pequeñas modificaciones del original: la torreta (el centro de la
+caracola) está pintada de verde, rompiendo la uniformidad blanca
+original de todo el conjunto. Y las puertas tampoco están pintadas con
+el mismo color; hay un jardín invertido encima de la barra que no
+parece que esté muy cuidado, y que probablemente acabará
+desapareciendo. La zona de la piscina y barra, llegando desde la playa
+hacia la izquierda, parece en general abandonada.
 
-Con todo y con eso (y las múltiples reseñas negativas que tiene, y
-alguna positiva, como la mía), creo que merece la pena ir, quizás al
+Con todo y con eso, creo que merece la pena ir, quizás al
 mediodía en un día luminoso de invierno, a tomarse una cerveza
 tranquila mirando al mar; por la noche el ambiente cambia totalmente y
 puede que no sea para todo el mundo, pero aún así merece la pena
@@ -126,7 +135,7 @@ Desde aquí vamos al pato siguiente: [La iglesia de Santa Josefina Bakhita](igle
 *  [Recuperación del Oleaje](https://www.ideal.es/granada/costa/nuevo-inversor-inyecta-20190613203108-nt.html)
 
 *  [Más información y entrevista con Ramón España](https://www.ideal.es/granada/costa/manos-negras-querian-20190613204529-nt.html)
-  
+
 * [Retirada de la concesión administrativa](https://www.motrildigital.com/ayuntamiento-motril-acuerda-extinguir-la-concesion-administrativa-del-chiringuito-oleaje/)
 
 * [En defensa de los chiringuitos](http://granadacostanacional.es/rompiendo-una-lanza-en-recuerdo-de-los-chiringuitos/)
@@ -135,7 +144,7 @@ Desde aquí vamos al pato siguiente: [La iglesia de Santa Josefina Bakhita](igle
 * [Apertura el 25 de mayo de 2013 en GH](https://www.granadahoy.com/provincia/chiringuito-Playa-Granada-puertas-proximo_0_694730771.html)
 
 *  [Venta en WallaPop](https://www.ideal.es/granada/costa/vende-chiringuito-playa-20190424185306-nt.html)
-  
+
 * [Un poco de hype durante la construcción](https://motrildigital.blogia.com/2012/121711-el-club-de-ocio-chill-out-oleaje-playa-granada-abrir-sus-puertas-el-pr-ximo-m.php)
 
 *  [Club de ocio chill out Swing](http://www.elfaromotril.es/2012/09/15/el-club-de-ocio-%E2%80%98swing%E2%80%99-chill-out-de-playa-granada-sera-referente-turistico-de-la-costa-granadina/),
