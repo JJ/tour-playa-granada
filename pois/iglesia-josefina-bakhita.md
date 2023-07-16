@@ -76,7 +76,7 @@ que tienen que ver tanto con los materiales como con la estructura. El
 cemento es un material estereotómico; la estructura de la iglesia
 también lo es, ya que al ser cemento armado se une de forma continua
 con el suelo; un concepto relativamente común en las iglesias
-modenas. Pero esa relación continua con el suelo hace también que las
+modernas. Pero esa relación continua con el suelo hace también que las
 estructuras estereotómicas se relacionen con el exterior, con el
 paisaje, y lo unan con las imágenes y los símbolos de la propia
 iglesia; literalmente abren la iglesia a todo el mundo, y en este caso
