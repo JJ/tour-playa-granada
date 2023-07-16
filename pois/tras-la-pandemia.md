@@ -74,8 +74,12 @@ cabo Playa Granada es un barrio de Motril, el vacacional, y por
 supuesto al cliente que quiere convertir una planta completa en
 AirBnB.
 
-El curiosamente llamado Aguacata Beach tiene casi cuatrocientas
+El curiosamente llamado Aguacate Beach tiene casi cuatrocientas
 viviendas, y un poco de todo. Se fueron entregando las diferentes
 fases poco a poco, pero para el verano de 2023 estaba ya completo y
 ocupado, y bien que se notó en la ocupación de los aparcamientos de la
-calle.
+calle. Este proyecto fue de ACM arquitectura, y es la urbanización con
+mayor número de viviendas de toda Playa Granada. Si tenemos en cuenta
+que tiene casi tantas viviendas como toda la población permanente que
+está censada en Playa Granada, nos hacemos una idea de la escala de la
+construcción.
