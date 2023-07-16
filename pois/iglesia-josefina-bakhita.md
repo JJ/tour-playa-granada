@@ -64,13 +64,15 @@ con lo que esta construcción tiene apenas unos años.
 > la llamada guerra árabe-congoleña, así que cabe cierta posibilidad
 > de que, en este caso particular, la relación no sea tan negativa.
 
-En vez del mediterráneo enjalbegado, Elisa Valero elige el cemento
-desnudo, en una vuelta a las primeras iglesias, solo piedra sin ningún
-tipo de decoración, una opción esencialista como gran parte de la
-arquitectura moderna. Y apuesta también por la ventilación natural,
-con una serie de puertas abiertas al sur y a la playa, que permiten
-ventilar el espacio sin necesidad de gastar en aire acondicionado. En
-arquitectura se habla de estructuras [tectónicas y
+En vez del mediterráneo enjalbegado, Elisa Valero elige el
+esencialismo, manteniendo sólo los elementos necesarios para la
+función de la iglesia, el cemento desnudo, en una vuelta a las
+primeras iglesias de piedra desnuda, sin ningún tipo de decoración,
+una opción esencialista como gran parte de la arquitectura moderna. Y
+apuesta también por la ventilación natural, con una serie de puertas
+abiertas al sur y a la playa, que permiten ventilar el espacio sin
+necesidad de gastar en aire acondicionado. En arquitectura se habla de
+estructuras [tectónicas y
 estereotómicas](https://www.uic.mx/tectonico-estereotomico-materia-estructura/),
 que tienen que ver tanto con los materiales como con la estructura. El
 cemento es un material estereotómico; la estructura de la iglesia
