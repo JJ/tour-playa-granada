@@ -36,28 +36,30 @@ estaba totalmente excluida, sin embargo; muchas veces se
 complementaban esos ingresos con la venta de gaseosas o simplemente el
 alquiler de zona de sombra, como hemos visto anteriormente.
 
-Todo eso se acabó con la ley de Costas (de 1988), e imagino que también con la
-subida del nivel de vida que hizo que las familias se pudieran
-permitir, por lo menos, un cámping o al menos un familiar con piso en
-la playa que los pudiera alojar por el coste de invitar a una paella y
-proporcionar entretenimiento gratuito a toda la familia. Pero sobre
-todo por la ley de Costas, que impedía la ocupación del dominio
+Todo eso se acabó con la ley de Costas (de 1988), e imagino que
+también con la subida del nivel de vida que hizo que las familias se
+pudieran permitir, por lo menos, un cámping o al menos un familiar con
+piso en la playa que los pudiera alojar por el coste de invitar a una
+paella y proporcionar entretenimiento gratuito a toda la familia. Pero
+sobre todo por la ley de Costas, que impedía la ocupación del dominio
 marítimo por razones de seguridad pero, sobre todo, por la parte
 "pública" del asunto.
 
-Los chambaos tuvieron que desaparecer o convertirse en chiringuitos
-con algún tipo de construcción permanente. Pero en Playa Granada
-todavía faltaban algunos que correspondieran con la imagen que quería
-tratar de transmitir el ayuntamiento de Motril de la misma. Así que el
-Ayuntamiento sacó un concurso de ideas para construir un, no sabría
-como decirlo, centro de ocio o algo así, chiringuito 2.0, algo por el
-estilo.
+Los chambaos tuvieron que desaparecer o convertirse en
+establecimientos de hostelería (a veces con la denominación de
+*chiringuito*) con algún tipo de construcción permanente. Pero Playa
+Granada parecía necesitar uno que correspondiera con la imagen que
+quería tratar de transmitir el ayuntamiento de Motril de la misma. Así
+que este sacó un concurso de ideas para construir un, no sabría como
+decirlo, centro de ocio playero o algo así, chiringuito 2.0, algo por
+el estilo.
 
-El concurso lo ganó una empresa llamada [Swing Chill
+El concurso lo ganó, en 2012, una empresa llamada [Swing Chill
 Out](http://www.elfaromotril.es/2012/09/15/el-club-de-ocio-%E2%80%98swing%E2%80%99-chill-out-de-playa-granada-sera-referente-turistico-de-la-costa-granadina/),
 con un diseño de la arquitecta [Loreto
-Spa](https://www.behance.net/gallery/52436491/Oleaje-Playa-Granada), una persona cuya familia ha
-estado ligada a Motril durante mucho tiempo. Y se llamó Oleaje.
+Spa](https://www.behance.net/gallery/52436491/Oleaje-Playa-Granada),
+una persona cuya familia ha estado ligada a Motril durante mucho
+tiempo, y una propuesta llamada Oleaje.
 
 > La página de tal nombre en la web de Loreto Spa ha desaparecido, y
 > ha sido sustituida por una titulada [Beach Club Playa
