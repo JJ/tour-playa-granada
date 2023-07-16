@@ -72,7 +72,7 @@ circular, como una caracola o, efectivamente, como dos ola
 superpuestas, con terrazas para reservados, piscina y un área grande
 abierta al mar.
 
-![Captura satélite de Google Maps](img/oleaje.png)
+![Captura satélite de Google Maps; todavía tiene los marcadores de las dos etapas del establecimiento: Oleaje y Badía Beach Club](img/oleaje.png)
 
 Si hay un *pato* arquitectónico en Playa Granada, este es uno de
 ellos. Un chiringuito, edificación cerca de las olas por antonomasia,
