@@ -48,7 +48,7 @@ santa, nacida en Darfur, esclavizada durante gran parte de su vida,
 para convertirse en monja finalmente en Italia, donde murió. La
 iglesia fue [consagrada a ella el 5 de agosto de
 2016](https://www.archidiocesisgranada.es/index.php/noticias/la-iglesia-en-playa-granada-celebra-la-bendicion-de-la-escultura-de-santa-josefina-bakhita),
-con lo que esta construcción tiene apenas tres años.
+con lo que esta construcción tiene apenas unos años.
 
 > Posiblemente sea inconsciente el diálogo entre la iglesia dedicada a
 > una santa africana, que fue esclava en vida, y la residencia de los
