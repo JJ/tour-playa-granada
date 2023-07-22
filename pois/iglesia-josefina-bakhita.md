@@ -66,9 +66,9 @@ con lo que esta construcción tiene apenas unos años.
 
 En vez del mediterráneo enjalbegado, Elisa Valero elige el
 esencialismo, manteniendo sólo los elementos necesarios para la
-función de la iglesia, el cemento desnudo, en una vuelta a las
+función de la iglesia, el cemento armado desnudo, en una vuelta a las
 primeras iglesias de piedra desnuda, sin ningún tipo de decoración,
-una opción esencialista como gran parte de la arquitectura moderna. Y
+una opción esencialista como gran parte de la arquitectura moderna, que hereda además de grandes arquitectos sacros españoles como Miguel Fisac, el primero que, en los años cincuenta, comenzó a usar hormigón en iglesias como la de Arcas Reales. Y
 apuesta también por la ventilación natural, con una serie de puertas
 abiertas al sur y a la playa, que permiten ventilar el espacio sin
 necesidad de gastar en aire acondicionado. En arquitectura se habla de
