@@ -35,7 +35,7 @@ parte de la propia estructura del edificio, dando luz a diferentes
 La nave de la iglesia se alinea en dirección este-oeste, como es
 tradicional en las iglesias, representando el tránsito de la muerte
 (puesta del sol) a la resurrección (salida del sol, al este); al oeste
-se encuentra una cruz hecha de rendijas en el cemento desde la que se
+se encuentra una cruz hecha de rendijas en el hormigón desde la que se
 puede contemplar la puesta de sol. Se apila así el simbolismo de la
 puesta del sol con el símbolo de la muerte de Cristo, la cruz. La
 iluminación natural del altar está diseñada también para simbolizar la
@@ -66,7 +66,7 @@ con lo que esta construcción tiene apenas unos años.
 
 En vez del mediterráneo enjalbegado, Elisa Valero elige el
 esencialismo, manteniendo sólo los elementos necesarios para la
-función de la iglesia, el cemento armado desnudo, en una vuelta a las
+función de la iglesia, el hormigón armado desnudo, en una vuelta a las
 primeras iglesias de piedra desnuda, sin ningún tipo de decoración,
 una opción esencialista como gran parte de la arquitectura moderna, que hereda además de grandes arquitectos sacros españoles como Miguel Fisac, el primero que, en los años cincuenta, comenzó a usar hormigón en iglesias como la de Arcas Reales. Y
 apuesta también por la ventilación natural, con una serie de puertas
@@ -75,8 +75,8 @@ necesidad de gastar en aire acondicionado. En arquitectura se habla de
 estructuras [tectónicas y
 estereotómicas](https://www.uic.mx/tectonico-estereotomico-materia-estructura/),
 que tienen que ver tanto con los materiales como con la estructura. El
-cemento es un material estereotómico; la estructura de la iglesia
-también lo es, ya que al ser cemento armado se une de forma continua
+hormigón es un material estereotómico; la estructura de la iglesia
+también lo es, ya que al ser hormigón armado se une de forma continua
 con el suelo; un concepto relativamente común en las iglesias
 modernas. Pero esa relación continua con el suelo hace también que las
 estructuras estereotómicas se relacionen con el exterior, con el
