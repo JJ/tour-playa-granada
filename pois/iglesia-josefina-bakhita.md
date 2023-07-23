@@ -98,6 +98,16 @@ oculta al público. Desde esa perspectiva, la iglesia se integra en la
 naturaleza, pero también la hiedra provee frescor al interior,
 resguardando la fachada del sol.
 
+La advocación de Santa Josephina Bakhita, aunque no es parte de la
+arquitectura, es también excepcional. La diócesis de Granada la
+justifica diciendo que está enfrente de la playa a la que tantos
+migrantes han llegado. Pero no hace falta decir que la elección de una
+santa sudanesa, aunque italiana de adopción (veneciana, por más señas)
+es única; ni siquiera hay muchas iglesias con la misma advocación en
+Italia: tan sólo el santuario donde estuvo como monja es conocido
+popularmente como "Santa Bakhita". La fiesta se celebra el 9 de
+febrero.
+
 En resumen, una genialidad de Elisa Valero, una arquitectura
 contemporánea que se puede ver desde toda Playa Granada. Para visitar
 el interior, sin embargo, tendrás que hacerlo cuando se abra para la
