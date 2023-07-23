@@ -44,16 +44,18 @@ frecuente y causa tantos derribos de macetas. Por supuesto, delimitar
 claramente donde empieza y acaba; también evitar que algunos animales
 entren en el campo, o al menos retrasarlos.
 
-En todo caso, cada vez se ven menos; llegando por la carretera, por el
-camino del Río Seco, se pueden encontrar ramos de cañizo formando una
-pequeña cabaña, a la derecha, posiblemente con el único objetivo de
-almacenarlos. En esa misma zona, enfrente de la primera urbanización
-Moriscos Golf, hay un trecho grande con cañizo. Yendo a la derecha del
-campo de golf y el hotel, en los límites de la urbanización, hay
+En todo caso, cada vez se ven menos; llegando por la carretera, es
+decir, el camino del Río Seco, se pueden encontrar ramos de cañizo
+formando una pequeña cabaña, a la derecha, posiblemente con el único
+objetivo de dejarlos ordenados para usarlos más adelante. En esa misma
+zona, pero ya en Playa Granada, enfrente de la primera urbanización
+Moriscos Golf, hay un trecho grande donde el cañizo separa un campo de
+cultivo de la carretera. Yendo a la derecha del campo de golf y el
+hotel, en los límites de la urbanización, en dirección a la playa, hay
 muchos campos a la derecha que tienen esa misma característica. Por
 cierto, hay también un campo de guayabas según se entra en ese camino,
 enfrente justo de los invernaderos; está abandonado y todas las
-guayabas se encuentran por el suelo.
+guayabas que han madurado se encuentran por el suelo.
 
 Pero lo que me ha empujado a añadir este capítulo fue el episodio de
 ayer, en el chiringuito 18 Nudos, justo al lado del río Guadalfeo. Un
@@ -69,7 +71,8 @@ apenas a metro y medio de distancia, en la playa, más allá de la protección
 del humilde cañizo.
 
 Harían bien el Bonobo, el Tinglao, y otros chiringuitos de proveerse
-de unos cuantos cañizos desplegables en caso de Poniente. Un trozo de
-historia, y una protección eficiente. Ahí lo dejo.
+de unos cuantos cañizos desplegables en caso de que se levantara el
+Poniente. Un trozo de historia, y una protección eficiente. Ahí lo
+dejo.
 
 
