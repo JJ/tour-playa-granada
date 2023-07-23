@@ -98,18 +98,23 @@ oculta al público. Desde esa perspectiva, la iglesia se integra en la
 naturaleza, pero también la hiedra provee frescor al interior,
 resguardando la fachada del sol.
 
-La advocación de Santa Josephina Bakhita, aunque no es parte de la
+La advocación de Santa Josefina Bakhita, aunque no es parte de la
 arquitectura, es también excepcional. La diócesis de Granada la
 justifica diciendo que está enfrente de la playa a la que tantos
 migrantes han llegado. Pero no hace falta decir que la elección de una
 santa sudanesa, aunque italiana de adopción (veneciana, por más señas)
 es única; ni siquiera hay muchas iglesias con la misma advocación en
 Italia: tan sólo el santuario donde estuvo como monja es conocido
-popularmente como "Santa Bakhita". La fiesta se celebra el 9 de
-febrero. Curiosamente, se usa "Josephina" en el nombre en vez de
-Giuseppina (que era el nombre que tenía) o su traducción,
-Josefina. Puede ser que influidos por la novela que se publicó en
-Francia sobre ella
+popularmente como "Santa Bakhita". Una película sobre la vida de la
+santa, "Bakhita, la santa africana" se estrenó en 2009, 9 años después
+de la canonización, que ocurrió en el año 2000. Es posible que la
+diócesis buscara una santa contemporánea con la que se pudiera
+identificar mejor la comunidad. En el año 2017, después de la
+consagración de la iglesia, una novela de la vida de la santa llamada
+"Bakhita", de Véronique Olmi, se publicó en francés y ganó el premio
+FNAC, siendo a la vez finalista del premio Goncourt, el premio más
+prestigioso de la literatura francesa. La fiesta se celebra el 8 de
+febrero.
 
 En resumen, una genialidad de Elisa Valero, una arquitectura
 contemporánea que se puede ver desde toda Playa Granada. Para visitar
