@@ -48,16 +48,23 @@ los huecos incluirían un parque infantil y unas pistas de pádel. La
 verdad es que visto desde fuera (que no lo he visto de otra forma)
 tiene un aspecto bastante original. Las última fase se terminó y ocupó
 en 2023. Por el perfil en Instagram, parece que quien lo construyó fue
-Estudio 3, un estudio de arquitectura de Granada.
+Estudio 3, un estudio de arquitectura de Granada. Esta ondulación del
+edificio lo relacionaría tanto con el Pueblo del Chirimoyo como con
+las Terrazas. Son muchas más cosas las que las separan, pero el
+diálogo arquitectónico sique ahí, forzado quizá por el entorno o por
+las normas urbanísticas. Al final, las viviendas en la playa no pueden
+tener un patio interior y deben maximizar las vistas; esta
+organización ondulada ayuda a conseguirlo.
 
 El acabado de Mar de Astrid es en color blanco, aunque después de la
-lluvia de barro del año 2022, el deterioro es considerable; así
-alterna con el rojo del residencial Entre Mares, justo al lado, y el
-amarillento del Claro de Luna. El contraste con esas dos
+lluvia de barro del año 2022, el deterioro es considerable; el
+resultado se acerca más al rojo del residencial Entre Mares, justo al
+lado, y el amarillento del Claro de Luna. El contraste con esas dos
 edificaciones, bastante clásicas, es evidente; la diferencia de
-precio, quizás no tanta, aunque tiene una buena cantidad de dúplex en
-los áticos, con su piscinita y todo, que deben haber salido por un
-buen precio.
+precio, quizás no tanta, porque las dos anteriores se construyeron y
+vendieron en plena burbuja inmobiliaria; Mar de Astrind, sin embargo,
+tiene una buena cantidad de dúplex en los áticos, con su piscinita y
+todo, que deben haber salido por un buen precio.
 
 Los nuevos bloques de apartamentos fueron surgiendo de forma
 secuencial, para no saturar la oferta, y han empezado a romper el
@@ -82,4 +89,20 @@ calle. Este proyecto fue de ACM arquitectura, y es la urbanización con
 mayor número de viviendas de toda Playa Granada. Si tenemos en cuenta
 que tiene casi tantas viviendas como toda la población permanente que
 está censada en Playa Granada, nos hacemos una idea de la escala de la
-construcción.
+construcción; en verano de 2023, cuando todas las viviendas están
+entregadas, se ha empezado a notar cierta masificación, sobre todo en
+los aparcamientos de la calle Federico Mayor Zaragoza, llena hasta las
+rotondas, para regocijo de los policías municipales que pasan poniendo
+multas y encuentran objetivos fáciles.
+
+La construcción no ha parado, y en menos de dos años toda una acera de
+la calle estará completa, desde la rotonda de entrada hasta el nuevo
+vial que la une con la playa. Se ha creado un pequeño centro
+comercial, con un supermercado y una forma de concha, creado también,
+aparentemente, por el mismo Estudio 3; no parece que sea más que una
+pequeña estructura para menos de media docena de tiendas en este
+momento. La forma del techo ondulado, una vez más, remite al entorno
+playero, y el color blanco a la arquitectura mediterránea. Habrá que
+ver cómo "conversa" con el resto de los edificios que van a surgir a
+su lado.
+
