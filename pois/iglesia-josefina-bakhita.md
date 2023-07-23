@@ -106,7 +106,7 @@ santa sudanesa, aunque italiana de adopción (veneciana, por más señas)
 es única; ni siquiera hay muchas iglesias con la misma advocación en
 Italia: tan sólo el santuario donde estuvo como monja es conocido
 popularmente como "Santa Bakhita". La fiesta se celebra el 9 de
-febrero.
+febrero. Curiosamente, se usa "Josephina" en el nombre en vez de Giuseppina (que era el nombre que tenía) o su traducción, Josefina. Puede ser que influidos por la novela que se publicó en Francia sobre ella
 
 En resumen, una genialidad de Elisa Valero, una arquitectura
 contemporánea que se puede ver desde toda Playa Granada. Para visitar
