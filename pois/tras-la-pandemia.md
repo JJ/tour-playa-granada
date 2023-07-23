@@ -51,7 +51,7 @@ en 2023. Por el perfil en Instagram, parece que quien lo construyó fue
 Estudio 3, un estudio de arquitectura de Granada. Esta ondulación del
 edificio lo relacionaría tanto con el Pueblo del Chirimoyo como con
 las Terrazas. Son muchas más cosas las que las separan, pero el
-diálogo arquitectónico sique ahí, forzado quizá por el entorno o por
+diálogo arquitectónico sigue ahí, forzado quizá por el entorno o por
 las normas urbanísticas. Al final, las viviendas en la playa no pueden
 tener un patio interior y deben maximizar las vistas; esta
 organización ondulada ayuda a conseguirlo.
@@ -62,7 +62,7 @@ resultado se acerca más al rojo del residencial Entre Mares, justo al
 lado, y el amarillento del Claro de Luna. El contraste con esas dos
 edificaciones, bastante clásicas, es evidente; la diferencia de
 precio, quizás no tanta, porque las dos anteriores se construyeron y
-vendieron en plena burbuja inmobiliaria; Mar de Astrind, sin embargo,
+vendieron en plena burbuja inmobiliaria; Mar de Astrid, sin embargo,
 tiene una buena cantidad de dúplex en los áticos, con su piscinita y
 todo, que deben haber salido por un buen precio.
 
@@ -106,3 +106,12 @@ playero, y el color blanco a la arquitectura mediterránea. Habrá que
 ver cómo "conversa" con el resto de los edificios que van a surgir a
 su lado.
 
+Lo que está claro es que el sueño de los fundadores, ese lugar de
+asueto de la realeza y famoserío diverso, ya nunca se va a
+realizar. Hoy en día, con una arquitectura curiosa, quizás excepcional
+en algunos aspectos, es un lugar más de la costa española, salvado
+quizás hasta ahora por las malas comunicaciones y la calidad
+cuestionable de las playas. En 10 o 20 años será uno más, pero todavía
+podremos dar un pequeño paseo por la media docena de calles y
+contemplar obras arquitectónicas que resistirán, seguro, el paso del
+tiempo.
