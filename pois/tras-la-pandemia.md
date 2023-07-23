@@ -1,6 +1,8 @@
 # Tras la pandemia
 __*El mini-boom inmobiliario trans-  y post-pandémico*__
 
+![Curva de la fachada de Mar de Astrid](img/mar-de-astrid.jpg)
+
 Tras haber cambiado relativamente poco en los años desde el *crash*
 inmobiliario, con sólo algunos edificios como el Noura y el Moriscos
 Golf II entregados, durante la pandemia y justo después comenzó a
