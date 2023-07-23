@@ -68,11 +68,14 @@ En vez del mediterráneo enjalbegado, Elisa Valero elige el
 esencialismo, manteniendo sólo los elementos necesarios para la
 función de la iglesia, el hormigón armado desnudo, en una vuelta a las
 primeras iglesias de piedra desnuda, sin ningún tipo de decoración,
-una opción esencialista como gran parte de la arquitectura moderna, que hereda además de grandes arquitectos sacros españoles como Miguel Fisac, el primero que, en los años cincuenta, comenzó a usar hormigón en iglesias como la de Arcas Reales. Y
-apuesta también por la ventilación natural, con una serie de puertas
-abiertas al sur y a la playa, que permiten ventilar el espacio sin
-necesidad de gastar en aire acondicionado. En arquitectura se habla de
-estructuras [tectónicas y
+una opción esencialista como gran parte de la arquitectura moderna,
+que hereda además de grandes arquitectos sacros españoles como Miguel
+Fisac, el primero que, en los años cincuenta, comenzó a usar hormigón
+en iglesias como la de Arcas Reales. Y apuesta también por la
+ventilación natural, con una serie de puertas abiertas al sur y a la
+playa, que permiten ventilar el espacio sin necesidad de gastar en
+aire acondicionado. En arquitectura se habla de estructuras
+[tectónicas y
 estereotómicas](https://www.uic.mx/tectonico-estereotomico-materia-estructura/),
 que tienen que ver tanto con los materiales como con la estructura. El
 hormigón es un material estereotómico; la estructura de la iglesia
@@ -100,7 +103,6 @@ contemporánea que se puede ver desde toda Playa Granada. Para visitar
 el interior, sin embargo, tendrás que hacerlo cuando se abra para la
 misa o un poco después de terminar, porque no es iglesia parroquial y
 no está abierta al público en general.
-
 
 Este podría ser un final espectacular para un tour de una urbanización
 que, además de mostrar el interés de los edificios que miramos sin ver
