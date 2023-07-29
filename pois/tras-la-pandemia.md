@@ -117,3 +117,24 @@ cuestionable de las playas. En 10 o 20 años será uno más, pero todavía
 podremos dar un pequeño paseo por la media docena de calles y
 contemplar obras arquitectónicas que resistirán, seguro, el paso del
 tiempo.
+
+Quizás la que lo resistirá mejor sea el centro Awa Sports, en el
+extremo del aparcamiento que comienza en Moriscos, junto a la valla de
+los primeros hoyos del campo de Golf. Un centro diseñado por Ángel
+Gijón, pero que desgraciadamente no pudo ver completado. Este club
+tiene dos pabellones: un centro deportivo a la derecha, y un
+restaurante y club a la izquierda. Son edificios que usan la madera, y
+que están iluminados por Big Architectural Lightning, una empresa que
+ha diseñado la iluminación de otros espacios en Playa Granada (como
+una de las casas de las que hablo en el capítulo de la milla de
+oro). Pero lo más interesante es cómo, desde el interior del pabellón
+del restaurante, las paredes desaparecen y se puede ver el mar,
+situado a unos metros. Dos de las paredes están acristaladas dando
+vistas al mar y a la terraza, recorrida por senderos de madera y
+recubiertas de arena de la playa (no creo que de Playa Granada, porque
+no es un sitio con demasiada arena).
+
+Es un lugar en el que Ángel Gijón ha sabido leer perfectamente, una
+vez más, el entorno y "conversar" con él, con la arena, con el mar, y
+con la luz del Mediterráneo. Una pena que no lo viera terminado tras
+muchas vicisitudes; la apertura fue en el año 2023.
