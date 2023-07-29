@@ -63,10 +63,11 @@ el primer capítulo.
 Unos años después, y un número similar (al de años) de ejemplares
 vendidos más tarde, el panorama arquitectónico de Playa Granada ha
 cambiado considerablemente. También, supongo, mi habilidad a la hora
-de describirlo. Así que esta nueva edición incluye un nuevo capítulo y
-revisa casi en su totalidad el texto de la anterior. Durante este
-tiempo, además, ha fallecido Ángel Gijón, artífice de Las Terrazas, de
-su propia vivienda y del centro deportivo que, en febrero de 2023,
-todavía está por inaugurarse. A él le dedico esta segunda edición.
+de describirlo. Así que esta nueva edición incluye dos nuevos
+capítulos y revisa casi en su totalidad el texto de la
+anterior. Durante este tiempo, además, ha fallecido Ángel Gijón,
+artífice de Las Terrazas, de su propia vivienda y del centro deportivo
+que, se inauguró finalmente en el verano 2023. A él le dedico esta
+segunda edición.
 
 
