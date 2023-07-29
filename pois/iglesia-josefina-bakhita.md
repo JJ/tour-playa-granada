@@ -43,7 +43,7 @@ iluminación natural del altar está diseñada también para simbolizar la
 luz que representa el mensaje sagrado de la iglesia, y una vez más
 está cargada de simbolismo. Sin embargo, desde el interior la única
 cruz visible es la que se abre al oeste; desde el coro elevado el
-techo descience hacia el altar, dejando un espacio desde el que se
+techo desciende hacia el altar, dejando un espacio desde el que se
 ilumina el mismo y centrando la atención en el mismo.
 
 La estatua de Santa Josefina Bakhita, creada y donada por el escultor
