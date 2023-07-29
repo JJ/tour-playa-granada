@@ -26,11 +26,12 @@ resto, se establece ningún tipo de conversación. La iglesia quiere que
 se entienda en sus propios términos.
 
 Y son los términos de un "pato", un edificio que anuncia claramente su
-intención. En general, las iglesias son patos por excelencia, pero
-esta iglesia, además, usa simples cruces, que además sirven como
-vanos, para su decoración; las cruces no son elementos externos, sino
-parte de la propia estructura del edificio, dando luz a diferentes
-áreas, la torre y el interior.
+intención, una "iglesia que parece una iglesia", como decía Moneo. En
+general, las iglesias son patos por excelencia, pero esta iglesia,
+además, usa simples cruces, que además sirven como vanos, para su
+decoración; las cruces no son elementos externos, sino parte de la
+propia estructura del edificio, iluminando diferentes áreas, la torre
+y el interior.
 
 La nave de la iglesia se alinea en dirección este-oeste, como es
 tradicional en las iglesias, representando el tránsito de la muerte
@@ -40,11 +41,24 @@ puede contemplar la puesta de sol. Se apila así el simbolismo de la
 puesta del sol con el símbolo de la muerte de Cristo, la cruz. La
 iluminación natural del altar está diseñada también para simbolizar la
 luz que representa el mensaje sagrado de la iglesia, y una vez más
-está cargada de simbolismo. La estatua de Santa Josefina Bakhita,
-creada y donada por el escultor Ramiro Mejías, situada a la derecha
-del altar, también recibe parte de esa iluminación. Al lado de la
-estatua, unas cadenas rotas en un cojín hablan de la historia de la
-santa, nacida en Darfur, esclavizada durante gran parte de su vida,
+está cargada de simbolismo. Sin embargo, desde el interior la única
+cruz visible es la que se abre al oeste; desde el coro elevado el
+techo descience hacia el altar, dejando un espacio desde el que se
+ilumina el mismo y centrando la atención en el mismo.
+
+La estatua de Santa Josefina Bakhita, creada y donada por el escultor
+Ramiro Mejías, situada a la derecha del altar, también recibe parte de
+esa iluminación, pero tiene un foco propio que la convierte en centro
+de atención para toda la iglesia. Elisa Valero ha dicho que la
+arquitectura es esculpir con la luz, y se nota en esta iglesia como
+fluye y la atención que le presta a la misma.
+
+En la estatua, Santa Josefina Bakhita tiene un turbante blanco que
+simboliza su santidad, pero que a la vez resalta su rostro. Los
+ropajes fluyen como en los que aparecen en las vírgenes barrocas. Una
+pieza de gran belleza, y a la vez de un gran poder simbólico.  Al lado
+de la estatua, unas cadenas rotas en un cojín hablan de la historia de
+la santa, nacida en Darfur, esclavizada durante gran parte de su vida,
 para convertirse en monja finalmente en Italia, donde murió. La
 iglesia fue [consagrada a ella el 5 de agosto de
 2016](https://www.archidiocesisgranada.es/index.php/noticias/la-iglesia-en-playa-granada-celebra-la-bendicion-de-la-escultura-de-santa-josefina-bakhita),
