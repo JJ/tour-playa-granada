@@ -50,7 +50,7 @@ que hubiera ninguna venta por medio.
 Es posible que Playa Granada hubiera existido sin los reyes, los
  condes de Agrela y Villa Astrida, pero desde luego la historia habría
  sido totalmente diferentes. Y la arquitectura también. Y de las dos
- cosas hablaremos en este panfletillo.
+ cosas hablaremos en este libro.
 
 En el principio, por tanto, fue Villa Astrida. Pero en el origen del
 barrio estuvo el [Pueblo del Chirimoyo](pois/pueblo-del-chirimoyo.md),
