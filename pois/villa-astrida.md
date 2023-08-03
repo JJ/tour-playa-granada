@@ -23,12 +23,10 @@ guardeses, eran unos ocupas, o simplemente aparecieron por allí
 volando un día e hicieron su casa, es complicado de saber.
 
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
-Balduino y Fabiola desde su boda, en el año 61. Al parecer, se
-hizo alguna construcción en los años siguientes, que desapareción con
-un incendio. La construcción actual, al menos del edificio principal,
-comenzó en 1965 y terminó en el año 68, y es obra del arquitecto José
-Antonio Domínguez Salazar.
-. Según [el artículo-obituario de Balduino en
+Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
+alguna construcción en los años siguientes, que desapareción con un
+incendio. La construcción actual es obra del arquitecto José Antonio
+Domínguez Salazar.  Según [el artículo-obituario de Balduino en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría dos de las características
@@ -46,6 +44,8 @@ la misma zona y con características similares. En las fotos que se
 muestran en el actual Memorial Rey Balduino, un museo abierto en
 agosto de 2023, estas vallas sin embargo son de simple cañizo, el
 material clásico para construir lindes en la zona.
+
+
 
 La historia de cómo llegó a erigirse esta villa, residencia veraniega
 de los reyes de Bélgica, la hemos adelantado en otros capítulos, pero
@@ -73,33 +73,33 @@ plantaciones de caña de azúcar abandonadas; si queremos ver a qué se
 parecería la playa en aquella época lo más parecido sería la zona sin
 urbanizar que hay entre el hotel y la desembocadura del Guadalfeo
 
-Pero la historia, diseñada seguramente por los publicistas
-de la familia Agrela (siendo una familia noble, seguro que tenían
-algún plumilla a sueldo), se ha quedado ahí, y un relato pleno de
-emociones suele tener mucha más fuerza que la propia historia.  En
-otros artículos dice que el terreno había pertenecido antiguamente a
-la familia de Fabiola y que se le dio como regalo de boda en 1960;
-esto último es lo más creíble. Sería mucha casualidad que en el viaje
-desde la sierra en helicóptero viera precisamente unos terrenos que
-más adelante le regalaron sus cuñados. En cuanto a lo de que
-pertenecía a la familia de Fabiola en su época, lo cierto es que la
-familia de Fabiola era de antigua nobleza vasca venida a menos, y que
-esta zona se llamaba "El pago del vasco". No he encontrado, sin
-embargo, ninguna documentación que realmente ligue a la familia Mora y
-Aragón a la zona de Motril antes del regalo de bodas. Sí que, en las
-crónicas sociales de finales de los sesenta y principios de los
-setenta, no se hablaba de "Villa Astrida" sino de la finca "El
-vasco". ¿Por qué? Ni idea.
+Pero la historia, diseñada seguramente por los publicistas de la
+familia Agrela (siendo una familia noble, seguro que tenían algún
+plumilla a sueldo), se ha quedado ahí, y un relato pleno de emociones
+suele tener mucha más fuerza que la propia historia.  En otros
+artículos dice que el terreno había pertenecido antiguamente a la
+familia de Fabiola y que se le dio como regalo de boda en 1960; esto
+último es lo más creíble. Sería mucha casualidad que en el viaje desde
+la sierra en helicóptero viera precisamente unos terrenos que más
+adelante le regalaron sus cuñados. En cuanto a lo de que pertenecía a
+la familia de Fabiola en su época, lo cierto es que la familia de
+Fabiola era de antigua nobleza vasca venida a menos, y que esta zona
+se llamaba "El pago del vasco". No he encontrado, sin embargo, ninguna
+documentación que realmente ligue a la familia Mora y Aragón a la zona
+de Motril antes del regalo de bodas. Sí que, en las crónicas sociales
+de finales de los sesenta y principios de los setenta, no se hablaba
+de "Villa Astrida" sino de la finca "El vasco". ¿Por qué? Ni idea.
 
 En todo caso, el terreno empezó a ser usado casi de forma inmediata, y
-se llevó a cabo una construcción que, al parecer, ardió en 1965. Según
-[el artículo de la Wikipedia del alcalde de Motril en los
+se llevó a cabo una construcción que, al parecer, y como hemos dicho,
+ardió en 1965. Según [el artículo de la Wikipedia del alcalde de
+Motril en los
 60](https://es.wikipedia.org/wiki/Juan_Antonio_Escribano_Castilla), la
 construcción del edificio actual comenzó en 1966 y terminó
 en 1968. Eso la convierte en la construcción más antigua de Playa
 Granada que todavía está en pie. Hasta que se construyó, la pareja
-real pasaba los veranos en Zarauz, en villa María Pilar,  de la familia Mora
-y Aragón.
+real pasaba los veranos en Zarauz, en villa María Pilar, de la familia
+Mora y Aragón.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, no
