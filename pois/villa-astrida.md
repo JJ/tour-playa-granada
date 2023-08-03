@@ -24,7 +24,7 @@ volando un día e hicieron su casa, es complicado de saber.
 
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
-alguna construcción en los años siguientes, que desaparició debido a
+alguna construcción en los años siguientes, que desapareció debido a
 un incendio. La construcción actual es obra del arquitecto José
 Antonio Domínguez Salazar.  Según [el artículo-obituario de Balduino
 en
