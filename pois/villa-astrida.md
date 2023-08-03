@@ -42,7 +42,10 @@ podíamos llegar); la misma piedra que, si creemos el artículo de ABC,
 se trajo de Alcalá de Guadaira y se usó para el muro que rodea la
 finca. Puede que se tratara de [esta piedra
 paloma](https://www.piedrapaloma.com/es/); si no, de alguna cantera de
-la misma zona y con características similares.
+la misma zona y con características similares. En las fotos que se
+muestran en el actual Memorial Rey Balduino, un museo abierto en
+agosto de 2023, estas vallas sin embargo son de simple cañizo, el
+material clásico para construir lindes en la zona.
 
 La historia de cómo llegó a erigirse esta villa, residencia veraniega
 de los reyes de Bélgica, la hemos adelantado en otros capítulos, pero
