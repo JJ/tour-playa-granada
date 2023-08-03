@@ -24,9 +24,10 @@ volando un día e hicieron su casa, es complicado de saber.
 
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
-alguna construcción en los años siguientes, que desapareción con un
-incendio. La construcción actual es obra del arquitecto José Antonio
-Domínguez Salazar.  Según [el artículo-obituario de Balduino en
+alguna construcción en los años siguientes, que desaparició debido a
+un incendio. La construcción actual es obra del arquitecto José
+Antonio Domínguez Salazar.  Según [el artículo-obituario de Balduino
+en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría dos de las características
@@ -55,7 +56,7 @@ construcciones de Villa Astrida, la casa principal es aproximadamente
 rectangular, con una portada en el lado contrario al mar; en la parte
 más cercana al mar se abre, a la izquierda, un ala rectangular.
 
-En el interior dle cuadrado hay un patio de luces, como en los
+En el interior del cuadrado hay un patio, como en los
 cortijos andaluces. Según unos planos en el "Memorial Rey Balduino",
 la planta baja tiene diferentes salas, aparte del despacho (donde,
 según algunas crónicas, moriría el Rey Balduino) y una pequeña
