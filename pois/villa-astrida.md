@@ -15,18 +15,20 @@ lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-lu
 el año 2023, el deterioro de las lonas que cubrían la reja metálica
 que la rodeaba por dentro permitía vislumbrar parte de lo que había
 dentro, revelando un pabellón cercano a la pista de tenis, la que está
-al lado del (ahora) Badía, ocupada, con ropa tendida en cuerdas, juguetes de
-niños esparcidos por el suelo de las pistas de tenis, y (curiosamente) gallinas o pollos sueltos por el patio, que se
-podían escuchar perfectamente desde fuera. Si estos pertenecían a los
+al lado del (ahora) Badía, ocupada, con ropa tendida en cuerdas,
+juguetes de niños esparcidos por el suelo de las pistas de tenis, y
+(curiosamente) gallinas o pollos sueltos por el patio, que se podían
+escuchar perfectamente desde fuera. Si estos pertenecían a los
 guardeses, eran unos ocupas, o simplemente aparecieron por allí
 volando un día e hicieron su casa, es complicado de saber.
 
-
-Mientras no se pueda hacer una visita más extensa, nos falta una
-visión general y poco sabemos de su decoración, cómo está distribuida,
-o qué estilo tiene. Imaginamos que, como el Pueblo del Chirimoyo, se
-trata de una villa estilo mediterráneo, pasado quizás por el Atomium
-de Bruselas. O a saber. Según [el artículo-obituario de Balduino en
+Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
+Balduino y Fabiola desde su boda, en el año 61. Al parecer, se
+hizo alguna construcción en los años siguientes, que desapareción con
+un incendio. La construcción actual, al menos del edificio principal,
+comenzó en 1965 y terminó en el año 68, y es obra del arquitecto José
+Antonio Domínguez Salazar.
+. Según [el artículo-obituario de Balduino en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría dos de las características
