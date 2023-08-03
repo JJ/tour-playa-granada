@@ -45,19 +45,60 @@ muestran en el actual Memorial Rey Balduino, un museo abierto en
 agosto de 2023, estas vallas sin embargo son de simple cañizo, el
 material clásico para construir lindes en la zona.
 
+Quizás merezca la pena dedicar unas línea al arquitecto; si no por
+otra razón, por el hecho de que no existe ni un artículo sobre Villa
+Astrida que lo nombre, y apenas un artículo sobre el arquitecto hace
+mención a un "chalet de Balduino y Fabiola en Motril". Domínguez
+Salazar es abanderado de un estilo "nacional", y es de imaginar que
+aplicaría sus ideas a este proyecto. Si nos olvidamos del resto de las
+construcciones de Villa Astrida, la casa principal es aproximadamente
+rectangular, con una portada en el lado contrario al mar; en la parte
+más cercana al mar se abre, a la izquierda, un ala rectangular.
 
+En el interior dle cuadrado hay un patio de luces, como en los
+cortijos andaluces. Según unos planos en el "Memorial Rey Balduino",
+la planta baja tiene diferentes salas, aparte del despacho (donde,
+según algunas crónicas, moriría el Rey Balduino) y una pequeña
+capilla. El ala aloja las habitaciones del servicio; la planta
+superior tiene diferentes dormitorios que se abren a una gran terraza
+que recorre todo el lado del rectángulo, y que mira al mar.
 
-La historia de cómo llegó a erigirse esta villa, residencia veraniega
-de los reyes de Bélgica, la hemos adelantado en otros capítulos, pero
-el [mito fundacional se cuenta en este otro
+Desde el exterior de la portada principal, la entrada tiene un
+tejadillo y está rodeada por dos "torreones", que no son sino
+habitaciones o dependencias; en ellas hay también una azotea; sin
+embargo, de esas torres, la de la izquierda tiene una ventaja frontal
+sólo en la planta baja, y la de la derecha una ventana que, supongo,
+da luz al pasillo. El portón de madera tallada está flanqueado por dos
+faroles de forja.
+
+El estilo de Domínguez Salazar a veces se ha llamado "neoherreriano",
+y los volúmenes de este "chalet" parecen efectivamente un cruce entre
+el Escorial y un cortijo de las Alpujarras. Domínguez Salazar
+participó en el llamado manifiesto arquitectónico de la Alhambra, que
+pide adecuar la arquitectura a los tiempos y reflejar la arquitectura
+vernácula. En esta construcción, evidentemente, ha tratado de seguir
+ese manifiesto.
+
+En general, esta obra oculta a los ojos de casi todo el mundo, si no
+es una obra maestra arquitectónica, sí tiene cierto interés y habría
+sido interesante que se pudiera ver y estudiar un poco más.
+
+Pero la situación actual es consecuencia de la historia, una historia
+adelantada ya en otros capítulos. El [mito fundacional se cuenta
+en este otro
 artículo](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
 posiblemente de las mismas fuentes, ya sabéis, vuelo en helicóptero,
 se enamoró de esta zona de la costa (que en esa época no tendría más
 que cañaverales, indistinguibles de cualquier otra zona salvo por el
 pequeño cabo a la izquierda de la actual Villa Astrida), compró la
 tierra a muy bajo precio a un constructor "que ya tenía ideas de
-construir una urbanización". Pero es el mito que ha
-perdurado, y muchas veces el relato tiene más fuerza que la historia.
+construir una urbanización". Pero es el mito que ha perdurado, y
+muchas veces el relato tiene más fuerza que la historia.
+
+> También se dice que "desde la terraza se puede ver la sierra y el
+> mar", y no es cierto. La terraza da al mar, pero la sierra no se
+> puede ver más que desde las azoteas, que no parecen habitables
+> (aunque a saber, porque no se pueden visitar).
 
 Pero si empezamos muy por el principio, es decir, rey conoce a reina,
 Balduino y Fabiola se conocieron de puro milagro; aparentemente lo
