@@ -49,7 +49,7 @@ tras el pueblo del Chirimoyo, es notable, sobre todo, por ser el
 primer bloque de viviendas de cuya construcción se tiene cierta
 constancia y cuyo estudio de arquitectura se conoce. Se trata de
 [Gijón
-Arquitectura]((https://web.archive.org/web/20161230150700/http://www.gijonarquitectura.com/las_terrazas_de_playa_granada.html),
+Arquitectura](https://web.archive.org/web/20161230150700/http://www.gijonarquitectura.com/las_terrazas_de_playa_granada.html),
 un estudio dirigido por el arquitecto de Motril Ángel Gijón, un
 arquitecto excelente que
 ha construido otra serie de equipamientos y viviendas, sobre
