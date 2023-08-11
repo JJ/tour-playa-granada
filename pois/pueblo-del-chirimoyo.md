@@ -111,7 +111,7 @@ Agrela. Se creó la empresa "Costa Granada, S. A.", y esta se puso a
 desarrollar la zona, comenzando por el susodicho pueblo (o poblado)
 del Chirimoyo; el logo de la empresa, que mostramos abajo, establecía
 también las bondades del lugar: parece una Granada, y tiene la silueta
-del Mulhacén para dejar claro que la nevada Sierra Nevada se puede
+del Veleta para dejar claro que la nevada Sierra Nevada se puede
 contemplar desde la misma playa (no siempre, es cierto, pero se
 puede).
 
