@@ -7,8 +7,8 @@ Villa Astrida, un recinto con un palacete en el interior que nace en
 la misma playa, fue la residencia de verano de los reyes de Bélgica
 hasta la muerte de Balduino; literalmente, porque Balduino murió (en
 julio de 1993) en este preciso lugar. Desde agosto de 2023,
-precisamente por esa razón, alberga el Memorial Rey Balduino, que
-incluye un pequeño museo.
+precisamente por esa razón, alberga el [Memorial Rey Balduino](https://www.memorialreybalduino.com/), que
+incluye un pequeño museo, administrado por la llamada Fundación INEIS.
 
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
@@ -254,8 +254,8 @@ guardeses, eran unos ocupas, o simplemente aparecieron por allí
 volando un día e hicieron su casa, es complicado de saber.
 
 Ese fue precisamente el año en que apareció la [fundación
-INEIS](https://www.cope.es/emisoras/andalucia/granada-provincia/motril/noticias/partir-del-agosto-podremos-visitar-memorial-sobre-rey-balduino-villa-astrida-20230607_2751261)
-de la que es prácticamente imposible encontrar nada fuera de este
+INEIS](https://www.cope.es/emisoras/andalucia/granada-provincia/motril/noticias/partir-del-agosto-podremos-visitar-memorial-sobre-rey-balduino-villa-astrida-20230607_2751261) en el panorama de playa Granada.
+De esta fundación es muy complicado encontrar nada de sustancia fuera de este
 hecho, que poseen la finca. Las fundaciones que creó la reina Fabiola
 estuvieron envueltas en la polémica, porque el estado belga adujo que
 lo que intentaba era eludir el pago de impuestos, y de hecho una de
@@ -266,15 +266,15 @@ una de ellas reservada a la caridad y, al parecer, esta, que no parece
 tener ninguna actividad aparte de la posesión de inmuebles y
 explotación de los mismos, incluyendo esta Villa Astrida.
 
-Merece la pena pararnos un poco sobre esta fundación, que no parece
-tener página web, ni carta fundacional, ni mucha información propia;
-ni siquiera está claro qué significan sus siglas o siquiera si son
-unas siglas o un nombre, aunque teniendo en cuenta las inclinaciones
-de Fabiola, cabe pensar que se trata de alguna frase más o menos pía
-en latín. Lo que se encuentra en una búsqueda en la web son cosas
-relacionadas con patrimonio propiedad de esa fundación que es cedido a
-otras fundaciones que pertenecen a familiares; por ejemplo [esta
-noticia sobre el señorío de
+Merece la pena pararnos un poco sobre esta fundación. He sido incapaz
+de encontrar una página web, o reglas fundacionales, o quienes son los
+cargos de la misma; ni siquiera está claro qué significan sus siglas o
+siquiera si son unas siglas o un nombre, aunque teniendo en cuenta las
+inclinaciones de Fabiola, cabe pensar que se trata de alguna frase más
+o menos pía en latín (*in eis*: "en ellos"). Lo que se encuentra en una búsqueda en la web
+son cosas relacionadas con patrimonio propiedad de esa fundación que
+es cedido a otras fundaciones que pertenecen a familiares; por ejemplo
+[esta noticia sobre el señorío de
 Elío](https://www.diariodenavarra.es/noticias/navarra/pamplona-comarca/2023/06/25/nueva-vida-el-senorio-elio-573337-1002.html),
 que fue cedido, o vendido, o cedida la explotación, a otra fundación
 diferente creada por un familiar más o menos lejano de
@@ -284,6 +284,8 @@ vendido en 2020 al Museo del Prado. Pero son retazos que impiden
 crearse una idea conjunta de qué es y qué es lo que hace, más allá de
 administrar los bienes que pertenecieron a Fabiola de Mora y Aragón y
 a su familia.
+
+<!-- Incluir aquí lo que se puede ver ahora de la casa -->
 
 Desde la inauguración del memorial Rey Balduino es muy improbable que se lleven a cabo cualquier plan de dedicarlo a la hostelería, dado que la fundación es
 probable que no tenga capacidad jurídica para venderlo o explotarlo
