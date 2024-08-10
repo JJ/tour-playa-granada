@@ -10,20 +10,6 @@ julio de 1993) en este preciso lugar. Desde agosto de 2023,
 precisamente por esa razón, alberga el Memorial Rey Balduino, que
 incluye un pequeño museo.
 
-Desde entonces, permanece (más o menos) vacía, aunque periódicamente
-corren rumores sobre ella; por ejemplo, [que se pretende convertir en
-un hotel de
-lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). En
-el año 2023, el deterioro de las lonas que cubrían la reja metálica
-que la rodeaba por dentro permitía vislumbrar parte de lo que había
-dentro, revelando un pabellón cercano a la pista de tenis, la que está
-al lado del (ahora) Badía, ocupada, con ropa tendida en cuerdas,
-juguetes de niños esparcidos por el suelo de las pistas de tenis, y
-(curiosamente) gallinas o pollos sueltos por el patio, que se podían
-escuchar perfectamente desde fuera. Si estos pertenecían a los
-guardeses, eran unos ocupas, o simplemente aparecieron por allí
-volando un día e hicieron su casa, es complicado de saber.
-
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
 alguna construcción en los años siguientes, que desapareció debido a
@@ -253,20 +239,32 @@ para abrir la pequeña calle que llega desde la rotonda de la calle
 Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, que, como recordamos, es de los 90, pero no
 ocurrió hasta muchos años más tarde.
 
-En el año 2023 se reveló que la finca pertenecía a una [fundación
+Antes de que se revelara como perteneciente a la fundación INEIS hubo
+una serie de especulaciones sobre ella; por ejemplo, [que se pretendía
+convertir en un hotel de
+lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). También pequeños cambios: En
+el año 2023, el deterioro de las lonas que cubrían la reja metálica
+que la rodeaba por dentro permitía vislumbrar parte de lo que había
+dentro, revelando un pabellón cercano a la pista de tenis, la que está
+al lado del (ahora) Badía, ocupada, con ropa tendida en cuerdas,
+juguetes de niños esparcidos por el suelo de las pistas de tenis, y
+(curiosamente) gallinas o pollos sueltos por el patio, que se podían
+escuchar perfectamente desde fuera. Si estos pertenecían a los
+guardeses, eran unos ocupas, o simplemente aparecieron por allí
+volando un día e hicieron su casa, es complicado de saber.
+
+Ese fue precisamente el año en que apareció la [fundación
 INEIS](https://www.cope.es/emisoras/andalucia/granada-provincia/motril/noticias/partir-del-agosto-podremos-visitar-memorial-sobre-rey-balduino-villa-astrida-20230607_2751261)
 de la que es prácticamente imposible encontrar nada fuera de este
-hecho, que poseen la finca. Junto con esta revelación vino el hecho de
-que se va a abrir al público a partir de agosto de 2023. Esperemos que
-se produzca, y podamos ver por dentro esta finca. Las fundaciones que
-creó la reina Fabiola estuvieron envueltas en la polémica, porque el
-estado belga adujo que lo que intentaba era eludir el pago de
-impuestos, y de hecho una de las fundaciones que creó, llamada [Fons
+hecho, que poseen la finca. Las fundaciones que creó la reina Fabiola
+estuvieron envueltas en la polémica, porque el estado belga adujo que
+lo que intentaba era eludir el pago de impuestos, y de hecho una de
+las fundaciones que creó, llamada [Fons
 Pereos](https://www.vanitatis.elconfidencial.com/casas-reales/2013-01-26/la-reina-fabiola-renuncia-a-la-fundacion-que-podria-salvar-su-herencia-del-fisco_534316/),
 fue anulada por el gobierno belga. Pero había otras dos fundaciones,
-una de ellas reservada a la caridad y, al parecer, esta, que no
-parece tener ninguna actividad aparte de la posesión de inmuebles,
-incluyendo esta Villa Astrida.
+una de ellas reservada a la caridad y, al parecer, esta, que no parece
+tener ninguna actividad aparte de la posesión de inmuebles y
+explotación de los mismos, incluyendo esta Villa Astrida.
 
 Merece la pena pararnos un poco sobre esta fundación, que no parece
 tener página web, ni carta fundacional, ni mucha información propia;
@@ -278,13 +276,16 @@ relacionadas con patrimonio propiedad de esa fundación que es cedido a
 otras fundaciones que pertenecen a familiares; por ejemplo [esta
 noticia sobre el señorío de
 Elío](https://www.diariodenavarra.es/noticias/navarra/pamplona-comarca/2023/06/25/nueva-vida-el-senorio-elio-573337-1002.html),
-que fue cedido o vendido, o cedida la explotación, a otra fundación
+que fue cedido, o vendido, o cedida la explotación, a otra fundación
 diferente creada por un familiar más o menos lejano de
 Fabiola. También era la propietaria de cuadros como
 [este](https://www.museodelprado.es/coleccion/obra-de-arte/francisco-de-ocariz-y-ochoa/90a4c562-7f1e-4405-bc3a-2b341341ab1a),
-vendido en 2020 al Museo del Prado.
+vendido en 2020 al Museo del Prado. Pero son retazos que impiden
+crearse una idea conjunta de qué es y qué es lo que hace, más allá de
+administrar los bienes que pertenecieron a Fabiola de Mora y Aragón y
+a su familia.
 
-Es bastante improbable que haya ningún hotel, dado que la fundación es
+Desde la inauguración del memorial Rey Balduino es muy improbable que se lleven a cabo cualquier plan de dedicarlo a la hostelería, dado que la fundación es
 probable que no tenga capacidad jurídica para venderlo o explotarlo
 comercialmente. Pero el futuro puede ser algo incierto. Como sucede ya
 en el otro extremo de la urbanización, en la zona del hotel, el mar
