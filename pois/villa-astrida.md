@@ -285,7 +285,35 @@ crearse una idea conjunta de qué es y qué es lo que hace, más allá de
 administrar los bienes que pertenecieron a Fabiola de Mora y Aragón y
 a su familia.
 
-<!-- Incluir aquí lo que se puede ver ahora de la casa -->
+Desde mediados del año 2024 se puede visitar también, previo pago, la
+planta baja de la residencia, incluyendo también la parte de los
+jardines que la rodean por la parte del mar. Se rodea la piscina,
+decorada con mosaicos de la Alhambra, y con una curiosa ducha con la
+cabeza de un león, y se entra en la residencia por la parte sur, en lo
+que era el comedor.
+
+En el jardín hay eucaliptos, pero también pinos, y rodeados por un
+alcorque, tres ejemplares podados de lo que podría ser un drago, pero
+como no tienen ni una hoja, no tengo ni idea de si es así o no. La
+guía lo describe como "un árbol que es antecesor del baobab". Si fuera
+efectivamente un drago, los dos tienen en común que son de las
+angiospermas. La otra planta, al lado de una adelfa, según Google Lens
+es un palmito, aunque la guía la señala como una falsa palmera que fue
+regalo de los emperadores del Japón. Hay una falsa palmera japonesa,
+llamada "cicas", pero no parece que este sea el caso.
+
+Aunque la familia real belga, como tal, no es precisamente pobre, lo
+que queda en la residencia es precisamente lo que no pertenecía a la
+misma: objetos procedentes de la familia de Fabiola, o bien objetos
+personales adquiridos por la pareja. Por eso lo que hay es una curiosa
+mezcla de objetos de anticuario, como escritorios holandeses (uno de
+los cuales está en el área del museo) y muebles típicos de una familia
+bien de los años 60 y 70: sofás de escay, sillones tapizados y puffs
+de estilo moruno.
+
+<!-- hablar de la silla de plástico -->
+
+
 
 Desde la inauguración del memorial Rey Balduino es muy improbable que se lleven a cabo cualquier plan de dedicarlo a la hostelería, dado que la fundación es
 probable que no tenga capacidad jurídica para venderlo o explotarlo
