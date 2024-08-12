@@ -337,12 +337,16 @@ bastante evidente.
 > tuvo ocasión de ver, pues solo se reconciliaron un año antes de su
 > muerte cuando Fabiola fue a visitarlo.
 
-Desde la inauguración del memorial Rey Balduino es muy improbable que se lleven a cabo cualquier plan de dedicarlo a la hostelería, dado que la fundación es
-probable que no tenga capacidad jurídica para venderlo o explotarlo
-comercialmente. Pero el futuro puede ser algo incierto. Como sucede ya
-en el otro extremo de la urbanización, en la zona del hotel, el mar
-puede acabar reclamando lo que era suyo. Como cuentan en [un informe
-de riesgos medioambientales del ayuntamiento de
+Desde la inauguración del memorial Rey Balduino es muy improbable que
+se lleven a cabo cualquier plan de dedicarlo de forma integral a la
+hostelería, dado que la fundación es probable que no tenga capacidad
+jurídica para venderlo; sí es cierto que en la página de Facebook de
+la Fundación aparecen retiros espirituales, campus de voley, y hasta
+banquetes, pero no creo que ninguno de ellos se haga en el edificio
+principal . Pero el futuro puede ser algo incierto. Como sucede ya en
+el otro extremo de la urbanización, en la zona del hotel, el mar puede
+acabar reclamando lo que era suyo. Como cuentan en [un informe de
+riesgos medioambientales del ayuntamiento de
 Motril](http://www.motril.es/fileadmin/areas/medioambiente/agenda21/anexo3riesgos.pdf)
 el peligro de retroceso es muy alto. Los que venían a la playa
 recuerdan que el mar ha llegado en ocasiones hasta la misma valla, que
