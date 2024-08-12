@@ -329,7 +329,7 @@ bastante evidente.
 
 > El cabreo con Jaime de Mora y Aragón no viene solo y exclusivamente
 > de su modo de vida a salto de mata, sino del hecho que el día que
-> Fabiola anunción su boda, abrió el palacio de Madrid a Jesús Hermida
+> Fabiola anunció su boda, abrió el palacio de Madrid a Jesús Hermida
 > (famoso corresponsal en Nueva York) y Jaime Peñafiel (cronista de la
 > realeza), por un precio, y estos se llevaron el diario de Fabiola,
 > que se comprometieron a no publicar una vez que ella se lo
