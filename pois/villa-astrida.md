@@ -311,9 +311,31 @@ los cuales está en el área del museo) y muebles típicos de una familia
 bien de los años 60 y 70: sofás de escay, sillones tapizados y puffs
 de estilo moruno.
 
-<!-- hablar de la silla de plástico -->
+El arte que cuelga en las paredes es también ecléctico, con mezcla de
+tablas castellanas barrocas, incluso góticas, una pintura bastante
+oscura que una vez restaurada igual acaba siendo un Tintoretto (o de
+la escuela), tablas africanas de artistas desconocidos, que muestran
+si no el amor, al menos la afición que tenía Balduino por África, y,
+frente a la entrada principal, una pintura de gran tamaño de un
+caballero con un bufón de la corte muy al estilo Velázquez, y
+posiblemente de un estudiante del mismo (o una copia del mismo
+Velázquez). Uno no puede evitar sino ver el parecido, seguramente
+totalmente casual, del bufón de bigotes puntiagudos y del hermano
+golfo de Fabiola, Jaime de Mora y Aragón. La persona con la orden de
+Santiago en el pecho, nobleza vieja, le pone la mano, de forma
+paternalista o simplemente para indicar su estatura, en la cabeza. Si
+el susodicho Jaime entró alguna vez por esa puerta, la indirecta sería
+bastante evidente.
 
-
+> El cabreo con Jaime de Mora y Aragón no viene solo y exclusivamente
+> de su modo de vida a salto de mata, sino del hecho que el día que
+> Fabiola anunción su boda, abrió el palacio de Madrid a Jesús Hermida
+> (famoso corresponsal en Nueva York) y Jaime Peñafiel (cronista de la
+> realeza), por un precio, y estos se llevaron el diario de Fabiola,
+> que se comprometieron a no publicar una vez que ella se lo
+> recriminó. Una pequeña venganza, pues, que Jaime posiblemente nunca
+> tuvo ocasión de ver, pues solo se reconciliaron un año antes de su
+> muerte cuando Fabiola fue a visitarlo.
 
 Desde la inauguración del memorial Rey Balduino es muy improbable que se lleven a cabo cualquier plan de dedicarlo a la hostelería, dado que la fundación es
 probable que no tenga capacidad jurídica para venderlo o explotarlo
