@@ -338,24 +338,30 @@ bastante evidente.
 > muerte cuando Fabiola fue a visitarlo.
 
 Desde la inauguración del memorial Rey Balduino es muy improbable que
-se lleven a cabo cualquier plan de dedicarlo de forma integral a la
+se lleve a cabo cualquier plan de dedicarlo de forma integral a la
 hostelería, dado que la fundación es probable que no tenga capacidad
 jurídica para venderlo; sí es cierto que en la página de Facebook de
-la Fundación aparecen retiros espirituales, campus de voley, y hasta
-banquetes, pero no creo que ninguno de ellos se haga en el edificio
-principal . Pero el futuro puede ser algo incierto. Como sucede ya en
-el otro extremo de la urbanización, en la zona del hotel, el mar puede
-acabar reclamando lo que era suyo. Como cuentan en [un informe de
-riesgos medioambientales del ayuntamiento de
+la Fundación aparecen retiros espirituales, campus veraniegos de
+voléibol, y hasta banquetes, pero no creo que ninguno de ellos se haga
+en el edificio principal.
+
+Pero más allá de un presente que es bastante diferente de cuando salió
+este libro por primera vez, el futuro físico de la villa puede ser
+algo incierto. Como sucede ya en el otro extremo de la urbanización,
+en la zona del hotel, el mar puede acabar reclamando lo que era
+suyo. Como cuentan en [un informe de riesgos medioambientales del
+ayuntamiento de
 Motril](http://www.motril.es/fileadmin/areas/medioambiente/agenda21/anexo3riesgos.pdf)
-el peligro de retroceso es muy alto. Los que venían a la playa
-recuerdan que el mar ha llegado en ocasiones hasta la misma valla, que
-tiene que haber aguantado lo suyo durante el invierno. Si la playa se
-conserva es por la aportación periódica de arena, y menos periódica de
-piedras y grava, que posiblemente sea lo que la ha conservado, con
-mayor o menor fortuna, durante este tiempo. Lo cierto es que en las
-crónicas de la muerte de Balduino se comenta que Villa Astrida está a
-unos cientos de metros del mar, así que el retroceso es evidente.
+el peligro de retroceso de la línea de costa es muy alto. Los que
+venían a la playa recuerdan que el mar ha llegado en ocasiones hasta
+la misma valla, que tiene que haber aguantado lo suyo durante el
+invierno. Si la playa se conservaba es por la aportación periódica de
+arena por cercanía al delta del río Guadalfeo, ya inexistente, y menos
+periódica de piedras y grava, que posiblemente sea lo que la ha
+conservado, con mayor o menor fortuna, durante este tiempo. Lo cierto
+es que en las crónicas de la muerte de Balduino se comenta que Villa
+Astrida estaba a unos cientos de metros del mar, así que el retroceso es
+evidente, porque hoy en día no llega a los 20 o 30 metros.
 
 Lo cierto que los veranos de Balduino y Fabiola en Motril dieron lugar
 a muchas anécdotas, todas ellas destilando un carácter amable y
