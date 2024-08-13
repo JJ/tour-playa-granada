@@ -351,7 +351,9 @@ hostelería, dado que la fundación es probable que no tenga capacidad
 jurídica para venderlo; sí es cierto que en la página de Facebook de
 la Fundación aparecen retiros espirituales, campus veraniegos de
 voléibol, y hasta banquetes, pero no creo que ninguno de ellos se haga
-en el edificio principal.
+en el edificio principal. Es más probable que acabe abriéndose todo el
+edificio a las visitas, o incluso la parte del jardín más tupida, pero
+quién sabe.
 
 Pero más allá de un presente que es bastante diferente de cuando salió
 este libro por primera vez, el futuro físico de la villa puede ser
