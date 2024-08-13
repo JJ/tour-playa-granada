@@ -335,7 +335,15 @@ bastante evidente.
 > que se comprometieron a no publicar una vez que ella se lo
 > recriminó. Una pequeña venganza, pues, que Jaime posiblemente nunca
 > tuvo ocasión de ver, pues solo se reconciliaron un año antes de su
-> muerte cuando Fabiola fue a visitarlo.
+> muerte cuando Fabiola fue a visitarlo. Por esto mismo suena a un
+> poco apócrifa la historia que dice que el plato alpujarreño se
+> elaboró por primera vez a petición del susodicho Jaime, para que su
+> cuñado Balduino probara "algo típico". Puede ser que Jaime estuviera
+> en la pensión Poqueira, es también plausible que estuviera la
+> familia real belga, pero es bastante improbable que estuvieran
+> juntos, y menos en los años 60, como cuentan esas historias un poco
+> apócrifas, que por otra parte no desentonan absolutamente nada del
+> resto de las historias apócrifas que rodean a Balduino y Fabiola.
 
 Desde la inauguración del memorial Rey Balduino es muy improbable que
 se lleve a cabo cualquier plan de dedicarlo de forma integral a la
