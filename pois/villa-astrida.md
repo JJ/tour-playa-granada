@@ -171,20 +171,20 @@ asesinato del presidente democráticamente elegido en el Congo, Patrice
 Lumumba, previamente depuesto por un golpe de estado promovido por
 Bélgica con ayuda de la CIA.
 
-La construcción también se usó durante bastante tiempo para una
-costumbre tradicional de motrileños y otra gente de la costa: los
-sombrajos o chambaos, alternativa sesentera a los AirBnB,
-construcciones efímeras de cañas, cartones, rafia y lo que hiciera
-falta, donde los maridos motrileños aparcaban a la familia durante el
-verano, para ir ellos a dormir de noche, al fresquito de la
-playa. Estos chambaos, que a veces se convertían en establecimientos
-expendedores de bebidas, eran tolerados sin ningún problema por la
-familia real, o más bien por los guardeses en su ausencia, de lo que
-cabe imaginar poco interés por la playa de chinos más allá del aire
-salutífero que proporcionaba. Una vez más y por mor de su simple
-existencia, Villa Astrida se convirtió en causa y soporte de un
-turismo, aunque en este caso bastante lejano a lo que los condes de
-Agrela imaginaron para esta zona. ¿Aprovecharían para los sombrajos
+Las tapias de la construcción también se usó durante bastante tiempo
+para una costumbre tradicional de motrileños y otra gente de la costa:
+los sombrajos o chambaos, alternativa sesentera a los AirBnB y pisos
+de la familia en la playa, construcciones efímeras de cañas, cartones,
+rafia y lo que hiciera falta, donde los maridos motrileños aparcaban a
+la familia durante el verano, para ir ellos a dormir de noche, al
+fresquito de la playa. Estos chambaos, que a veces se convertían en
+establecimientos expendedores de bebidas, eran tolerados sin ningún
+problema por la familia real, o más bien por los guardeses en su
+ausencia, de lo que cabe imaginar poco interés por la playa de chinos
+más allá del aire salutífero que proporcionaba. Una vez más y por mor
+de su simple existencia, Villa Astrida se convirtió en causa y soporte
+de un turismo, aunque en este caso bastante lejano a lo que los condes
+de Agrela imaginaron para esta zona. ¿Aprovecharían para los sombrajos
 las hojas de las palmeras que el jardinero belga desechara?
 ¿Invitarían al jardinero a tortilla de patatas y chirimoyos esas
 familiar allí asentadas durante los meses de verano? ¿Sacaría el
@@ -192,25 +192,28 @@ servicio unos túpers de codillo para compartir entre la plebe?
 
 O, quizás, ¿quitarían todos estos chambaos cuando efectivamente se
 alojaran los reyes allí? Los testimonios dicen que el área de playa
-delante de Villa Astrida estaba también vallada y custodiados por los
-grises, la policía de Franco o quizás la Guardia Civil. No serían muy
-largas las estancias, posiblemente.
+delante de Villa Astrida estaba también vallada, como efectivamente se
+ve en las ortofotos en los años 70 y 80, y custodiados por los grises,
+la policía de Franco o quizás la Guardia Civil. No serían muy largas
+las estancias, posiblemente.
 
 > Todo esto da para una novela, en la que desaparecería alguien del
 > servicio y el sargento de la guardia civil de Motril tendría que
 > investigar. Una historia apasionante, a medio camino entre la serie
 > Milenio y Cuéntame. Un "chambao noir".
 
-
 La entrada principal de Villa Astrida está en el lado contrario a la
 playa, y en esta sólo hay un pequeño cobertizo con una puerta lateral,
 y un recinto vallado por dos de sus lados donde quizás se podría
 alojar o atar una pequeña barca. ¿Alguna vez hubo un embarcadero
 adosado a esta valla, donde se pudiera atracar el yate "Ávila"
-llegando por mar a Villa Astrida? Es posible; pero hemos de tener en
-cuenta que en la época que se construyó se dice repetidamente que
-estaba a cientos de metros del mar, así que tendría que haber sido una
-construcción de envergadura considerable.
+llegando por mar a Villa Astrida? Es posible y de hecho la guía que
+desde 2024 enseña la villa explica que había uno hacia la punta de la
+Mona del que no hemos podido encontrar ningún rastro ni documental ni
+en ortofotos; pero hemos de tener en cuenta que en la época que se
+construyó se dice repetidamente que estaba a cientos de metros del
+mar, así que tendría que haber sido una construcción de envergadura
+considerable.
 
 Balduino murió en 1993, en diferentes lugares de la casa según la
 historia que leas. Según algunos en su despacho, según otros en la
