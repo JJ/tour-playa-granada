@@ -273,7 +273,8 @@ de encontrar una página web, o reglas fundacionales, o quienes son los
 cargos de la misma; ni siquiera está claro qué significan sus siglas o
 siquiera si son unas siglas o un nombre, aunque teniendo en cuenta las
 inclinaciones de Fabiola, cabe pensar que se trata de alguna frase más
-o menos pía en latín (*in eis*: "en ellos"). Lo que se encuentra en una búsqueda en la web
+o menos pía en latín (*in eis*: "en ellos" o "en sus", como "en sus
+manos", por ejemplo)). Lo que se encuentra en una búsqueda en la web
 son cosas relacionadas con patrimonio propiedad de esa fundación que
 es cedido a otras fundaciones que pertenecen a familiares; por ejemplo
 [esta noticia sobre el señorío de
@@ -315,11 +316,18 @@ Cielo en Moratalaz. Es posible que el hecho de que fuera de San
 Sebastián, o de su fama como diseñador de iglesias, le ayudara a
 conseguir un trabajo con los reyes de Bélgica.
 
-Pero, más notablemente, fue un arquitecto renovador que participó en el llamado Manifiesto de la Alhambra, junto con otros muchos arquitectos, a mediados de siglo. Esencialmente, este manifiesto miraba a la Alhambra como fuente de inspiración para renovar la arquitectura española en la segunda mitad de siglo, igual que Palladio miraba a los clásicos romanos para la renovación de la arquitectura en el Renacimiento. En este manifiesto se afirman cosas como:
+Pero, más notablemente, fue un arquitecto renovador que participó en
+el llamado Manifiesto de la Alhambra, junto con otros muchos
+arquitectos, a mediados de siglo. Esencialmente, este manifiesto
+miraba a la Alhambra como fuente de inspiración para renovar la
+arquitectura española en la segunda mitad de siglo, igual que Palladio
+miraba a los clásicos romanos para la renovación de la arquitectura en
+el Renacimiento. En este manifiesto se afirman cosas como:
 
 > "Las plantas de tipo libre y abierto conservan un núcleo originario (el patio) de gran estabilidad formal"
 
-Y también se describe como en el arte musulmán la casa, el palacio son una representación del Paraíso, y 
+Y también se describe como en el arte musulmán la casa, el palacio son
+una representación del Paraíso, y
 
 > "La casa es jardín, y el jardín, casa"
 
