@@ -292,6 +292,20 @@ decorada con mosaicos de la Alhambra, y con una curiosa ducha con la
 cabeza de un león, y se entra en la residencia por la parte sur, en lo
 que era el comedor.
 
+El programa arquitectónico del "chalé" es más interesante de lo que
+pueda parecer a simple vista. Desde arriba, parece una Q o una U con
+un rabito en la derecha, abajo; lo que cerraría la U sería,
+precisamente, la entrada, que estaría orientada hacia el norte y
+ligeramente hacia el este. No está alineado ni con la valla exterior
+pegando a la carretera, ni con la que pega a la playa, aunque estaría
+orientada de tal forma que desde la terraza orientada hacia el sur se
+pudieran ver las puestas de sol durante casi todo el
+año. Precisamente, alineada con esta terraza hay una avenida de
+palmeras que llega hasta lo que parece un descampado, que posiblemente
+en su época albergara una pista de tenis o algún tipo de plantación.
+
+Lo más interesante no es, sin embargo, la ocupación del espacio, sino cómo está organizado el interior, alrededor de un patio con una fuente de piedra. Y aquí tenemos que buscar la historia del arquitecto, Domínguez Salazar, <!-- Incluir aquí lo del manifiesto de la Alhambra -->
+
 En el jardín hay eucaliptos, pero también pinos, y rodeados por un
 alcorque, tres ejemplares podados de lo que podría ser un drago, pero
 como no tienen ni una hoja, no tengo ni idea de si es así o no. La
