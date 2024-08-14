@@ -304,7 +304,14 @@ año. Precisamente, alineada con esta terraza hay una avenida de
 palmeras que llega hasta lo que parece un descampado, que posiblemente
 en su época albergara una pista de tenis o algún tipo de plantación.
 
-Lo más interesante no es, sin embargo, la ocupación del espacio, sino cómo está organizado el interior, alrededor de un patio con una fuente de piedra. Y aquí tenemos que buscar la historia del arquitecto, Domínguez Salazar, <!-- Incluir aquí lo del manifiesto de la Alhambra -->
+Lo más interesante no es, sin embargo, la ocupación del espacio, sino
+cómo está organizado el interior, alrededor de un patio con una fuente
+de piedra. Y aquí tenemos que buscar la historia del arquitecto,
+Domínguez Salazar. Un arquitecto notable, que participó también en la
+construcción de iglesias notables, como la de Nuestra Señora Reina del
+Cielo en Moratalaz. Es posible que el hecho de que fuera de San
+Sebastián, o de su fama como diseñador de iglesias, le ayudara a
+conseguir un trabajo con los reyes de Bélgica.
 
 En el jardín hay eucaliptos, pero también pinos, y rodeados por un
 alcorque, tres ejemplares podados de lo que podría ser un drago, pero
