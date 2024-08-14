@@ -142,8 +142,7 @@ más, en su bicicleta, por los chambaos de la costa para meterse unos
 espetos y unas gaseosas Sanitex y que Fabiola iba a Motril a comprar
 el pan o unos visillos, lo que hiciera falta para la mansión.
 
-Aunque no existen muchas fotos del interior de la misma, debemos
-suponer que esta villa no debía carecer de nada. Se menciona
+Se menciona
 repetidamente la afición a la botánica de Balduino, que hizo traer a
 un jardinero innombrado de Bélgica para que construyera un pequeño
 jardín botánico alrededor de la misma, porque si bien el clima y la
@@ -312,6 +311,20 @@ construcción de iglesias notables, como la de Nuestra Señora Reina del
 Cielo en Moratalaz. Es posible que el hecho de que fuera de San
 Sebastián, o de su fama como diseñador de iglesias, le ayudara a
 conseguir un trabajo con los reyes de Bélgica.
+
+Pero, más notablemente, fue un arquitecto renovador que participó en el llamado Manifiesto de la Alhambra, junto con otros muchos arquitectos, a mediados de siglo. Esencialmente, este manifiesto miraba a la Alhambra como fuente de inspiración para renovar la arquitectura española en la segunda mitad de siglo, igual que Palladio miraba a los clásicos romanos para la renovación de la arquitectura en el Renacimiento. En este manifiesto se afirman cosas como:
+
+> "Las plantas de tipo libre y abierto conservan un núcleo originario (el patio) de gran estabilidad formal"
+
+Y también se describe como en el arte musulmán la casa, el palacio son una representación del Paraíso, y 
+
+> "La casa es jardín, y el jardín, casa"
+
+Realmente, esta fue la única vivienda unifamiliar que levantó
+Domínguez Salazar, y por tanto fue en la única ocasión que pudo dar
+rienda suelta a este programa arquitectónico incluido en el manifiesto
+de la Alhambra. La casa se organiza en torno a este patio central.
+
 
 En el jardín hay eucaliptos, pero también pinos, y rodeados por un
 alcorque, tres ejemplares podados de lo que podría ser un drago, pero
