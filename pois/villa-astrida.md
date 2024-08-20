@@ -227,7 +227,13 @@ considerable.
 
 Balduino murió en 1993, en diferentes lugares de la casa según la
 historia que leas. Según algunos en su despacho, según otros en la
-terraza, según otros más al lado de la piscina.
+terraza, según otros más al lado de la piscina. El artículo del Ideal
+de Granada, publicado al día siguiente de la muerte, menciona una
+versión "oficiosa" en la que una doncella lo halla echado en un
+escritorio. Sin embargo, la versión oficial hoy en día es que se
+encontró en la silla de plástico que ahora se expone en el museo (y,
+en ocasiones de misas y acontecimientos religiosos, al lado de su
+monumento en la explanada delante de Villa Astrida).
 
 > Todo el relato de la relación de Balduino y Fabiola con Playa
 > Granada parece redactado por un publicista que trate de mostrar
@@ -245,11 +251,12 @@ cerraban la vista del interior en el año 2022; también alguien tendrá
 que pagar las farolas que iluminan el recinto por la noche.
 
 
-Por otro lado, la finca ha experimentado al menos un cambio:  [en 2014, una parte fue
+Por otro lado, el espacio que ocupa la finca ha experimentado al menos
+un cambio: [en 2014, una parte fue
 expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
 para abrir la pequeña calle que llega desde la rotonda de la calle
-Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, que, como recordamos, es de los 90, pero no
-ocurrió hasta muchos años más tarde.
+Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, que, como
+recordamos, es de los 90, pero no ocurrió hasta muchos años más tarde.
 
 Antes de que se revelara como perteneciente a la fundación INEIS hubo
 una serie de especulaciones sobre ella; por ejemplo, [que se pretendía
@@ -296,7 +303,14 @@ Fabiola. También era la propietaria de cuadros como
 vendido en 2020 al Museo del Prado. Pero son retazos que impiden
 crearse una idea conjunta de qué es y qué es lo que hace, más allá de
 administrar los bienes que pertenecieron a Fabiola de Mora y Aragón y
-a su familia.
+a su familia. Con esto no quiero formular ningún juicio sobre la
+fundación, que es perfectamente legal y posiblemente hará todos los
+trámites necesario en este tipo de organismos. Es simplemente un
+comentario sobre la ausencia de una web donde se pueda ahogar la
+curiosidad o curiosidades que puedan surgir, donde aparezcan los
+anuarios, los cargos de la misma, y todo lo que pueda ayudar a
+entender un poco mejor qué es lo que involucra a este edificio y a sus
+antiguos propietarios, Balduino y Fabiola.
 
 Desde mediados del año 2024 se puede visitar también, previo pago, la
 planta baja de la residencia, incluyendo también la parte de los
