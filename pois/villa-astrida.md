@@ -379,7 +379,7 @@ parte de culpa, o incluso que la tuviera, ya que su admiración por su
 bisabuelo era pública y notoria.
 
 
-La decoración dle interior de la residencia no es especialmente
+La decoración del interior de la residencia no es especialmente
 rica. Aunque la familia real belga, como tal, no es precisamente
 pobre, lo que queda en la residencia es precisamente lo que no
 pertenecía a la misma: objetos procedentes de la familia de Fabiola, o
