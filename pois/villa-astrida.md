@@ -342,12 +342,20 @@ arquitectura española en la segunda mitad de siglo, igual que Palladio
 miraba a los clásicos romanos para la renovación de la arquitectura en
 el Renacimiento. En este manifiesto se afirman cosas como:
 
-> "Las plantas de tipo libre y abierto conservan un núcleo originario (el patio) de gran estabilidad formal"
+> "Las plantas de tipo libre y abierto conservan un núcleo originario
+> (el patio) de gran estabilidad formal"
 
 Y también se describe como en el arte musulmán la casa, el palacio son
 una representación del Paraíso, y
 
 > "La casa es jardín, y el jardín, casa"
+
+En los vídeos caseros que se muestran en el museo, y en los restos actuales,
+se ve la vida que se hacía en el jardín, con sillas de plástico y
+*puffs* morunos que se podían mover fácilmente para crear espacios de
+ocio, a la sombra o al fresco,en cualquier punto del jardín,
+convirtiéndolo así en casa, pero también en ese Paraíso místico del
+que habla el manifiesto.
 
 Realmente, esta fue la única vivienda unifamiliar que levantó
 Domínguez Salazar, y por tanto fue en la única ocasión que pudo dar
