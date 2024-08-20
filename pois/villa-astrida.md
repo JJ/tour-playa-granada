@@ -133,7 +133,7 @@ Mora y Aragón.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, no
-necesariamente por ese orden, que los reyes querían pasar
+necesariamente por ese orden, pero también que los reyes querían pasar
 desapercibidos fuera de la farándula. El hecho es que, como hemos
 dicho al principio de este libro, precisamente se le regaló este
 terreno para atraer a la farándula, si bien no tuvo mucho éxito;
