@@ -159,7 +159,16 @@ turístico, sino también uno natural.
 
 Estas plantas incluían, al parecer, algunas traídas del Congo, país
 que fue propiedad [del bisabuelo de Balduino](https://es.wikipedia.org/wiki/Leopoldo_II_de_B%C3%A9lgica),
-que expolió a gusto el lugar. Balduino fue, de hecho, el último
+que expolió a gusto el lugar. 
+
+> Se contrapone "propiedad" a "colonia", que es el método habitual en
+> otros casos. Con una propiedad haces lo que quieres, con una
+> colonia, incluso como soberano, estás sometido a ciertas leyes. De
+> hecho, esa fue la evolución del congo, al forzar el gobierno al rey
+> a renunciar a la propiedad. No es que mejorara el destino de los
+> congoleños, por otro lado.
+
+Balduino fue, de hecho, el último
 soberano belga del Congo, que obtuvo su independencia el mismo año de
 la boda. Tras la independencia, el estado belga con la ayuda de
 mercenarios montó la secesión de la provincia de Katanga, con el
@@ -171,24 +180,25 @@ asesinato del presidente democráticamente elegido en el Congo, Patrice
 Lumumba, previamente depuesto por un golpe de estado promovido por
 Bélgica con ayuda de la CIA.
 
-Las tapias de la construcción también se usó durante bastante tiempo
-para una costumbre tradicional de motrileños y otra gente de la costa:
-los sombrajos o chambaos, alternativa sesentera a los AirBnB y pisos
-de la familia en la playa, construcciones efímeras de cañas, cartones,
-rafia y lo que hiciera falta, donde los maridos motrileños aparcaban a
-la familia durante el verano, para ir ellos a dormir de noche, al
-fresquito de la playa. Estos chambaos, que a veces se convertían en
-establecimientos expendedores de bebidas, eran tolerados sin ningún
-problema por la familia real, o más bien por los guardeses en su
-ausencia, de lo que cabe imaginar poco interés por la playa de chinos
-más allá del aire salutífero que proporcionaba. Una vez más y por mor
-de su simple existencia, Villa Astrida se convirtió en causa y soporte
-de un turismo, aunque en este caso bastante lejano a lo que los condes
-de Agrela imaginaron para esta zona. ¿Aprovecharían para los sombrajos
-las hojas de las palmeras que el jardinero belga desechara?
-¿Invitarían al jardinero a tortilla de patatas y chirimoyos esas
-familiar allí asentadas durante los meses de verano? ¿Sacaría el
-servicio unos túpers de codillo para compartir entre la plebe?
+Las tapias de la construcción también se usaron durante bastante
+tiempo para una costumbre tradicional de motrileños y otra gente de la
+costa: los sombrajos o chambaos, alternativa sesentera a los AirBnB y
+pisos de la familia en la playa, construcciones efímeras de cañas,
+cartones, rafia y lo que hiciera falta, donde los maridos motrileños
+aparcaban a la familia durante el verano, para ir ellos a dormir de
+noche, al fresquito de la playa. Estos chambaos, que a veces se
+convertían en establecimientos expendedores de bebidas, eran tolerados
+sin ningún problema por la familia real, o más bien por los guardeses
+en su ausencia, de lo que cabe imaginar poco interés por la playa de
+chinos más allá del aire salutífero que proporcionaba. Una vez más y
+por mor de su simple existencia, Villa Astrida se convirtió en causa y
+soporte de un turismo, aunque en este caso bastante lejano a lo que
+los condes de Agrela imaginaron para esta zona. ¿Aprovecharían para
+los sombrajos las hojas de las palmeras que el jardinero belga
+desechara?  ¿Invitarían al jardinero a tortilla de patatas y
+chirimoyos esas familiar allí asentadas durante los meses de verano?
+¿Sacaría el servicio unos túpers de codillo para compartir entre la
+plebe?
 
 O, quizás, ¿quitarían todos estos chambaos cuando efectivamente se
 alojaran los reyes allí? Los testimonios dicen que el área de playa
