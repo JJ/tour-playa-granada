@@ -104,44 +104,6 @@ más, en su bicicleta, por los chambaos de la costa para meterse unos
 espetos y unas gaseosas Sanitex y que Fabiola iba a Motril a comprar
 el pan o unos visillos, lo que hiciera falta para la mansión.
 
-Se menciona
-repetidamente la afición a la botánica de Balduino, que hizo traer a
-un jardinero innombrado de Bélgica para que construyera un pequeño
-jardín botánico alrededor de la misma, porque si bien el clima y la
-luz de la costa son excelentes, también está bien tener un poco de
-sombrica para poder disfrutar tranquilamente de la cerveza de abadía a
-temperatura ambiente, *comme il faut*. El jardín se diseñó de forma
-que diera tanto humedad como sombra, en varias capas, con una cantidad
-considerable de palmeras y otras especies; las palmeras son bien
-visibles desde fuera, y el resto podemos imaginarlo. Hoy en día, el
-jardín botánico se ha dejado a su suerte, se ha convertido en hábitat
-de especies tales como la cotorra de Kramer, que ha sido observada en
-esta zona con asiduidad. Esta villa no solo ha creado un ecosistema
-turístico, sino también uno natural.
-
-Estas plantas incluían, al parecer, algunas traídas del Congo, país
-que fue propiedad [del bisabuelo de Balduino](https://es.wikipedia.org/wiki/Leopoldo_II_de_B%C3%A9lgica),
-que expolió a gusto el lugar. 
-
-> Se contrapone "propiedad" a "colonia", que es el método habitual en
-> otros casos. Con una propiedad haces lo que quieres, con una
-> colonia, incluso como soberano, estás sometido a ciertas leyes. De
-> hecho, esa fue la evolución del congo, al forzar el gobierno al rey
-> a renunciar a la propiedad. No es que mejorara el destino de los
-> congoleños, por otro lado.
-
-Balduino fue, de hecho, el último
-soberano belga del Congo, que obtuvo su independencia el mismo año de
-la boda. Tras la independencia, el estado belga con la ayuda de
-mercenarios montó la secesión de la provincia de Katanga, con el
-resultado de miles de muertos y uno de los países más pobres de
-África, que no es decir poco. No consta si las plantas congolesas se
-trajeron de Katanga (junto con algún que otro diamante). De hecho,
-durante la boda y el viaje de novios se produjo la captura y posterior
-asesinato del presidente democráticamente elegido en el Congo, Patrice
-Lumumba, previamente depuesto por un golpe de estado promovido por
-Bélgica con ayuda de la CIA.
-
 Las tapias de la construcción también se usaron durante bastante
 tiempo para una costumbre tradicional de motrileños y otra gente de la
 costa: los sombrajos o chambaos, alternativa sesentera a los AirBnB y
@@ -362,7 +324,6 @@ Domínguez Salazar, y por tanto fue en la única ocasión que pudo dar
 rienda suelta a este programa arquitectónico incluido en el manifiesto
 de la Alhambra. La casa se organiza en torno a este patio central.
 
-
 En el jardín hay eucaliptos, pero también pinos, y rodeados por un
 alcorque, tres ejemplares podados de lo que podría ser un drago, pero
 como no tienen ni una hoja, no tengo ni idea de si es así o no. La
@@ -372,6 +333,51 @@ angiospermas. La otra planta, al lado de una adelfa, según Google Lens
 es un palmito, aunque la guía la señala como una falsa palmera que fue
 regalo de los emperadores del Japón. Hay una falsa palmera japonesa,
 llamada "cicas", pero no parece que este sea el caso.
+
+Se menciona
+repetidamente la afición a la botánica de Balduino, que hizo traer a
+un jardinero innombrado de Bélgica para que construyera un pequeño
+jardín botánico alrededor de la misma, porque si bien el clima y la
+luz de la costa son excelentes, también está bien tener un poco de
+sombrica para poder disfrutar tranquilamente de la cerveza de abadía a
+temperatura ambiente, *comme il faut*. El jardín se diseñó de forma
+que diera tanto humedad como sombra, en varias capas, con una cantidad
+considerable de palmeras y otras especies; las palmeras son bien
+visibles desde fuera, y el resto podemos imaginarlo. Hoy en día, el
+jardín botánico se ha dejado a su suerte, se ha convertido en hábitat
+de especies tales como la cotorra de Kramer, que ha sido observada en
+esta zona con asiduidad. Esta villa no solo ha creado un ecosistema
+turístico, sino también uno natural.
+
+Estas plantas incluían, al parecer, algunas traídas del Congo, país
+que fue propiedad [del bisabuelo de
+Balduino](https://es.wikipedia.org/wiki/Leopoldo_II_de_B%C3%A9lgica),
+que expolió a gusto el lugar.
+
+> Se contrapone "propiedad" a "colonia", que es el método habitual en
+> otros casos. Con una propiedad haces lo que quieres, con una
+> colonia, incluso como soberano, estás sometido a ciertas leyes. De
+> hecho, esa fue la evolución del congo, al forzar el gobierno al rey
+> a renunciar a la propiedad. No es que mejorara el destino de los
+> congoleños, por otro lado.
+
+Balduino fue, de hecho, el último soberano belga del Congo, que obtuvo
+su independencia el mismo año de la boda. Tras la independencia, el
+estado belga con la ayuda de mercenarios montó la secesión de la
+provincia de Katanga, con el resultado de miles de muertos y uno de
+los países más pobres de África, que no es decir poco. No consta si
+las plantas congolesas se trajeron de Katanga (junto con algún que
+otro diamante). De hecho, durante la boda y el viaje de novios se
+produjo la captura y posterior asesinato del presidente
+democráticamente elegido en el Congo, Patrice Lumumba, previamente
+depuesto por un golpe de estado promovido por Bélgica con ayuda de la
+CIA. Dado que la capacidad de decisión del soberano en una monarquía
+constitucional como la de Bélgica es bastante limitada, es de suponer
+que su conocimiento de estos hecho sería nulo, y por tanto su
+responsabilidad. Con todo y con eso, no me extrañaría que asumiera su
+parte de culpa, o incluso que la tuviera, ya que su admiración por su
+bisabuelo era pública y notoria.
+
 
 Aunque la familia real belga, como tal, no es precisamente pobre, lo
 que queda en la residencia es precisamente lo que no pertenecía a la
