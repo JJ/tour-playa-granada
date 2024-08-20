@@ -34,44 +34,6 @@ muestran en el actual Memorial Rey Balduino, un museo abierto en
 agosto de 2023, estas vallas sin embargo son de simple cañizo, el
 material clásico para construir lindes en la zona.
 
-Quizás merezca la pena dedicar unas línea al arquitecto; si no por
-otra razón, por el hecho de que no existe ni un artículo sobre Villa
-Astrida que lo nombre, y apenas un artículo sobre el arquitecto hace
-mención a un "chalet de Balduino y Fabiola en Motril". Domínguez
-Salazar es abanderado de un estilo "nacional", y es de imaginar que
-aplicaría sus ideas a este proyecto. Si nos olvidamos del resto de las
-construcciones de Villa Astrida, la casa principal es aproximadamente
-rectangular, con una portada en el lado contrario al mar; en la parte
-más cercana al mar se abre, a la izquierda, un ala rectangular.
-
-En el interior del cuadrado hay un patio, como en los
-cortijos andaluces. Según unos planos en el "Memorial Rey Balduino",
-la planta baja tiene diferentes salas, aparte del despacho (donde,
-según algunas crónicas, moriría el Rey Balduino) y una pequeña
-capilla. El ala aloja las habitaciones del servicio; la planta
-superior tiene diferentes dormitorios que se abren a una gran terraza
-que recorre todo el lado del rectángulo, y que mira al mar.
-
-Desde el exterior de la portada principal, la entrada tiene un
-tejadillo y está rodeada por dos "torreones", que no son sino
-habitaciones o dependencias; en ellas hay también una azotea; sin
-embargo, de esas torres, la de la izquierda tiene una ventaja frontal
-sólo en la planta baja, y la de la derecha una ventana que, supongo,
-da luz al pasillo. El portón de madera tallada está flanqueado por dos
-faroles de forja.
-
-El estilo de Domínguez Salazar a veces se ha llamado "neoherreriano",
-y los volúmenes de este "chalet" parecen efectivamente un cruce entre
-el Escorial y un cortijo de las Alpujarras. Domínguez Salazar
-participó en el llamado manifiesto arquitectónico de la Alhambra, que
-pide adecuar la arquitectura a los tiempos y reflejar la arquitectura
-vernácula. En esta construcción, evidentemente, ha tratado de seguir
-ese manifiesto.
-
-En general, esta obra oculta a los ojos de casi todo el mundo, si no
-es una obra maestra arquitectónica, sí tiene cierto interés y habría
-sido interesante que se pudiera ver y estudiar un poco más.
-
 Pero la situación actual es consecuencia de la historia, una historia
 adelantada ya en otros capítulos. El [mito fundacional se cuenta
 en este otro
@@ -319,8 +281,40 @@ decorada con mosaicos de la Alhambra, y con una curiosa ducha con la
 cabeza de un león, y se entra en la residencia por la parte sur, en lo
 que era el comedor.
 
-El programa arquitectónico del "chalé" es más interesante de lo que
-pueda parecer a simple vista. Desde arriba, parece una Q o una U con
+Quizás merezca la pena dedicar unas línea al arquitecto; si no por
+otra razón, por el hecho de que no existe ni un artículo sobre Villa
+Astrida que lo nombre, y apenas un artículo sobre el arquitecto hace
+mención a un "chalet de Balduino y Fabiola en Motril". Domínguez
+Salazar es abanderado de un estilo "nacional", y es de imaginar que
+aplicaría sus ideas a este proyecto. Si nos olvidamos del resto de las
+construcciones de Villa Astrida, la casa principal es aproximadamente
+rectangular, con una portada en el lado contrario al mar; en la parte
+más cercana al mar se abre, a la izquierda, un ala rectangular.
+
+En el interior del cuadrado hay un patio, como en los
+cortijos andaluces. Según unos planos en el "Memorial Rey Balduino",
+la planta baja tiene diferentes salas, aparte del despacho (donde,
+según algunas crónicas, moriría el Rey Balduino) y una pequeña
+capilla. El ala aloja las habitaciones del servicio; la planta
+superior tiene diferentes dormitorios que se abren a una gran terraza
+que recorre todo el lado del rectángulo, y que mira al mar.
+
+Desde el exterior de la portada principal, la entrada tiene un
+tejadillo y está rodeada por dos "torreones", que no son sino
+habitaciones o dependencias; en ellas hay también una azotea; sin
+embargo, de esas torres, la de la izquierda tiene una ventaja frontal
+sólo en la planta baja, y la de la derecha una ventana que, supongo,
+da luz al pasillo. El portón de madera tallada está flanqueado por dos
+faroles de forja.
+
+El estilo de Domínguez Salazar a veces se ha llamado "neoherreriano";
+de hecho, fue parte de la Junta del Instituto Juan de Herrera. Los
+volúmenes de este *chalet* parecen efectivamente un cruce entre el
+Escorial y un cortijo de las Alpujarras, quizás metiendo por medio
+algo de la Alhambra.
+
+Porque el programa arquitectónico del "chalé" es más interesante de lo que
+pueda parecer a simple vista.  Desde arriba, parece una Q o una U con
 un rabito en la derecha, abajo; lo que cerraría la U sería,
 precisamente, la entrada, que estaría orientada hacia el norte y
 ligeramente hacia el este. No está alineado ni con la valla exterior
