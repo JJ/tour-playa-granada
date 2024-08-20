@@ -174,7 +174,6 @@ se encarga de cuidar el jardín y se han repuesto las lonas que
 cerraban la vista del interior en el año 2022; también alguien tendrá
 que pagar las farolas que iluminan el recinto por la noche.
 
-
 Por otro lado, el espacio que ocupa la finca ha experimentado al menos
 un cambio: [en 2014, una parte fue
 expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
@@ -378,7 +377,6 @@ responsabilidad. Con todo y con eso, no me extrañaría que asumiera su
 parte de culpa, o incluso que la tuviera, ya que su admiración por su
 bisabuelo era pública y notoria.
 
-
 La decoración del interior de la residencia no es especialmente
 rica. Aunque la familia real belga, como tal, no es precisamente
 pobre, lo que queda en la residencia es precisamente lo que no
@@ -432,6 +430,22 @@ voléibol, y hasta banquetes, pero no creo que ninguno de ellos se haga
 en el edificio principal. Es más probable que acabe abriéndose todo el
 edificio a las visitas, o incluso la parte del jardín más tupida, pero
 	quién sabe.
+
+En general, tanto la villa como el museo transmiten una imagen
+austera, incluso ascética, de Balduino; la de una persona sencilla,
+aficionada a montar en bicicleta; una de ellas con marca "Merckx" está
+expuesta en el museo. Pero eso no casa muy bien con el hecho de que
+era un gran aficionado a los coches de lujo. Entre los menos lujosos
+se podía encontrar un Citroën DS, el célebre "Tiburón", que el
+propietario de la Citroën de Motril me contó que alguna vez vino a
+reparar in situ. Pero también tenía no uno, sino dos Aston Martin
+DB2/4, uno de los cuales ha salido recientemente a la venta en subasta
+y se ha vendido por 333000 €. Pero también un de Tomaso Deauville, de
+los que solo se produjeron 244, y para el diario, un Cadillac y un
+Mercedes 600. Todos ellos son propiedad del estado belga, así que no
+hay no sólo ninguno de ellos en Villa Astrida, sino tampoco
+fotos. Como se ha indicado arriba, no encajaría muy bien con la
+narrativa.
 
 Pero más allá de un presente que es bastante diferente de cuando salió
 este libro por primera vez, el futuro físico de la villa puede ser
