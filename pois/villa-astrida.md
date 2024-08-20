@@ -379,14 +379,15 @@ parte de culpa, o incluso que la tuviera, ya que su admiración por su
 bisabuelo era pública y notoria.
 
 
-Aunque la familia real belga, como tal, no es precisamente pobre, lo
-que queda en la residencia es precisamente lo que no pertenecía a la
-misma: objetos procedentes de la familia de Fabiola, o bien objetos
-personales adquiridos por la pareja. Por eso lo que hay es una curiosa
-mezcla de objetos de anticuario, como escritorios holandeses (uno de
-los cuales está en el área del museo) y muebles típicos de una familia
-bien de los años 60 y 70: sofás de escay, sillones tapizados y puffs
-de estilo moruno.
+La decoración dle interior de la residencia no es especialmente
+rica. Aunque la familia real belga, como tal, no es precisamente
+pobre, lo que queda en la residencia es precisamente lo que no
+pertenecía a la misma: objetos procedentes de la familia de Fabiola, o
+bien objetos personales adquiridos por la pareja. Por eso lo que hay
+es una curiosa mezcla de objetos de anticuario, como escritorios
+holandeses (uno de los cuales está en el área del museo) y muebles
+típicos de una familia bien de los años 60 y 70: sofás de escay,
+sillones tapizados y puffs de estilo moruno.
 
 El arte que cuelga en las paredes es también ecléctico, con mezcla de
 tablas castellanas barrocas, incluso góticas, una pintura bastante
