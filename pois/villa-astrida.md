@@ -1,5 +1,5 @@
 # Villa Astrida
-__*La primera construcción, la más desconocida*__
+__*La primera construcción, que vamos descubriendo poco a poco*__
 
 ![Villa Astrida desde la playa. Más o menos en el centro, la caseta que tiene las dos salidas del recinto hacia el mar. El chambao que hay a la derecha de la imagen desapareció en 2020 o así](img/villa-astrida.jpg)
 
