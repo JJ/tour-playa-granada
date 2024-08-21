@@ -8,14 +8,14 @@ la misma playa, fue la residencia de verano de los reyes de Bélgica
 hasta la muerte de Balduino; literalmente, porque Balduino murió (en
 julio de 1993) en este preciso lugar. Desde agosto de 2023,
 precisamente por esa razón, alberga el [Memorial Rey Balduino](https://www.memorialreybalduino.com/), que
-incluye un pequeño museo, administrado por la llamada Fundación INEIS.
+incluye un pequeño museo administrado por la llamada Fundación INEIS.
 
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
 alguna construcción en los años siguientes, que desapareció debido a
 un incendio. La construcción actual es obra del arquitecto José
-Antonio Domínguez Salazar.  Según [el artículo-obituario de Balduino
-en
+Antonio Domínguez Salazar, y se terminó en 1967.  Según [el
+artículo-obituario de Balduino en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría dos de las características
@@ -23,7 +23,7 @@ que definen al estilo mediterráneo (y del Pueblo del Chirimoyo y las
 Terrazas), pero dado que fue la primera construcción de la zona, es
 posible que, en realidad, fuera su arquitectura la que iniciara el
 diálogo, continuado luego por el Pueblo del Chirimoyo, con quien
-quizás compartiera también capataces o incluso arquitectos. También
+quizás compartiera también maestros de obras y algún obrero. También
 usa piedra blanca (en vez del encalado mediterráneo, porque hasta ahí
 podíamos llegar); la misma piedra que, si creemos el artículo de ABC,
 se trajo de Alcalá de Guadaira y se usó para el muro que rodea la
@@ -35,35 +35,35 @@ agosto de 2023, estas vallas sin embargo son de simple cañizo, el
 material clásico para construir lindes en la zona.
 
 Pero la situación actual es consecuencia de la historia, una historia
-adelantada ya en otros capítulos. El [mito fundacional se cuenta
-en este otro
-artículo](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
+adelantada ya en otros capítulos. El [mito fundacional se cuenta en
+varios artículos, tal como el publicado en The Seaside
+Gazette](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
 posiblemente de las mismas fuentes, ya sabéis, vuelo en helicóptero,
-se enamoró de esta zona de la costa (que en esa época no tendría más
-que cañaverales, indistinguibles de cualquier otra zona salvo por el
-pequeño cabo a la izquierda de la actual Villa Astrida), compró la
-tierra a muy bajo precio a un constructor "que ya tenía ideas de
-construir una urbanización". Pero es el mito que ha perdurado, y
-muchas veces el relato tiene más fuerza que la historia.
+se enamoró de esta zona de la costa (algo bastante complicado, porque
+en esa época no tendría más que cañaverales, indistinguibles de
+cualquier otra zona salvo por el pequeño cabo a la izquierda de la
+actual Villa Astrida), compró la tierra a muy bajo precio a un
+constructor "que ya tenía ideas de construir una urbanización". Pero
+es el mito que ha perdurado, y muchas veces el relato tiene más fuerza
+que la historia.
 
 > También se dice que "desde la terraza se puede ver la sierra y el
 > mar", y no es cierto. La terraza da al mar, pero la sierra no se
-> puede ver más que desde las azoteas, que no parecen habitables
-> (aunque a saber, porque no se pueden visitar).
+> puede ver más que desde las azoteas del norte, que no parecen
+> habitables (aunque a saber, porque no se pueden visitar).
+
+<!-- este párrafo se tiene que reescribir -->
 
 Pero si empezamos muy por el principio, es decir, rey conoce a reina,
-Balduino y Fabiola se conocieron de puro milagro; aparentemente lo
-hicieron en [una peregrinación a
+Balduino y Fabiola se conocieron de puro milagro (literalmente);
+aparentemente lo hicieron en [una peregrinación a
 Lourdes](http://www.scj.es/documentos/02.%20Boletines%20y%20Revistas/A.%20El%20Reino/EL%20Reino%202008/02.2008%20EL%20REINO%20FEBRERO.pdf).
-Saltamos al momento en el que "decidieron" establecer su residencia de
-verano aquí, ya sabéis, vuelo en helicóptero, todo eso, el "mito
-fundacional" que se repite en los artículos anteriores y que no vamos
-a repetir aquí. En el artículo dice que estaba cubierto de cañas de
+En el artículo dice que estaba cubierto de cañas de
 azúcar, lo que a esas alturas de la película (y desde 20 años atrás)
 era posiblemente mentira; lo más probable es que fuera solo cañizo, o
 plantaciones de caña de azúcar abandonadas; si queremos ver a qué se
 parecería la playa en aquella época lo más parecido sería la zona sin
-urbanizar que hay entre el hotel y la desembocadura del Guadalfeo
+urbanizar que hay entre el hotel y la desembocadura del Guadalfeo.
 
 Pero la historia, diseñada seguramente por los publicistas de la
 familia Agrela (siendo una familia noble, seguro que tenían algún
@@ -82,6 +82,7 @@ de Motril antes del regalo de bodas. Sí que, en las crónicas sociales
 de finales de los sesenta y principios de los setenta, no se hablaba
 de "Villa Astrida" sino de la finca "El vasco". ¿Por qué? Ni idea.
 
+<!-- esto está repetido de antes. Toda esta parte habrá que reescribirla -->
 En todo caso, el terreno empezó a ser usado casi de forma inmediata, y
 se llevó a cabo una construcción que, al parecer, y como hemos dicho,
 ardió en 1965. Según [el artículo de la Wikipedia del alcalde de
@@ -96,13 +97,13 @@ Mora y Aragón.
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, no
 necesariamente por ese orden, pero también que los reyes querían pasar
-desapercibidos fuera de la farándula. El hecho es que, como hemos
+desapercibidos alejados de la farándula. El hecho es que, como hemos
 dicho al principio de este libro, precisamente se le regaló este
 terreno para atraer a la farándula, si bien no tuvo mucho éxito;
 corren rumores en todo caso de que Balduino se paseaba, como un guiri
 más, en su bicicleta, por los chambaos de la costa para meterse unos
 espetos y unas gaseosas Sanitex y que Fabiola iba a Motril a comprar
-el pan o unos visillos, lo que hiciera falta para la mansión.
+el pan o unos visillos, lo que hiciera falta para el chalé..
 
 Las tapias de la construcción también se usaron durante bastante
 tiempo para una costumbre tradicional de motrileños y otra gente de la
@@ -128,7 +129,14 @@ O, quizás, ¿quitarían todos estos chambaos cuando efectivamente se
 alojaran los reyes allí? Los testimonios dicen que el área de playa
 delante de Villa Astrida estaba también vallada, como efectivamente se
 ve en las ortofotos en los años 70 y 80, y custodiados por los grises,
-la policía de Franco o quizás la Guardia Civil. No serían muy largas
+la policía de Franco o quizás la Guardia Civil.
+
+> De hecho, el artículo de Ideal sobre la muerte de Balduino comenta
+> que la Guardia Civil estaba encargada de la vigilancia y protección
+> justo hasta el año de la muerte, el 93, en que la sustituyó la
+> policía nacional.
+
+No serían muy largas
 las estancias, posiblemente.
 
 > Todo esto da para una novela, en la que desaparecería alguien del
@@ -303,7 +311,7 @@ Cielo en Moratalaz. Es posible que el hecho de que fuera de San
 Sebastián, o de su fama como diseñador de iglesias, le ayudara a
 conseguir un trabajo con los reyes de Bélgica.
 
-![Patio de Villa Astrida, con la fuente en el centro, capiteles nazaríes y sujeta lanzas sin lanzas. A la izquierda, se abre a un pasillo que también sirve para escuchar misa desde la capilla, al final del mismo](img/patio-villa-astrida)
+![Patio de Villa Astrida, con la fuente en el centro, capiteles nazaríes y sujeta lanzas sin lanzas. A la izquierda, se abre a un pasillo que también sirve para escuchar misa desde la capilla, al final del mismo](img/patio-villa-astrida.png)
 
 Pero, más notablemente, fue un arquitecto renovador que participó en
 el llamado Manifiesto de la Alhambra, junto con otros muchos
