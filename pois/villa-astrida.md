@@ -303,6 +303,8 @@ Cielo en Moratalaz. Es posible que el hecho de que fuera de San
 Sebastián, o de su fama como diseñador de iglesias, le ayudara a
 conseguir un trabajo con los reyes de Bélgica.
 
+![Patio de Villa Astrida, con la fuente en el centro, capiteles nazaríes y sujeta lanzas sin lanzas. A la izquierda, se abre a un pasillo que también sirve para escuchar misa desde la capilla, al final del mismo](img/patio-villa-astrida)
+
 Pero, más notablemente, fue un arquitecto renovador que participó en
 el llamado Manifiesto de la Alhambra, junto con otros muchos
 arquitectos, a mediados de siglo. Esencialmente, este manifiesto
