@@ -147,7 +147,12 @@ Mona del que no hemos podido encontrar ningún rastro ni documental ni
 en ortofotos; pero hemos de tener en cuenta que en la época que se
 construyó se dice repetidamente que estaba a cientos de metros del
 mar, así que tendría que haber sido una construcción de envergadura
-considerable.
+considerable. Sí debía haber un embarcadero cerca de la zona donde hoy
+está el hotel Impressive, en las estribaciones occidentales de Playa
+Granada; no es que se haya encontrado ningún documento, sino que en
+los temporales recientes la prensa habla de que dejaron al aire el
+cemento de lo que pudo ser un embarcadero; en este caso, estaría en la
+zona donde ahora está el Awa.
 
 Balduino murió en 1993, en diferentes lugares de la casa según la
 historia que leas. Según algunos en su despacho, según otros en la
@@ -465,13 +470,15 @@ es que en las crónicas de la muerte de Balduino se comenta que Villa
 Astrida estaba a unos cientos de metros del mar, así que el retroceso es
 evidente, porque hoy en día no llega a los 20 o 30 metros.
 
-Lo cierto que los veranos de Balduino y Fabiola en Motril dieron lugar
-a muchas anécdotas, todas ellas destilando un carácter amable y
-cercano de la pareja en su trato con dependientes y hosteleros. La
-paradoja es que si la intención inicial de los que hicieron el regalo
-era de atraer la realeza a Playa Granada, consiguieron justamente lo
-contrario: que la pareja real se acercara a las gentes de Motril y
-toda la costa tropical, y viceversa.
+Lo cierto que los veranos de Balduino y Fabiola (llamados
+genéricamente "los fabiolos", para consternación de Balduino, que se
+preguntó por qué no los llamaban "los balduinos" en una de esas
+anécdotas) en Motril dieron lugar a muchas anécdotas, todas ellas
+destilando un carácter amable y cercano de la pareja en su trato con
+dependientes y hosteleros. La paradoja es que si la intención inicial
+de los que hicieron el regalo era de atraer la realeza a Playa
+Granada, consiguieron justamente lo contrario: que la pareja real se
+acercara a las gentes de Motril y toda la costa tropical, y viceversa.
 
 De alguna forma, la calle enfrente de Villa Astrida se convirtió en la
 "zona noble" del barrio; podemos ver una serie de viviendas justo
