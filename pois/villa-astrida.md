@@ -154,6 +154,9 @@ los temporales recientes la prensa habla de que dejaron al aire el
 cemento de lo que pudo ser un embarcadero; en este caso, estaría en la
 zona donde ahora está el Awa.
 
+> Que es también una obra menor, pero bastante interesante, de Ángel
+> Gijón.
+
 Balduino murió en 1993, en diferentes lugares de la casa según la
 historia que leas. Según algunos en su despacho, según otros en la
 terraza, según otros más al lado de la piscina. El artículo del Ideal
