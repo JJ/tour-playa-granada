@@ -188,7 +188,9 @@ monumento en la explanada delante de Villa Astrida).
 > confesor; incluso hay una página de Facebook que busca su
 > canonización. Por lo pronto, sólo es venerable, aunque no he
 > encontrado la proclamación que lo haga (que tiene que hacerse por
-> parte de un arzobispo, según creo).
+> parte de un arzobispo, para que a continuación el Papa declare que
+> han tenido una "virtud heroica". Igual el artículo de El Reino se
+> anticipó un tanto al hecho en sí.
 
 A partir de ese momento comenzaron las disputas sobre la
 herencia. ¿Era de la familia, y por tanto podía ser heredado por la
