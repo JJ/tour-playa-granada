@@ -62,7 +62,8 @@ la santa, nacida en Darfur, esclavizada durante gran parte de su vida,
 para convertirse en monja finalmente en Italia, donde murió. Fue
 declarada "venerable", el primer paso a la canonización, el 1 de
 diciembre de 1978, en la primera proclamación de "virtud heroica" de
-este Papa.  La iglesia le fue [consagrada el 5 de agosto de
+este Papa, para ser canonizada en el año 2000.  La iglesia le fue
+[consagrada el 5 de agosto de
 2016](https://www.archidiocesisgranada.es/index.php/noticias/la-iglesia-en-playa-granada-celebra-la-bendicion-de-la-escultura-de-santa-josefina-bakhita),
 con lo que esta construcción tiene apenas unos años.
 
