@@ -185,7 +185,10 @@ monumento en la explanada delante de Villa Astrida).
 > concertada por una monja irlandesa "mística" durante una
 > peregrinación a Lourdes. Su biografía, citada extensamente en el
 > Memorial, está escrita por un cardenal, Suenens, que también fue su
-> confesor.
+> confesor; incluso hay una página de Facebook que busca su
+> canonización. Por lo pronto, sólo es venerable, aunque no he
+> encontrado la proclamación que lo haga (que tiene que hacerse por
+> parte de un arzobispo, según creo).
 
 A partir de ese momento comenzaron las disputas sobre la
 herencia. ¿Era de la familia, y por tanto podía ser heredado por la
