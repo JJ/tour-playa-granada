@@ -3,12 +3,13 @@ __*La primera construcción, que vamos descubriendo poco a poco*__
 
 ![Villa Astrida desde la playa. Más o menos en el centro, la caseta que tiene las dos salidas del recinto hacia el mar. El chambao que hay a la derecha de la imagen desapareció en 2020 o así](img/villa-astrida.jpg)
 
-Villa Astrida, un recinto con un palacete en el interior que nace en
-la misma playa, fue la residencia de verano de los reyes de Bélgica
-hasta la muerte de Balduino; literalmente, porque Balduino murió (en
-julio de 1993) en este preciso lugar. Desde agosto de 2023,
-precisamente por esa razón, alberga el [Memorial Rey Balduino](https://www.memorialreybalduino.com/), que
-incluye un pequeño museo administrado por la llamada Fundación INEIS.
+Villa Astrida, un recinto con un palacete/chalet en el interior que
+nace en la misma playa, fue la residencia de verano de los reyes de
+Bélgica hasta la muerte de Balduino; literalmente, porque Balduino
+murió (en julio de 1993) en este preciso lugar. Desde agosto de 2023,
+precisamente por esa razón, alberga el [Memorial Rey
+Balduino](https://www.memorialreybalduino.com/), que incluye un
+pequeño museo administrado por la llamada Fundación INEIS.
 
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
@@ -34,7 +35,7 @@ muestran en el actual Memorial Rey Balduino, un museo abierto en
 agosto de 2023, estas vallas sin embargo son de simple cañizo, el
 material clásico para construir lindes en la zona.
 
-Pero la situación actual es consecuencia de la historia, una historia
+Lo que vemos hoy en día es consecuencia de la historia, una historia
 adelantada ya en otros capítulos. El [mito fundacional se cuenta en
 varios artículos, tal como el publicado en The Seaside
 Gazette](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
@@ -52,12 +53,10 @@ que la historia.
 > puede ver más que desde las azoteas del norte, que no parecen
 > habitables (aunque a saber, porque no se pueden visitar).
 
-<!-- este párrafo se tiene que reescribir -->
 
-Pero si empezamos muy por el principio, es decir, rey conoce a reina,
-Balduino y Fabiola se conocieron de puro milagro (literalmente);
-aparentemente lo hicieron en [una peregrinación a
-Lourdes](http://www.scj.es/documentos/02.%20Boletines%20y%20Revistas/A.%20El%20Reino/EL%20Reino%202008/02.2008%20EL%20REINO%20FEBRERO.pdf).
+
+
+<!-- qué artículo? Esto se ha quedado descolgado -->
 En el artículo dice que estaba cubierto de cañas de
 azúcar, lo que a esas alturas de la película (y desde 20 años atrás)
 era posiblemente mentira; lo más probable es que fuera solo cañizo, o
@@ -178,7 +177,15 @@ monumento en la explanada delante de Villa Astrida).
 > Todo el relato de la relación de Balduino y Fabiola con Playa
 > Granada parece redactado por un publicista que trate de mostrar
 > tanto el lugar como el monarca, como la relación entre ambos, en la
-> mejor luz posible.
+> mejor luz posible. De hecho, la revista el Reino en febrero de 2008
+> le dedica un artículo en su sección "Los santos de nuestro tiempo",
+> y lo califica de Venerable, una de las fases previas a la
+> beatificación y eventualmente canonización y llega a decir que
+> Balduino y Fabiola se conocieron de puro milagro, con una cita
+> concertada por una monja irlandesa "mística" durante una
+> peregrinación a Lourdes. Su biografía, citada extensamente en el
+> Memorial, está escrita por un cardenal, Suenens, que también fue su
+> confesor.
 
 A partir de ese momento comenzaron las disputas sobre la
 herencia. ¿Era de la familia, y por tanto podía ser heredado por la
