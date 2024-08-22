@@ -59,8 +59,10 @@ ropajes fluyen como en los que aparecen en las vírgenes barrocas. Una
 pieza de gran belleza, y a la vez de un gran poder simbólico.  Al lado
 de la estatua, unas cadenas rotas en un cojín hablan de la historia de
 la santa, nacida en Darfur, esclavizada durante gran parte de su vida,
-para convertirse en monja finalmente en Italia, donde murió. La
-iglesia le fue [consagrada el 5 de agosto de
+para convertirse en monja finalmente en Italia, donde murió. Fue
+declarada "venerable", el primer paso a la canonización, el 1 de
+diciembre de 1978, en la primera proclamación de "virtud heroica" de
+este Papa.  La iglesia le fue [consagrada el 5 de agosto de
 2016](https://www.archidiocesisgranada.es/index.php/noticias/la-iglesia-en-playa-granada-celebra-la-bendicion-de-la-escultura-de-santa-josefina-bakhita),
 con lo que esta construcción tiene apenas unos años.
 
