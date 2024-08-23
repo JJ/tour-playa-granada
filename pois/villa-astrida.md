@@ -31,9 +31,9 @@ la protección durante la época de ocupación real estaba en e
 lperímetro, pero nunca se sabe qué va a pasar en el futuro. O quizás,
 simplemente, son elementos decorativos tradicionales.
 
-Lo que vemos hoy en día es consecuencia de la historia, una historia
-adelantada ya en otros capítulos. El [mito fundacional se cuenta en
-varios artículos, tal como el publicado en The Seaside
+Lo que se puede ver hoy en día es consecuencia de la historia, una
+historia adelantada ya en otros capítulos. El [mito fundacional se
+cuenta en varios artículos, tal como el publicado en The Seaside
 Gazette](https://www.theseasidegazette.com/2013/06/18803/villa-astrida/),
 posiblemente de las mismas fuentes, ya sabéis, vuelo en helicóptero,
 se enamoró de esta zona de la costa (algo bastante complicado, porque
@@ -48,7 +48,14 @@ que la historia.
 > mar", y no es cierto. La terraza da al mar, pero la sierra no se
 > puede ver más que desde las azoteas del norte, que no parecen
 > habitables (aunque a saber, porque no se pueden visitar), sino más
-> bien espacios para tender la ropa o algo así..
+> bien espacios para tender la ropa o algo así.
+
+Por otro lado, el espacio que ocupa la finca ha experimentado al menos
+un cambio: [en 2014, una parte fue
+expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
+para abrir la pequeña calle que llega desde la rotonda de la calle
+Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, que, como
+recordamos, es de los 90, pero no ocurrió hasta muchos años más tarde.
 
 Las fuentes también mencionan que en el momento mítico en el que el
 rey Balduino vislumbró el espacio donde ahora se encuentra su chalé,
@@ -85,18 +92,20 @@ hablaba de "Villa Astrida" sino de la finca "El vasco"; por ejemplo,
 en el artículo del Semana de unos meses antes de que se completara la
 construcción. ¿Por qué? Ni idea.
 
-En todo caso, el terreno empezó a ser usado casi de forma inmediata,
-poco después de la boda, y se llevó a cabo una construcción que, al
-parecer, y como hemos dicho, ardió en 1965. Según [el artículo de la
-Wikipedia del alcalde de Motril en los
+En todo caso, tras la boda, el terreno empezó a ser usado casi de
+forma inmediata, poco después de la boda, y se llevó a cabo una
+construcción que, al parecer, y como hemos dicho, ardió en 1965. Según
+[el artículo de la Wikipedia del alcalde de Motril en los
 60](https://es.wikipedia.org/wiki/Juan_Antonio_Escribano_Castilla), la
 construcción del edificio actual comenzó en 1966 y terminó en 1968,
 aunque la placa en la puerta tiene una curiosa incisión al lado de la
 fecha en números romanos, indicando posiblemente que la placa se hizo
-antes de que se dieran cuenta de que no podían terminarlo ese año. Eso
-la convierte en la construcción más antigua de Playa Granada que
-todavía está en pie. Hasta que se construyó, la pareja real pasaba los
-veranos en Zarauz, en villa María Pilar, de la familia Mora y Aragón.
+antes de que se dieran cuenta de que no podían terminarlo ese año, el
+año 1967; el artículo del Semana de noviembre de 1967 también menciona
+que podría estar ya terminado "antes de navidad". Eso la convierte en
+la construcción más antigua de Playa Granada que todavía está en
+pie. Hasta que se construyó, la pareja real pasaba los veranos en
+Zarauz, en villa María Pilar, de la familia Mora y Aragón.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, no
@@ -195,7 +204,10 @@ monumento en la explanada delante de Villa Astrida).
 > encontrado la proclamación que lo haga (que tiene que hacerse por
 > parte de un arzobispo, para que a continuación el Papa declare que
 > han tenido una "virtud heroica". Igual el artículo de El Reino se
-> anticipó un tanto al hecho en sí.
+> anticipó un tanto al hecho en sí. En todo caso, ese relato no
+> siempre viene de la misma fuente, así que hay que concluir que la
+> idea general de que se trataba de una persona afable, cercana y
+> generosa, es muy posible que sea cierta.
 
 A partir de ese momento comenzaron las disputas sobre la
 herencia. ¿Era de la familia, y por tanto podía ser heredado por la
@@ -208,16 +220,10 @@ repuesto las lonas que cerraban la vista del interior en el año 2022;
 también alguien tendrá que pagar las farolas que iluminan el recinto
 por la noche.
 
-Por otro lado, el espacio que ocupa la finca ha experimentado al menos
-un cambio: [en 2014, una parte fue
-expropiada](https://www.granadadigital.es/playa-granada-se-acerca-al-mar-con-la-apertura-de-una-calle-junto-a-villa-astrida/)
-para abrir la pequeña calle que llega desde la rotonda de la calle
-Lorenzo Morillas al mar. Estaba previsto ya en el PGOU, que, como
-recordamos, es de los 90, pero no ocurrió hasta muchos años más tarde.
-
-Antes de que se revelara como perteneciente a la fundación INEIS hubo
-una serie de especulaciones sobre ella; por ejemplo, [que se pretendía
-convertir en un hotel de
+Es posible que se tratara desde el principio de la fundación INEIS,
+pero Antes de que se revelara como perteneciente a la fundación INEIS
+hubo una serie de especulaciones sobre ella; por ejemplo, [que se
+pretendía convertir en un hotel de
 lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). También
 pequeños cambios: En el año 2023, el deterioro de las lonas que
 cubrían la reja metálica que la rodeaba por dentro permitía vislumbrar
