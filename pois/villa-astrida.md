@@ -205,16 +205,21 @@ recordamos, es de los 90, pero no ocurrió hasta muchos años más tarde.
 Antes de que se revelara como perteneciente a la fundación INEIS hubo
 una serie de especulaciones sobre ella; por ejemplo, [que se pretendía
 convertir en un hotel de
-lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). También pequeños cambios: En
-el año 2023, el deterioro de las lonas que cubrían la reja metálica
-que la rodeaba por dentro permitía vislumbrar parte de lo que había
-dentro, revelando un pabellón cercano a la pista de tenis, la que está
-al lado del (ahora) Badía, ocupada, con ropa tendida en cuerdas,
-juguetes de niños esparcidos por el suelo de las pistas de tenis, y
-(curiosamente) gallinas o pollos sueltos por el patio, que se podían
-escuchar perfectamente desde fuera. Si estos pertenecían a los
-guardeses, eran unos ocupas, o simplemente aparecieron por allí
-volando un día e hicieron su casa, es complicado de saber.
+lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). También
+pequeños cambios: En el año 2023, el deterioro de las lonas que
+cubrían la reja metálica que la rodeaba por dentro permitía vislumbrar
+parte de lo que había dentro, revelando un pabellón cercano a la pista
+de tenis, la que está al lado del (ahora) Badía, ocupada, con ropa
+tendida en cuerdas, juguetes de niños esparcidos por el suelo de las
+pistas de tenis, y (curiosamente) gallinas o pollos sueltos por el
+patio, que se podían escuchar perfectamente desde fuera. Pertenecían
+al conserje, que durante todo el tiempo ha estado viviendo en la
+finca, inicialmente en el pabellón que ahora se dedica al museo y
+actualmente en otras viviendas más cercanas a la zona del
+Badía. Parece que es continuación de una costumbre de la época de
+Fabiola, que también tenía animalitos como conejos o gallinas, para su
+contemplación o, en algunos casos, su deglución. Últimamente, desde
+que está abierta al público, no se han vuelto a ver.
 
 Ese fue precisamente el año en que apareció la [fundación
 INEIS](https://www.cope.es/emisoras/andalucia/granada-provincia/motril/noticias/partir-del-agosto-podremos-visitar-memorial-sobre-rey-balduino-villa-astrida-20230607_2751261) en el panorama de playa Granada.
