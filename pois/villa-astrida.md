@@ -332,7 +332,16 @@ volúmenes de este *chalet* parecen efectivamente un cruce entre el
 Escorial y un cortijo de las Alpujarras, quizás metiendo por medio
 algo de la Alhambra.
 
-¿Dónde se ven los parecidos con el Escorial en este edificio? El Escorial era la residencia de verano de Felipe II; esta es la residencia de verano de otro rey. Juan de Herrera, el arquitecto del Escorial, trataba de evitar la decoración, pero sobre todo estaba muy interesado en las figuras geométricas y otros conceptos matemáticos. En muchos rectángulos usa la "regla áurea": la relación entre un lado del rectángulo y otro es de 1'6 aproximadamente; o dicho de otro modo, si el lado pequeño del rectángulo mide *a*, el lado grande *b*, la razónentre *b-a* y *b* es igual que la diferencia entre *a* y *b*.
+¿Dónde se ven los parecidos con el Escorial en este edificio? El
+Escorial era la residencia de verano de Felipe II; esta es la
+residencia de verano de otro rey. Juan de Herrera, el arquitecto del
+Escorial, trataba de evitar la decoración, pero sobre todo estaba muy
+interesado en las figuras geométricas y otros conceptos
+matemáticos. En muchos rectángulos usa la "regla áurea": la relación
+entre un lado del rectángulo y otro es de 1'6 aproximadamente; o dicho
+de otro modo, si el lado pequeño del rectángulo mide *a*, el lado
+grande *b*, la razónentre *b-a* y *b* es igual que la diferencia entre
+*a* y *b*.
 
 ![Rectángulo "dorado", imagen de la Wikipedia](img/SimilarGoldenRectangles.svg)
 
