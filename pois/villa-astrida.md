@@ -332,6 +332,32 @@ volúmenes de este *chalet* parecen efectivamente un cruce entre el
 Escorial y un cortijo de las Alpujarras, quizás metiendo por medio
 algo de la Alhambra.
 
+¿Dónde se ven los parecidos con el Escorial en este edificio? El Escorial era la residencia de verano de Felipe II; esta es la residencia de verano de otro rey. Juan de Herrera, el arquitecto del Escorial, trataba de evitar la decoración, pero sobre todo estaba muy interesado en las figuras geométricas y otros conceptos matemáticos. En muchos rectángulos usa la "regla áurea": la relación entre un lado del rectángulo y otro es de 1'6 aproximadamente; o dicho de otro modo, si el lado pequeño del rectángulo mide *a*, el lado grande *b*, la razónentre *b-a* y *b* es igual que la diferencia entre *a* y *b*.
+
+![Rectángulo "dorado", imagen de la Wikipedia](img/SimilarGoldenRectangles.svg)
+
+Los rectángulos *áureos* o *dorados* son especialmente armoniosos, y
+aparecen en el Escorial en el patio de los Reyes. ¿Dónde aparece aquí
+esa proporción? El módulo principal de Villa Astrida es un cuadrado de
+20 metros de lado aproximadamente. Si eliminamos toda la parte
+izquierda del patio, que incluye el comedor principal y otras
+estancias totalmente separadas del resto, el rectángulo que quedaría
+(desde la entrada, llegaría desde la izquierda del patio hasta el
+pasillo lateral del mismo a la derecha) también cumple la proporción
+áurea de forma bastante aproximada. Pero no sólo eso: la única
+decoración del escorial son los llamados "chapiteles madrileños" o
+"bolas escurialenses" o "herrerianas", unas simples esferas con un
+"pincho" que las engancha a los muros o torres y que sobresale por la
+parte de arriba, como si se hubiera pinchado una esfera con una
+pirámide muy alargada. Aparecen en las torres del Escorial, y también
+en otras construcciones del mismo estilo hechas por sus discípulos,
+como el palacio del duque de Lerma en la ciudad del mismo nombre. Pues
+bien, esas "bolas" aparecen también, de forma bastante discreta, en
+alguna de las esquinas de Villa Astrida, como la única decoración que
+hay en la fachada de la misma. Son bolas de color blanco en este caso,
+hechas seguramente de piedra o quizás de cerámica.
+
+
 En el interior del cuadrado hay un patio, como en los
 cortijos andaluces. Según unos planos en el "Memorial Rey Balduino",
 la planta baja tiene diferentes salas, aparte del despacho (donde,
@@ -362,7 +388,7 @@ en su época albergara una pista de tenis o algún tipo de plantación.
 
 Lo más interesante no es, sin embargo, la ocupación del espacio, sino
 cómo está organizado el interior, alrededor de un patio con una fuente
-de piedra. Y aquí tenemos que buscar la historia del arquitecto,
+de piedra. Y aquí, para entenderlo, tenemos que buscar la historia del arquitecto,
 Domínguez Salazar. Un arquitecto notable, que participó también en la
 construcción de iglesias notables, como la de Nuestra Señora Reina del
 Cielo en Moratalaz. Es posible que el hecho de que fuera de San
