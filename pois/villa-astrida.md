@@ -11,9 +11,9 @@ precisamente por esa razón, alberga el [Memorial Rey
 Balduino](https://www.memorialreybalduino.com/), que incluye un
 pequeño museo administrado por la llamada Fundación INEIS.
 
-La construcción actual es obra del arquitecto José Antonio Domínguez
-Salazar, y se terminó en 1967 (o posiblemente en 1968).  Según [el
-artículo-obituario de Balduino en
+La construcción que hay dentro del recinto es obra del arquitecto José
+Antonio Domínguez Salazar, y se terminó en 1967 (o posiblemente en
+1968).  Según [el artículo-obituario de Balduino en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría dos de las características
@@ -21,7 +21,15 @@ que definen al estilo mediterráneo (y del Pueblo del Chirimoyo y las
 Terrazas), pero dado que fue la primera construcción de la zona, es
 posible que, en realidad, fuera su arquitectura la que iniciara el
 diálogo, continuado luego por el Pueblo del Chirimoyo, con quien
-quizás compartiera también maestros de obras y algún obrero.
+quizás compartiera también maestros de obras y algún obrero. La teja
+es bastante evidente hasta desde la vista satélite de Google Maps;
+cubre todas las superficies inclinadas, incluyendo el chaflán que hay
+justo detrás de la entrada, para darle sombra al patio. El herro
+forjado es difícil verlo, pero está, sobre todo, en las rejas en las
+ventanas de la planta baja, como cualquier chalé de la periferia. Que
+la protección durante la época de ocupación real estaba en e
+lperímetro, pero nunca se sabe qué va a pasar en el futuro. O quizás,
+simplemente, son elementos decorativos tradicionales.
 
 Lo que vemos hoy en día es consecuencia de la historia, una historia
 adelantada ya en otros capítulos. El [mito fundacional se cuenta en
