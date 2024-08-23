@@ -11,13 +11,9 @@ precisamente por esa razón, alberga el [Memorial Rey
 Balduino](https://www.memorialreybalduino.com/), que incluye un
 pequeño museo administrado por la llamada Fundación INEIS.
 
-<!-- Esto no pega absolutamente nada -->
-Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
-Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
-alguna construcción en los años siguientes, que desapareció debido a
-un incendio. La construcción actual es obra del arquitecto José
-Antonio Domínguez Salazar, y se terminó en 1967 (o posiblemente en
-1968).  Según [el artículo-obituario de Balduino en
+La construcción actual es obra del arquitecto José Antonio Domínguez
+Salazar, y se terminó en 1967 (o posiblemente en 1968).  Según [el
+artículo-obituario de Balduino en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría dos de las características
@@ -128,8 +124,8 @@ la policía de Franco o quizás la Guardia Civil.
 > justo hasta el año de la muerte, el 93, en que la sustituyó la
 > policía nacional.
 
-No serían muy largas
-las estancias, posiblemente.
+No serían muy largas las estancias, posiblemente, pero sí se cuenta
+que pasaba varias semanas de continuo, aparte de otras visitas cortas.
 
 > Todo esto da para una novela, en la que desaparecería alguien del
 > servicio y el sargento de la guardia civil de Motril tendría que
@@ -189,11 +185,12 @@ A partir de ese momento comenzaron las disputas sobre la
 herencia. ¿Era de la familia, y por tanto podía ser heredado por la
 esposa y sobrinos, o era del estado belga? ¿Era de una fundación que
 creó la esposa (para eludir impuestos, imagino), o era de ella y por
-tanto tenía que pagar tales impuestos? Estas disputas han impedido que
-se haga ningún tipo de cambio en la finca, aunque parece que alguien
-se encarga de cuidar el jardín y se han repuesto las lonas que
-cerraban la vista del interior en el año 2022; también alguien tendrá
-que pagar las farolas que iluminan el recinto por la noche.
+tanto tenía que pagar tales impuestos? Estas disputas han impedido
+durante mucho tiempo que se haga ningún tipo de cambio en la finca,
+aunque parece que alguien se encarga de cuidar el jardín y se han
+repuesto las lonas que cerraban la vista del interior en el año 2022;
+también alguien tendrá que pagar las farolas que iluminan el recinto
+por la noche.
 
 Por otro lado, el espacio que ocupa la finca ha experimentado al menos
 un cambio: [en 2014, una parte fue
