@@ -39,18 +39,26 @@ que la historia.
 > También se dice que "desde la terraza se puede ver la sierra y el
 > mar", y no es cierto. La terraza da al mar, pero la sierra no se
 > puede ver más que desde las azoteas del norte, que no parecen
-> habitables (aunque a saber, porque no se pueden visitar).
+> habitables (aunque a saber, porque no se pueden visitar), sino más
+> bien espacios para tender la ropa o algo así..
 
-Los artículos también mencionan que en el momento mítico en el que se
-vio esta zona, también míticamente desde un helicóptero, el suelo
-estaba cubierto de cañas de azúcar, lo que a esas alturas de la
-película (y posiblemente desde 20 años antes de ese momento) era
-posiblemente mentira; lo más probable es que fuera solo cañizo, o
-plantaciones de caña de azúcar abandonadas; si queremos visualizar a
-qué se parecería la playa en aquella época lo más parecido sería la
-zona sin urbanizar que hay entre el hotel y la desembocadura del
-Guadalfeo. No es ningún espectáculo, pero sobre todo, no hay nada
-distinguible entre ese área y el puerto de Motril.
+Las fuentes también mencionan que en el momento mítico en el que el
+rey Balduino vislumbró el espacio donde ahora se encuentra su chalé,
+también míticamente desde un helicóptero, el suelo estaba cubierto de
+cañas de azúcar, lo que a esas alturas de la película (y posiblemente
+desde 20 años antes de ese momento) era posiblemente mentira; lo más
+probable es que fuera solo cañizo, o plantaciones de caña de azúcar
+abandonadas; si queremos visualizar a qué se parecería la playa en
+aquella época lo más parecido sería la zona sin urbanizar que hay
+entre el hotel y la desembocadura del Guadalfeo. No es ningún
+espectáculo, pero sobre todo, no hay nada distinguible entre ese área
+y el puerto de Motril. Así que esa idea teleológica de que este área
+se creó para ser vista por un rey y, por su singular belleza, elegida
+para su residencia de verano, no parece muy plausible. Eso no tiene la
+menor importancia, sin embargo. Los mitos a veces son más ciertos que
+la propia realidad, y en todo caso permiten dotar a las ciudades (o,
+en su caso, a las urbanizaciones) de una cierta cualidad mágica. O de
+un *branding*.
 
 Pero la historia, diseñada seguramente por los publicistas de la
 familia Agrela (siendo una familia noble, seguro que tenían algún
