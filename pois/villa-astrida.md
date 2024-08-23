@@ -15,8 +15,8 @@ Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
 alguna construcción en los años siguientes, que desapareció debido a
 un incendio. La construcción actual es obra del arquitecto José
-Antonio Domínguez Salazar, y se terminó en 1967.  Según [el
-artículo-obituario de Balduino en
+Antonio Domínguez Salazar, y se terminó en 1967 (o posiblemente en
+1968).  Según [el artículo-obituario de Balduino en
 ABC](http://hemeroteca.abc.es/cgi-bin/pagina.pdf?fn=exec;command=download_stamp;id=0001893462;nombre_pdf=ABC-07.08.1993-pagina%20029;path=H:%5Ccran%5Cdata%5Cprensa_pages%5CMadrid%5CABC%5C1993%5C199308%5C19930807%5C93G07-029.xml)
 (que, por otro lado, contiene bastantes errores), "combina la teja con
 el hierro forjado", es decir, que tendría dos de las características
@@ -33,7 +33,10 @@ paloma](https://www.piedrapaloma.com/es/); si no, de alguna cantera de
 la misma zona y con características similares. En las fotos que se
 muestran en el actual Memorial Rey Balduino, un museo abierto en
 agosto de 2023, estas vallas sin embargo son de simple cañizo, el
-material clásico para construir lindes en la zona.
+material clásico para construir lindes en la zona. En ninguna de las
+visitas he sido capaz de ver esta piedra blanca. Es posible que se use
+en la misma casa, pero esto parece poco práctico a la hora de
+construir.
 
 Lo que vemos hoy en día es consecuencia de la historia, una historia
 adelantada ya en otros capítulos. El [mito fundacional se cuenta en
@@ -68,42 +71,42 @@ Pero la historia, diseñada seguramente por los publicistas de la
 familia Agrela (siendo una familia noble, seguro que tenían algún
 plumilla a sueldo), se ha quedado ahí, incuestionable, y un relato
 pleno de emociones suele tener mucha más fuerza que la propia
-historia.  En otros artículos dice que el terreno había pertenecido
-antiguamente a la familia de Fabiola y que se le dio como regalo de
-boda en 1960; esto último es lo más creíble. Sería mucha casualidad
-que en el viaje desde la sierra en helicóptero viera precisamente unos
-terrenos que más adelante le regalaron sus cuñados. En cuanto a lo de
-que pertenecía a la familia de Fabiola en su época, lo cierto es que
-la familia de Fabiola era de antigua nobleza vasca venida a menos, y
-que esta zona se llamaba "El pago del vasco". No he encontrado, sin
-embargo, ninguna documentación que realmente ligue a la familia Mora y
-Aragón a la zona de Motril antes del regalo de bodas. Sí que, en las
-crónicas sociales de finales de los sesenta y principios de los
-setenta, no se hablaba de "Villa Astrida" sino de la finca "El
-vasco". ¿Por qué? Ni idea.
+historia.  Hay incluso una versión más: En otros artículos dice que el
+terreno había pertenecido antiguamente a la familia de Fabiola y que
+por esa razón se le dio estos terrenos, y no otros de los muchos que
+poseían sus cuñados, como regalo de boda. Lo cierto es que la familia
+de Fabiola era de antigua nobleza vasca venida a menos, y que esta
+zona se llamaba "El pago del vasco". No he encontrado, sin embargo,
+ninguna documentación que realmente ligue a la familia Mora y Aragón a
+la zona de Motril antes del regalo de bodas. Sí que, en las crónicas
+sociales de finales de los sesenta y principios de los setenta, no se
+hablaba de "Villa Astrida" sino de la finca "El vasco"; por ejemplo,
+en el artículo del Semana de unos meses antes de que se completara la
+construcción. ¿Por qué? Ni idea.
 
-<!-- esto está repetido de antes. Toda esta parte habrá que reescribirla -->
-En todo caso, el terreno empezó a ser usado casi de forma inmediata, y
-se llevó a cabo una construcción que, al parecer, y como hemos dicho,
-ardió en 1965. Según [el artículo de la Wikipedia del alcalde de
-Motril en los
+En todo caso, el terreno empezó a ser usado casi de forma inmediata,
+poco después de la boda, y se llevó a cabo una construcción que, al
+parecer, y como hemos dicho, ardió en 1965. Según [el artículo de la
+Wikipedia del alcalde de Motril en los
 60](https://es.wikipedia.org/wiki/Juan_Antonio_Escribano_Castilla), la
-construcción del edificio actual comenzó en 1966 y terminó
-en 1968. Eso la convierte en la construcción más antigua de Playa
-Granada que todavía está en pie. Hasta que se construyó, la pareja
-real pasaba los veranos en Zarauz, en villa María Pilar, de la familia
-Mora y Aragón.
+construcción del edificio actual comenzó en 1966 y terminó en 1968,
+aunque la placa en la puerta tiene una curiosa incisión al lado de la
+fecha en números romanos, indicando posiblemente que la placa se hizo
+antes de que se dieran cuenta de que no podían terminarlo ese año. Eso
+la convierte en la construcción más antigua de Playa Granada que
+todavía está en pie. Hasta que se construyó, la pareja real pasaba los
+veranos en Zarauz, en villa María Pilar, de la familia Mora y Aragón.
 
 Se afirma de forma contrapuesta al hecho de que lo que quería el
 propietario de las tierras era atraer al famoseo y la realeza, no
 necesariamente por ese orden, pero también que los reyes querían pasar
 desapercibidos alejados de la farándula. El hecho es que, como hemos
-dicho al principio de este libro, precisamente se le regaló este
+dicho al principio de este libro, muy posiblemente se le regaló este
 terreno para atraer a la farándula, si bien no tuvo mucho éxito;
 corren rumores en todo caso de que Balduino se paseaba, como un guiri
 más, en su bicicleta, por los chambaos de la costa para meterse unos
 espetos y unas gaseosas Sanitex y que Fabiola iba a Motril a comprar
-el pan o unos visillos, lo que hiciera falta para el chalé..
+el pan o unos visillos, lo que hiciera falta para el chalé.
 
 Las tapias de la construcción también se usaron durante bastante
 tiempo para una costumbre tradicional de motrileños y otra gente de la
