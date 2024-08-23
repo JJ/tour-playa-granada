@@ -221,32 +221,35 @@ también alguien tendrá que pagar las farolas que iluminan el recinto
 por la noche.
 
 Es posible que se tratara desde el principio de la fundación INEIS,
-pero Antes de que se revelara como perteneciente a la fundación INEIS
+pero antes de que se revelara como perteneciente a la fundación INEIS
 hubo una serie de especulaciones sobre ella; por ejemplo, [que se
 pretendía convertir en un hotel de
 lujo](https://www.lalibre.be/belgique/la-villa-astrida-va-devenir-un-hotel-de-luxe-a-motril-58c054a3cd708ea6c111a611). También
-pequeños cambios: En el año 2023, el deterioro de las lonas que
-cubrían la reja metálica que la rodeaba por dentro permitía vislumbrar
-parte de lo que había dentro, revelando un pabellón cercano a la pista
-de tenis, la que está al lado del (ahora) Badía, ocupada, con ropa
-tendida en cuerdas, juguetes de niños esparcidos por el suelo de las
-pistas de tenis, y (curiosamente) gallinas o pollos sueltos por el
-patio, que se podían escuchar perfectamente desde fuera. Pertenecían
-al conserje, que durante todo el tiempo ha estado viviendo en la
-finca, inicialmente en el pabellón que ahora se dedica al museo y
-actualmente en otras viviendas más cercanas a la zona del
-Badía. Parece que es continuación de una costumbre de la época de
-Fabiola, que también tenía animalitos como conejos o gallinas, para su
-contemplación o, en algunos casos, su deglución. Últimamente, desde
-que está abierta al público, no se han vuelto a ver.
+se han podido observar pequeños cambios: En el año 2023, el deterioro
+de las lonas que cubrían la reja metálica que la rodeaba por dentro
+permitía vislumbrar parte de lo que había dentro, revelando un
+pabellón cercano a la pista de tenis, la que está al lado del (ahora)
+Badía, ocupada, con ropa tendida en cuerdas, juguetes de niños
+esparcidos por el suelo de las pistas de tenis, y (curiosamente)
+gallinas o pollos sueltos por el patio, que se podían escuchar
+perfectamente desde fuera. Pertenecían al conserje, que durante todo
+el tiempo ha estado viviendo en la finca, inicialmente en el pabellón
+que ahora se dedica al museo y actualmente en otras viviendas más
+cercanas a la zona del Badía. Parece que es continuación de una
+costumbre de la época de Fabiola, que también tenía animalitos como
+conejos o gallinas, para su contemplación o, en algunos casos, su
+deglución. Últimamente, desde que está abierta al público, no se han
+vuelto a ver.
 
-Ese fue precisamente el año en que apareció la [fundación
-INEIS](https://www.cope.es/emisoras/andalucia/granada-provincia/motril/noticias/partir-del-agosto-podremos-visitar-memorial-sobre-rey-balduino-villa-astrida-20230607_2751261) en el panorama de playa Granada.
-De esta fundación es muy complicado encontrar nada de sustancia fuera de este
-hecho, que poseen la finca. Las fundaciones que creó la reina Fabiola
-estuvieron envueltas en la polémica, porque el estado belga adujo que
-lo que intentaba era eludir el pago de impuestos, y de hecho una de
-las fundaciones que creó, llamada [Fons
+Ese fue precisamente el año en que apareció, o al menos quien escribe
+esto tuvo conocimiento de, la [fundación
+INEIS](https://www.cope.es/emisoras/andalucia/granada-provincia/motril/noticias/partir-del-agosto-podremos-visitar-memorial-sobre-rey-balduino-villa-astrida-20230607_2751261)
+en el panorama de playa Granada. De esta fundación es muy complicado
+encontrar nada de sustancia fuera de este hecho, que poseen la
+finca. Alguna otra fundación de las que creó la reina Fabiola estuvieron envueltas
+en la polémica, porque el estado belga adujo que lo que intentaba era
+eludir el pago de impuestos, y de hecho una de las fundaciones que
+creó, llamada [Fons
 Pereos](https://www.vanitatis.elconfidencial.com/casas-reales/2013-01-26/la-reina-fabiola-renuncia-a-la-fundacion-que-podria-salvar-su-herencia-del-fisco_534316/),
 fue anulada por el gobierno belga. Pero había otras dos fundaciones,
 una de ellas reservada a la caridad y, al parecer, esta, que no parece
@@ -259,7 +262,7 @@ misma; ni siquiera está claro qué significan sus siglas o siquiera si
 son unas siglas o un nombre, aunque teniendo en cuenta las
 inclinaciones de Fabiola, cabe pensar que se trata de alguna frase más
 o menos pía en latín (*in eis*: "en ellos" o "en sus", como "en sus
-manos", por ejemplo)). Lo que se encuentra en una búsqueda en la web
+manos", por ejemplo). Lo que se encuentra en una búsqueda en la web
 son cosas relacionadas con patrimonio propiedad de esa fundación que
 es cedido a otras fundaciones que pertenecen a familiares; por ejemplo
 [esta noticia sobre el señorío de
@@ -272,15 +275,18 @@ vendido en 2020 al Museo del Prado. Pero son retazos que impiden
 crearse una idea conjunta de qué es y qué es lo que hace, más allá de
 administrar los bienes que pertenecieron a Fabiola de Mora y Aragón y
 a su familia. Con esto no quiero formular ningún juicio sobre la
-fundación, que es perfectamente legal y posiblemente hará todos los
+fundación, que es perfectamente legal y seguramente hará todos los
 trámites necesario en este tipo de organismos. Es simplemente un
 comentario sobre la ausencia de una web donde se pueda ahogar la
 curiosidad o curiosidades que puedan surgir, donde aparezcan los
 anuarios, los cargos de la misma, y todo lo que pueda ayudar a
 entender un poco mejor qué es lo que involucra a este edificio y a sus
-antiguos propietarios, Balduino y Fabiola.
+antiguos propietarios, Balduino y Fabiola. O que podría ayudar también
+a seguir la pista, por ejemplo, al arte que se encuentra en Villa
+Astrida, del que hablaremos un poco más adelante.
 
-Desde mediados del año 2024 se puede visitar también, previo pago, la
+Afortunadamente, la intervención de esta Fundación ha logrado que
+desde mediados del año 2024 se puede visitar también, previo pago, la
 planta baja de la residencia, incluyendo también la parte de los
 jardines que la rodean por la parte del mar.
 
@@ -299,12 +305,17 @@ visitas he sido capaz de ver esta piedra blanca. Es posible que se use
 en la misma casa, pero esto parece poco práctico a la hora de
 construir.
 
-Penetrando en esa valla y en la visita guiada, Se rodea la piscina,
-decorada con mosaicos de la Alhambra, y con una curiosa ducha con la
-cabeza de un león, y se entra en la residencia por la parte sur, en lo
-que era el comedor.
+Hoy en día, sin embargo, se puede tener una idea más clara del
+edificio, y también de cómo vivían mientras lo ocuparon. En la visita
+guiada, que comienza en un ficus gigante, donde cuentan que se reunía
+el servicio para que lo recogieran y los llevaran a sus domicilios,
+más adelante se rodea la piscina, decorada con mosaicos que imitan a
+los de la Alhambra, y con una curiosa ducha con la cabeza de un león,
+y se entra en la residencia por la parte sur, en lo que era el
+comedor.
 
-Quizás merezca la pena dedicar unas línea al arquitecto; si no por
+Para hacernos una idea del programa constructivo y lo que se buscaba,
+quizás merezca la pena dedicar unas línea al arquitecto; si no por
 otra razón, por el hecho de que no existe ni un artículo sobre Villa
 Astrida que lo nombre, y apenas un artículo sobre el arquitecto hace
 mención a un "chalet de Balduino y Fabiola en Motril". Domínguez
@@ -312,7 +323,14 @@ Salazar es abanderado de un estilo "nacional", y es de imaginar que
 aplicaría sus ideas a este proyecto. Si nos olvidamos del resto de las
 construcciones de Villa Astrida, la casa principal es aproximadamente
 rectangular, con una portada en el lado contrario al mar; en la parte
-más cercana al mar se abre, a la izquierda, un ala rectangular.
+más cercana al mar se abre, a la izquierda, un ala rectangular, que
+estaba dedicada principalmente al servicio.
+
+El estilo de Domínguez Salazar a veces se ha llamado "neoherreriano";
+de hecho, fue parte de la Junta del Instituto Juan de Herrera. Los
+volúmenes de este *chalet* parecen efectivamente un cruce entre el
+Escorial y un cortijo de las Alpujarras, quizás metiendo por medio
+algo de la Alhambra.
 
 En el interior del cuadrado hay un patio, como en los
 cortijos andaluces. Según unos planos en el "Memorial Rey Balduino",
@@ -329,12 +347,6 @@ embargo, de esas torres, la de la izquierda tiene una ventaja frontal
 sólo en la planta baja, y la de la derecha una ventana que, supongo,
 da luz al pasillo. El portón de madera tallada está flanqueado por dos
 faroles de forja.
-
-El estilo de Domínguez Salazar a veces se ha llamado "neoherreriano";
-de hecho, fue parte de la Junta del Instituto Juan de Herrera. Los
-volúmenes de este *chalet* parecen efectivamente un cruce entre el
-Escorial y un cortijo de las Alpujarras, quizás metiendo por medio
-algo de la Alhambra.
 
 Porque el programa arquitectónico del "chalé" es más interesante de lo que
 pueda parecer a simple vista.  Desde arriba, parece una Q o una U con
