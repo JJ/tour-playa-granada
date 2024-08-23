@@ -53,33 +53,34 @@ que la historia.
 > puede ver más que desde las azoteas del norte, que no parecen
 > habitables (aunque a saber, porque no se pueden visitar).
 
-
-
-
-<!-- qué artículo? Esto se ha quedado descolgado -->
-En el artículo dice que estaba cubierto de cañas de
-azúcar, lo que a esas alturas de la película (y desde 20 años atrás)
-era posiblemente mentira; lo más probable es que fuera solo cañizo, o
-plantaciones de caña de azúcar abandonadas; si queremos ver a qué se
-parecería la playa en aquella época lo más parecido sería la zona sin
-urbanizar que hay entre el hotel y la desembocadura del Guadalfeo.
+Los artículos también mencionan que en el momento mítico en el que se
+vio esta zona, también míticamente desde un helicóptero, el suelo
+estaba cubierto de cañas de azúcar, lo que a esas alturas de la
+película (y posiblemente desde 20 años antes de ese momento) era
+posiblemente mentira; lo más probable es que fuera solo cañizo, o
+plantaciones de caña de azúcar abandonadas; si queremos visualizar a
+qué se parecería la playa en aquella época lo más parecido sería la
+zona sin urbanizar que hay entre el hotel y la desembocadura del
+Guadalfeo. No es ningún espectáculo, pero sobre todo, no hay nada
+distinguible entre ese área y el puerto de Motril.
 
 Pero la historia, diseñada seguramente por los publicistas de la
 familia Agrela (siendo una familia noble, seguro que tenían algún
-plumilla a sueldo), se ha quedado ahí, y un relato pleno de emociones
-suele tener mucha más fuerza que la propia historia.  En otros
-artículos dice que el terreno había pertenecido antiguamente a la
-familia de Fabiola y que se le dio como regalo de boda en 1960; esto
-último es lo más creíble. Sería mucha casualidad que en el viaje desde
-la sierra en helicóptero viera precisamente unos terrenos que más
-adelante le regalaron sus cuñados. En cuanto a lo de que pertenecía a
-la familia de Fabiola en su época, lo cierto es que la familia de
-Fabiola era de antigua nobleza vasca venida a menos, y que esta zona
-se llamaba "El pago del vasco". No he encontrado, sin embargo, ninguna
-documentación que realmente ligue a la familia Mora y Aragón a la zona
-de Motril antes del regalo de bodas. Sí que, en las crónicas sociales
-de finales de los sesenta y principios de los setenta, no se hablaba
-de "Villa Astrida" sino de la finca "El vasco". ¿Por qué? Ni idea.
+plumilla a sueldo), se ha quedado ahí, incuestionable, y un relato
+pleno de emociones suele tener mucha más fuerza que la propia
+historia.  En otros artículos dice que el terreno había pertenecido
+antiguamente a la familia de Fabiola y que se le dio como regalo de
+boda en 1960; esto último es lo más creíble. Sería mucha casualidad
+que en el viaje desde la sierra en helicóptero viera precisamente unos
+terrenos que más adelante le regalaron sus cuñados. En cuanto a lo de
+que pertenecía a la familia de Fabiola en su época, lo cierto es que
+la familia de Fabiola era de antigua nobleza vasca venida a menos, y
+que esta zona se llamaba "El pago del vasco". No he encontrado, sin
+embargo, ninguna documentación que realmente ligue a la familia Mora y
+Aragón a la zona de Motril antes del regalo de bodas. Sí que, en las
+crónicas sociales de finales de los sesenta y principios de los
+setenta, no se hablaba de "Villa Astrida" sino de la finca "El
+vasco". ¿Por qué? Ni idea.
 
 <!-- esto está repetido de antes. Toda esta parte habrá que reescribirla -->
 En todo caso, el terreno empezó a ser usado casi de forma inmediata, y
@@ -180,7 +181,7 @@ monumento en la explanada delante de Villa Astrida).
 > mejor luz posible. De hecho, la revista el Reino en febrero de 2008
 > le dedica un artículo en su sección "Los santos de nuestro tiempo",
 > y lo califica de Venerable, una de las fases previas a la
-> beatificación y eventualmente canonización y llega a decir que
+> beatificación y eventualmente canonización. Y llega a decir que
 > Balduino y Fabiola se conocieron de puro milagro, con una cita
 > concertada por una monja irlandesa "mística" durante una
 > peregrinación a Lourdes. Su biografía, citada extensamente en el
