@@ -359,6 +359,12 @@ hechas seguramente de piedra o quizás de cerámica.
 
 ![Bola escurialense en una de las chimeneas de Villa Astrida](img/bola-escurialense.jpg)
 
+En la mística del Escorial y en el contexto de Felipe II, estas
+esferas tienen un significado muy específico. Supongo que aquí se
+habrá perdido el significado, pero quedan como única aportación
+decorativa, además muy discreta, y como un hilo que permite incluir a
+	la construcción en el estilo neoherreriano.
+
 En el interior del cuadrado hay un patio, como en los
 cortijos andaluces. Según unos planos en el "Memorial Rey Balduino",
 la planta baja tiene diferentes salas, aparte del despacho (donde,
