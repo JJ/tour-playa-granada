@@ -11,7 +11,7 @@ precisamente por esa razón, alberga el [Memorial Rey
 Balduino](https://www.memorialreybalduino.com/), que incluye un
 pequeño museo administrado por la llamada Fundación INEIS.
 
-<-- Esto no pega absolutamente nada -->
+<!-- Esto no pega absolutamente nada -->
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
 alguna construcción en los años siguientes, que desapareció debido a
@@ -25,19 +25,7 @@ que definen al estilo mediterráneo (y del Pueblo del Chirimoyo y las
 Terrazas), pero dado que fue la primera construcción de la zona, es
 posible que, en realidad, fuera su arquitectura la que iniciara el
 diálogo, continuado luego por el Pueblo del Chirimoyo, con quien
-quizás compartiera también maestros de obras y algún obrero. También
-usa piedra blanca (en vez del encalado mediterráneo, porque hasta ahí
-podíamos llegar); la misma piedra que, si creemos el artículo de ABC,
-se trajo de Alcalá de Guadaira y se usó para el muro que rodea la
-finca. Puede que se tratara de [esta piedra
-paloma](https://www.piedrapaloma.com/es/); si no, de alguna cantera de
-la misma zona y con características similares. En las fotos que se
-muestran en el actual Memorial Rey Balduino, un museo abierto en
-agosto de 2023, estas vallas sin embargo son de simple cañizo, el
-material clásico para construir lindes en la zona. En ninguna de las
-visitas he sido capaz de ver esta piedra blanca. Es posible que se use
-en la misma casa, pero esto parece poco práctico a la hora de
-construir.
+quizás compartiera también maestros de obras y algún obrero.
 
 Lo que vemos hoy en día es consecuencia de la historia, una historia
 adelantada ya en otros capítulos. El [mito fundacional se cuenta en
@@ -270,7 +258,24 @@ antiguos propietarios, Balduino y Fabiola.
 
 Desde mediados del año 2024 se puede visitar también, previo pago, la
 planta baja de la residencia, incluyendo también la parte de los
-jardines que la rodean por la parte del mar. Se rodea la piscina,
+jardines que la rodean por la parte del mar.
+
+Previo a esta visita, sólo se podía especular un poco y referirnos a
+los artículos que la describían . Por ejemplo, uno menciona que usa
+"piedra blanca" (en vez del encalado mediterráneo, porque hasta ahí
+podíamos llegar); la misma piedra que, si creemos el artículo de ABC,
+se trajo de Alcalá de Guadaira y se usó para el muro que rodea la
+finca. Puede que se tratara de [esta piedra
+paloma](https://www.piedrapaloma.com/es/); si no, de alguna cantera de
+la misma zona y con características similares. En las fotos que se
+muestran en el actual Memorial Rey Balduino, un museo abierto en
+agosto de 2023, estas vallas sin embargo son de simple cañizo, el
+material clásico para construir lindes en la zona. En ninguna de las
+visitas he sido capaz de ver esta piedra blanca. Es posible que se use
+en la misma casa, pero esto parece poco práctico a la hora de
+construir.
+
+Penetrando en esa valla y en la visita guiada, Se rodea la piscina,
 decorada con mosaicos de la Alhambra, y con una curiosa ducha con la
 cabeza de un león, y se entra en la residencia por la parte sur, en lo
 que era el comedor.
