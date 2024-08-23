@@ -24,11 +24,11 @@ diálogo, continuado luego por el Pueblo del Chirimoyo, con quien
 quizás compartiera también maestros de obras y algún obrero. La teja
 es bastante evidente hasta desde la vista satélite de Google Maps;
 cubre todas las superficies inclinadas, incluyendo el chaflán que hay
-justo detrás de la entrada, para darle sombra al patio. El herro
+justo detrás de la entrada, para darle sombra al patio. El hierro
 forjado es difícil verlo, pero está, sobre todo, en las rejas en las
 ventanas de la planta baja, como cualquier chalé de la periferia. Que
-la protección durante la época de ocupación real estaba en e
-lperímetro, pero nunca se sabe qué va a pasar en el futuro. O quizás,
+la protección durante la época de ocupación real estaba en el
+perímetro, pero nunca se sabe qué va a pasar en el futuro. O quizás,
 simplemente, son elementos decorativos tradicionales.
 
 Lo que se puede ver hoy en día es consecuencia de la historia, una
@@ -340,7 +340,7 @@ interesado en las figuras geométricas y otros conceptos
 matemáticos. En muchos rectángulos usa la "regla áurea": la relación
 entre un lado del rectángulo y otro es de 1'6 aproximadamente; o dicho
 de otro modo, si el lado pequeño del rectángulo mide *a*, el lado
-grande *b*, la razónentre *b-a* y *b* es igual que la diferencia entre
+grande *b*, la razón entre *b-a* y *b* es igual que la diferencia entre
 *a* y *b*.
 
 ![Rectángulo "dorado", imagen de la Wikipedia](img/SimilarGoldenRectangles.svg)
