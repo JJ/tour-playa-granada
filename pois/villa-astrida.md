@@ -229,10 +229,10 @@ una de ellas reservada a la caridad y, al parecer, esta, que no parece
 tener ninguna actividad aparte de la posesión de inmuebles y
 explotación de los mismos, incluyendo esta Villa Astrida.
 
-Merece la pena pararnos un poco sobre esta fundación. He sido incapaz
-de encontrar una página web, o reglas fundacionales, o quienes son los
-cargos de la misma; ni siquiera está claro qué significan sus siglas o
-siquiera si son unas siglas o un nombre, aunque teniendo en cuenta las
+He sido incapaz de encontrar una página web de la fundación, o reglas
+fundacionales, o memorias anuales, o quienes son los cargos de la
+misma; ni siquiera está claro qué significan sus siglas o siquiera si
+son unas siglas o un nombre, aunque teniendo en cuenta las
 inclinaciones de Fabiola, cabe pensar que se trata de alguna frase más
 o menos pía en latín (*in eis*: "en ellos" o "en sus", como "en sus
 manos", por ejemplo)). Lo que se encuentra en una búsqueda en la web
