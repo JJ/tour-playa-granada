@@ -357,6 +357,7 @@ alguna de las esquinas de Villa Astrida, como la única decoración que
 hay en la fachada de la misma. Son bolas de color blanco en este caso,
 hechas seguramente de piedra o quizás de cerámica.
 
+![Bola escurialense en una de las chimeneas de Villa Astrida](img/bola-escurialense.jpg))
 
 En el interior del cuadrado hay un patio, como en los
 cortijos andaluces. Según unos planos en el "Memorial Rey Balduino",
