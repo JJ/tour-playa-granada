@@ -11,6 +11,7 @@ precisamente por esa razón, alberga el [Memorial Rey
 Balduino](https://www.memorialreybalduino.com/), que incluye un
 pequeño museo administrado por la llamada Fundación INEIS.
 
+<-- Esto no pega absolutamente nada -->
 Pero volvamos al principio. Como ya sabemos, el terreno perteneció a
 Balduino y Fabiola desde su boda, en el año 61. Al parecer, se hizo
 alguna construcción en los años siguientes, que desapareció debido a
