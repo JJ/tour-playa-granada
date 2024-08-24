@@ -469,6 +469,13 @@ luminosidad.
 > por su originalidad, parecen hechos específicamente para esta
 > construcción.
 
+Esta mezcla de elementos nacionales tanto de arte nazarí como
+herreriano es bastante única, teniendo en cuenta además como integra
+la luz y el jardín y como organiza los diferentes espacios. No me
+extrañaría que con el tiempo se estudiara en manuales de arquitectura,
+o al menos se hiciera una guía arquitectónica un poco más completa.
+
+
 En el jardín hay eucaliptos, pero también pinos, y rodeados por un
 alcorque, tres ejemplares podados de lo que podría ser un drago, pero
 como no tienen ni una hoja, no tengo ni idea de si es así o no. La
