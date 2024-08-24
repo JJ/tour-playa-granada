@@ -445,17 +445,20 @@ Domínguez Salazar, y por tanto fue en la única ocasión que pudo dar
 rienda suelta a este programa arquitectónico incluido en el manifiesto
 de la Alhambra. La casa se organiza en torno a este patio central. Y
 este patio central, aparte de decoración de mosaicos persas, tiene
-también ocho columnas no estructurales en las esquinas con capiteles
-de estilo almohade; este tipo de capitel es muy similar a los que hay
-en la casa de Zafra o en la misma Alhambra, pero más estilizado; el
-modelo inicial es una evolución del capitel corintio, pero en vez de
-hojas de acanto (que a saber lo que es) usa unas hojas que más bien
-parecen de palmera, con un pequeño "pico" en la parte más alta del
-capitel. Los capiteles almohades que se ven en diferentes lugares de
-Granada tienen a veces varias filas, y las "hojas" nacen en el reborde
-del capitel. En este caso, mucho más estilizados, las hojas se unen
-entre sí formando una cenefa. El efecto del mármol blanco en el patio
-blanco es de una gran luminosidad.
+también seis columnas no estructurales en las esquinas con capiteles
+de estilo almohade, dos en las esquinas a la izquierda del patio,
+según se entra en la casa, 2 en cada esquina a la derecha del patio,
+en la parte que da al ventanal que la une al pasillo derecho; este
+tipo de capitel es muy similar a los que hay en la casa de Zafra o en
+la misma Alhambra, pero más estilizado; el modelo inicial es una
+evolución del capitel corintio, pero en vez de hojas de acanto (que a
+saber lo que es) usa unas hojas que más bien parecen de palmera, con
+un pequeño "pico" en la parte más alta del capitel. Los capiteles
+almohades que se ven en diferentes lugares de Granada tienen a veces
+varias filas, y las "hojas" nacen en el reborde del capitel. En este
+caso, mucho más estilizados, las hojas se unen entre sí formando una
+cenefa. El efecto del mármol blanco en el patio blanco es de una gran
+luminosidad.
 
 > La guía comenta que es material "de acarreo", es decir, obtenido
 > legalmente al parecer de algún palacio nazarí abandonado. No creo
