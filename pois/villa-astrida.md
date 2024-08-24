@@ -448,7 +448,7 @@ este patio central, aparte de decoración de mosaicos persas, tiene
 también seis columnas no estructurales en las esquinas con capiteles
 de estilo almohade, dos en las esquinas a la izquierda del patio,
 según se entra en la casa, 2 en cada esquina a la derecha del patio,
-en la parte que da al ventanal que la une al pasillo derecho; este
+en la parte que da al ventanal que la une al pasillo derecho. Este
 tipo de capitel es muy similar a los que hay en la casa de Zafra o en
 la misma Alhambra, pero más estilizado; el modelo inicial es una
 evolución del capitel corintio, pero en vez de hojas de acanto (que a
@@ -462,7 +462,7 @@ luminosidad.
 
 > La guía comenta que es material "de acarreo", es decir, obtenido
 > legalmente al parecer de algún palacio nazarí abandonado. No creo
-> que sea el caso, salvo el de alguna columna qu esí parece diferente
+> que sea el caso, salvo el de alguna columna que sí parece diferente
 > a los demás. Estos capiteles, en tal número (8 en el patio, más en
 > la planta de arriba, y en ese caso sí que tienen fin estructural)
 > habrían sido difíciles de conseguir de una sola fuente. Más bien,
