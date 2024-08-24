@@ -443,7 +443,28 @@ que habla el manifiesto.
 Realmente, esta fue la única vivienda unifamiliar que levantó
 Domínguez Salazar, y por tanto fue en la única ocasión que pudo dar
 rienda suelta a este programa arquitectónico incluido en el manifiesto
-de la Alhambra. La casa se organiza en torno a este patio central.
+de la Alhambra. La casa se organiza en torno a este patio central. Y
+este patio central, aparte de decoración de mosaicos persas, tiene
+también ocho columnas no estructurales en las esquinas con capiteles
+de estilo almohade; este tipo de capitel es muy similar a los que hay
+en la casa de Zafra o en la misma Alhambra, pero más estilizado; el
+modelo inicial es una evolución del capitel corintio, pero en vez de
+hojas de acanto (que a saber lo que es) usa unas hojas que más bien
+parecen de palmera, con un pequeño "pico" en la parte más alta del
+capitel. Los capiteles almohades que se ven en diferentes lugares de
+Granada tienen a veces varias filas, y las "hojas" nacen en el reborde
+del capitel. En este caso, mucho más estilizados, las hojas se unen
+entre sí formando una cenefa. El efecto del mármol blanco en el patio
+blanco es de una gran luminosidad.
+
+> La guía comenta que es material "de acarreo", es decir, obtenido
+> legalmente al parecer de algún palacio nazarí abandonado. No creo
+> que sea el caso, salvo el de alguna columna qu esí parece diferente
+> a los demás. Estos capiteles, en tal número (8 en el patio, más en
+> la planta de arriba, y en ese caso sí que tienen fin estructural)
+> habrían sido difíciles de conseguir de una sola fuente. Más bien,
+> por su originalidad, parecen hechos específicamente para esta
+> construcción.
 
 En el jardín hay eucaliptos, pero también pinos, y rodeados por un
 alcorque, tres ejemplares podados de lo que podría ser un drago, pero
