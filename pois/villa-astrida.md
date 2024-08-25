@@ -374,6 +374,9 @@ habrá perdido el significado, pero quedan como única aportación
 decorativa, además muy discreta, y como un hilo que permite incluir a
 	la construcción en el estilo neoherreriano.
 
+> Estas bolas las usó también Domínguez Salazar en la Casa de las
+> Siete Chimeneas, para culminar un chapitel en la torre de la misma.
+
 Pero tras ver el plan general y el programa constructivo, veremos como
 está organizado el interior. El centro del cuadrado está ocupado un
 patio, como en los cortijos andaluces. Evidentemente, no tiene la
@@ -469,6 +472,26 @@ la luz y el jardín y como organiza los diferentes espacios. No me
 extrañaría que con el tiempo se estudiara en manuales de arquitectura,
 o al menos se hiciera una guía arquitectónica un poco más completa.
 
+Algo que tienen en común el estilo herreriano y el nazarí es la
+relación con la mística. En el arte nazarí la propia estructura, las
+inscripciones y los jardines tienen esa función; en el arte cristiano,
+sin embargo, las funciones religiosas tienen que tener su lugar
+específico. En Villa Astrida hay, efectivamente, una así llamada
+capilla que ocuparía una pequeña habitación a la derecha de la
+entrada. En realidad es más un altar que una capilla, o mejor dicho un
+presbiterio, porque tiene espacio para el altar, el sagrario (de
+estilo modernista) y muy poco más. Es un espacio muy bien resuelto,
+sin embargo, con una vidriera que mira hacia el este de un artista
+flamenco y que ilumina el sagrario repujado con un pez, una cruz y
+espigas de trigo, un cuadro de la Anunciación de estilo moderno y un
+techo que imita artesonados nazaríes, con estrellas de ocho puntas, y
+cuatro luces que forman una cruz en su centro; este techo es común con
+la escalera a la izquierda del pasillo y supongo que de algunas otras
+estancias. También tiene un apartado, fuera de la vista del pasillo, a
+la izquierda desde el mismo, donde se pueden guardar ropas y otros
+instrumentos usados en la iglesia. De hecho, es una capilla
+consagrada, así que se puede dar misa, y de hecho se hace una vez al
+mes.
 
 En el jardín hay eucaliptos, pero también pinos, y rodeados por un
 alcorque, tres ejemplares podados de lo que podría ser un drago, pero
