@@ -376,15 +376,9 @@ decorativa, además muy discreta, y como un hilo que permite incluir a
 
 Pero tras ver el plan general y el programa constructivo, veremos como
 está organizado el interior. El centro del cuadrado está ocupado un
-patio, como en los cortijos andaluces.
-
-<!-- esto hay que actualizarlo -->
-Según unos planos en el
-"Memorial Rey Balduino", la planta baja tiene diferentes salas, aparte
-del despacho (donde, según algunas crónicas, moriría el Rey Balduino)
-y una pequeña capilla. El ala aloja las habitaciones del servicio; la
-planta superior tiene diferentes dormitorios que se abren a una gran
-terraza que recorre todo el lado del rectángulo, y que mira al mar.
+patio, como en los cortijos andaluces. Evidentemente, no tiene la
+misma función de aparcar los carruajes, que se aparcarían a la
+izquierda de la entrada, donde hay una gran explanada.
 
 Desde el exterior de la portada principal, la entrada tiene un
 tejadillo y está rodeada por dos "torreones", que no son sino
