@@ -484,7 +484,7 @@ estilo modernista) y muy poco más. Es un espacio muy bien resuelto,
 sin embargo, con una vidriera que mira hacia el este de un artista
 flamenco (Will van Roosmalen)s y que ilumina el sagrario repujado con
 	un pez, una cruz y espigas de trigo, un cuadro de la Anunciación de
-	estilo moderno y un techo que imiscta artesonados nazaríes, con
+	estilo moderno y un techo que imita artesonados nazaríes, con
 estrellas de ocho puntas, y cuatro luces que forman una cruz en su
 centro; este techo es común con la escalera a la izquierda del pasillo
 y supongo que de algunas otras estancias.
