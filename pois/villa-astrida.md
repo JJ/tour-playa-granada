@@ -482,12 +482,12 @@ entrada. En realidad es más un altar que una capilla, o mejor dicho un
 presbiterio, porque tiene espacio para el altar, el sagrario (de
 estilo modernista) y muy poco más. Es un espacio muy bien resuelto,
 sin embargo, con una vidriera que mira hacia el este de un artista
-flamenco y que ilumina el sagrario repujado con un pez, una cruz y
-espigas de trigo, un cuadro de la Anunciación de estilo moderno y un
-techo que imita artesonados nazaríes, con estrellas de ocho puntas, y
-cuatro luces que forman una cruz en su centro; este techo es común con
-la escalera a la izquierda del pasillo y supongo que de algunas otras
-estancias.
+flamenco (Will van Roosmalen)s y que ilumina el sagrario repujado con
+	un pez, una cruz y espigas de trigo, un cuadro de la Anunciación de
+	estilo moderno y un techo que imiscta artesonados nazaríes, con
+estrellas de ocho puntas, y cuatro luces que forman una cruz en su
+centro; este techo es común con la escalera a la izquierda del pasillo
+y supongo que de algunas otras estancias.
 
 También tiene un apartado, fuera de la vista del pasillo, a la
 izquierda desde el mismo, donde se pueden guardar ropas y otros
