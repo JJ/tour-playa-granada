@@ -591,15 +591,16 @@ restaurada igual acaba siendo un Tiziano (o de la escuela) o
 Españoleto, tablas africanas de artistas desconocidos, que muestran si
 no el amor, al menos la afición que tenía Balduino por África, y,
 frente a la entrada principal, una pintura de gran tamaño de un
-caballero con un bufón de la corte muy al estilo Velázquez, y
-posiblemente de un estudiante del mismo (o una copia del mismo
-Velázquez). Uno no puede evitar sino ver el parecido, seguramente
-totalmente casual, del bufón de bigotes puntiagudos y del hermano
-golfo de Fabiola, Jaime de Mora y Aragón. La persona con la orden de
-Santiago en el pecho, nobleza vieja, le pone la mano, de forma
-paternalista o simplemente para indicar su estatura, en la cabeza. Si
-el susodicho Jaime entró alguna vez por esa puerta, la indirecta sería
-bastante evidente.
+caballero de la orden de Calatrava, Nicolás Truices (dicho sea esto
+como dato, porque la persona o personaje es totalmente desconocido)
+con un bufón de la corte muy al estilo Velázquez, y posiblemente de un
+estudiante del mismo (o una copia del mismo Velázquez). Uno no puede
+evitar sino ver el parecido, seguramente totalmente casual, del bufón
+de bigotes puntiagudos y del hermano golfo de Fabiola, Jaime de Mora y
+Aragón. La persona con la orden de Santiago en el pecho, nobleza
+vieja, le pone la mano, de forma paternalista o simplemente para
+indicar su estatura, en la cabeza. Si el susodicho Jaime entró alguna
+vez por esa puerta, la indirecta sería bastante evidente.
 
 > El cabreo con Jaime de Mora y Aragón no viene solo y exclusivamente
 > de su modo de vida a salto de mata, sino del hecho que el día que
