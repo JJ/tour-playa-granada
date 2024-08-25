@@ -487,11 +487,36 @@ espigas de trigo, un cuadro de la Anunciación de estilo moderno y un
 techo que imita artesonados nazaríes, con estrellas de ocho puntas, y
 cuatro luces que forman una cruz en su centro; este techo es común con
 la escalera a la izquierda del pasillo y supongo que de algunas otras
-estancias. También tiene un apartado, fuera de la vista del pasillo, a
-la izquierda desde el mismo, donde se pueden guardar ropas y otros
+estancias.
+
+También tiene un apartado, fuera de la vista del pasillo, a la
+izquierda desde el mismo, donde se pueden guardar ropas y otros
 instrumentos usados en la iglesia. De hecho, es una capilla
 consagrada, así que se puede dar misa, y de hecho se hace una vez al
-mes.
+mes, supongo que en general en privado. Pero el espacio de la capilla,
+en realidad, es el del pasillo con el gran ventanal que da al patio;
+en ese pasillo hay varias sillas, que se recolocarán a la hora de la
+misa. Este pasillo, efectivamente, parece diseñado como espacio con
+una función principalmente religiosa, pero a la vez está perfectamente
+integrado con el resto de la casa, con una escalera que sube al piso
+superior, los ventanales hasta el suelo que lo unen al patio, ninguna
+separación con la entrada... Tal pareciera que toda la casa forma
+parte de la capilla, porque no hay ninguna puerta que la separe de la
+misma. Simbólicamente, así, la casa se convierte en un espacio
+"sagrado", místico, unido a la naturaleza y abierto a la misma. La
+decoración en el resto de la casa también apunta en esa dirección: en
+el patio hay un mosaico con San Miguel lanceando al diablo; un gran
+cuadro de Pentecostés (de autor desconocido) preside la sala de
+estar. El mismo pasillo tiene una imagen del pesebre de Belén que está
+bastante deteriorada, pero que podría ser una copia de Tiziano o al
+menos de su escuela; lo que sí es una copia del Greco es el cuadro
+situado a la derecha de la entrada, izquierda de la capilla, una María
+Magdalena. El muro que separa la entrada de la capilla tiene una
+pequeña virgen románica. Y en medio del jardín hay también un cruceiro
+posiblemente románico. Imágenes sagradas que una vez más apuntan a esa
+proyección de una estancia como "Paraíso", tan de la Alhambra, pero
+también de espacio místico como el Escorial.
+
 
 En el jardín hay eucaliptos, pero también pinos, y rodeados por un
 alcorque, tres ejemplares podados de lo que podría ser un drago, pero
