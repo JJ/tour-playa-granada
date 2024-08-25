@@ -676,12 +676,23 @@ acercara a las gentes de Motril y toda la costa tropical, y viceversa.
 
 De alguna forma, la calle enfrente de Villa Astrida se convirtió en la
 "zona noble" del barrio; podemos ver una serie de viviendas justo
-enfrente, viviendas realmente notables. Así que continuemos el tour
-por Playa Granada girando 180 grados, poniendo nuestras espaldas al
-mar para que nos dé la brisa y veamos los
-[casoplones](viviendas-varias.md) que hay ahí, en la misma acera que
-La Pesquera y el resto de los bares, en la zona que los locales suelen
-denominar "la isla".
+enfrente, viviendas realmente notables. No es casualidad, sino diseño:
+para proteger la intimidad de la pareja real, la altura máxima de las
+construcciones dependía de su distancia a Villa Astrida, pa ra
+preservar la intimidad de la pareja y supongo que la seguridad de la
+misma. Los únicos bloques de viviendas están a más de 150 metros, y
+separadas de esta primera fila de casas por el campo de golf. El
+Poblado del Chirimoyo, el primero que se construyó tras Villa Astrida
+está a más de 500 metros. Es bastante posible que esta restricción
+esté en el plan urbanístico. Y por cierto, también beneficia a la
+iglesia de Santa Josefina Bakhita, que tiene una gran visibilidad en
+todas las direcciones.
+
+Así que continuemos el tour por Playa Granada girando 180 grados,
+poniendo nuestras espaldas al mar para que nos dé la brisa y veamos
+los [casoplones](viviendas-varias.md) que hay ahí, en la misma acera
+que La Pesquera y el resto de los bares, en la zona que los locales
+suelen denominar "la isla".
 
 
 ## Referencias
