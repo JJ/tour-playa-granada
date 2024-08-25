@@ -517,31 +517,33 @@ posiblemente románico. Imágenes sagradas que una vez más apuntan a esa
 proyección de una estancia como "Paraíso", tan de la Alhambra, pero
 también de espacio místico como el Escorial.
 
+Esta es todo el área que se ve; la planta alta en 2024 no se puede
+visitar todavía. Se puede terminar en el jardín, en el que hay
+eucaliptos, pero también pinos, y rodeados por un alcorque, tres
+ejemplares podados de lo que podría ser un drago, pero como no tienen
+ni una hoja, no tengo ni idea de si es así o no. La guía lo describe
+como "un árbol que es antecesor del baobab". Si fuera efectivamente un
+drago, los dos tienen en común que son de las angiospermas. La otra
+planta, al lado de una adelfa, según Google Lens es un palmito, aunque
+la guía la señala como una falsa palmera que fue regalo de los
+emperadores del Japón. Hay una falsa palmera japonesa, llamada
+"cicas", pero no parece que este sea el caso. Al lado del portón de
+entrada hay también un gran eucalipto.
 
-En el jardín hay eucaliptos, pero también pinos, y rodeados por un
-alcorque, tres ejemplares podados de lo que podría ser un drago, pero
-como no tienen ni una hoja, no tengo ni idea de si es así o no. La
-guía lo describe como "un árbol que es antecesor del baobab". Si fuera
-efectivamente un drago, los dos tienen en común que son de las
-angiospermas. La otra planta, al lado de una adelfa, según Google Lens
-es un palmito, aunque la guía la señala como una falsa palmera que fue
-regalo de los emperadores del Japón. Hay una falsa palmera japonesa,
-llamada "cicas", pero no parece que este sea el caso.
-
-Se menciona
-repetidamente la afición a la botánica de Balduino, que hizo traer a
-un jardinero innombrado de Bélgica para que construyera un pequeño
-jardín botánico alrededor de la misma, porque si bien el clima y la
-luz de la costa son excelentes, también está bien tener un poco de
-sombrica para poder disfrutar tranquilamente de la cerveza de abadía a
-temperatura ambiente, *comme il faut*. El jardín se diseñó de forma
-que diera tanto humedad como sombra, en varias capas, con una cantidad
-considerable de palmeras y otras especies; las palmeras son bien
-visibles desde fuera, y el resto podemos imaginarlo. Hoy en día, el
-jardín botánico se ha dejado a su suerte, se ha convertido en hábitat
-de especies tales como la cotorra de Kramer, que ha sido observada en
-esta zona con asiduidad. Esta villa no solo ha creado un ecosistema
-turístico, sino también uno natural.
+Se menciona repetidamente la afición a la botánica de Balduino, que
+hizo traer a un jardinero innombrado de Bélgica para que construyera
+un pequeño jardín botánico alrededor de la misma, porque si bien el
+clima y la luz de la costa son excelentes, también está bien tener un
+poco de sombrica para poder disfrutar tranquilamente de la cerveza de
+abadía a temperatura ambiente, *comme il faut*. El jardín se diseñó de
+forma que diera tanto humedad como sombra, en varias capas, con una
+cantidad considerable de palmeras y otras especies; las palmeras son
+bien visibles desde fuera y desde la parte limitada de la visita y el
+resto podemos imaginarlo. Hoy en día, el jardín botánico se ha dejado
+a su suerte, se ha convertido en hábitat de especies tales como la
+cotorra de Kramer, que ha sido observada en esta zona con
+asiduidad. Esta villa no solo ha creado un ecosistema turístico, sino
+también uno natural.
 
 Estas plantas incluían, al parecer, algunas traídas del Congo, país
 que fue propiedad [del bisabuelo de
@@ -582,11 +584,12 @@ holandeses (uno de los cuales está en el área del museo) y muebles
 típicos de una familia bien de los años 60 y 70: sofás de escay,
 sillones tapizados y puffs de estilo moruno.
 
-El arte que cuelga en las paredes es también ecléctico, con mezcla de
-tablas castellanas barrocas, incluso góticas, una pintura bastante
-oscura que una vez restaurada igual acaba siendo un Tintoretto (o de
-la escuela), tablas africanas de artistas desconocidos, que muestran
-si no el amor, al menos la afición que tenía Balduino por África, y,
+El arte que cuelga en las paredes es también ecléctico, aparte de las
+obras religiosas encionadas, con mezcla de tablas castellanas
+barrocas, incluso góticas, una pintura bastante oscura que una vez
+restaurada igual acaba siendo un Tiziano (o de la escuela) o
+Españoleto, tablas africanas de artistas desconocidos, que muestran si
+no el amor, al menos la afición que tenía Balduino por África, y,
 frente a la entrada principal, una pintura de gran tamaño de un
 caballero con un bufón de la corte muy al estilo Velázquez, y
 posiblemente de un estudiante del mismo (o una copia del mismo
