@@ -585,7 +585,7 @@ típicos de una familia bien de los años 60 y 70: sofás de escay,
 sillones tapizados y puffs de estilo moruno.
 
 El arte que cuelga en las paredes es también ecléctico, aparte de las
-obras religiosas encionadas, con mezcla de tablas castellanas
+obras religiosas mencionadas, con mezcla de tablas castellanas
 barrocas, incluso góticas, una pintura bastante oscura que una vez
 restaurada igual acaba siendo un Tiziano (o de la escuela) o
 Españoleto, tablas africanas de artistas desconocidos, que muestran si
@@ -678,7 +678,7 @@ De alguna forma, la calle enfrente de Villa Astrida se convirtió en la
 "zona noble" del barrio; podemos ver una serie de viviendas justo
 enfrente, viviendas realmente notables. No es casualidad, sino diseño:
 para proteger la intimidad de la pareja real, la altura máxima de las
-construcciones dependía de su distancia a Villa Astrida, pa ra
+construcciones dependía de su distancia a Villa Astrida, para
 preservar la intimidad de la pareja y supongo que la seguridad de la
 misma. Los únicos bloques de viviendas están a más de 150 metros, y
 separadas de esta primera fila de casas por el campo de golf. El
@@ -693,7 +693,6 @@ poniendo nuestras espaldas al mar para que nos dé la brisa y veamos
 los [casoplones](viviendas-varias.md) que hay ahí, en la misma acera
 que La Pesquera y el resto de los bares, en la zona que los locales
 suelen denominar "la isla".
-
 
 ## Referencias
 
