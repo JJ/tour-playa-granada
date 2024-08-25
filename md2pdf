@@ -12,6 +12,7 @@ pandoc --template="$PWD"/utils/plantilla.latex \
     pois/terrazas-playa-granada-nolinks.md pois/villa-astrida-nolinks.md\
     pois/viviendas-varias-nolinks.md  pois/Oleaje-nolinks.md\
     pois/iglesia-josefina-bakhita-nolinks.md\
+    pois/vertice-geodesico-nolinks.md\
     pois/arquitectura-tradicional.md pois/tras-la-pandemia.md --toc
 rm *-nolinks.md pois/*-nolinks.md
 
