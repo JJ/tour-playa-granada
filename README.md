@@ -108,7 +108,7 @@ una publicación sobre Salobreña
 ## Sobre Balduino
 
 
-* [Recasamiento de Balduino y Fabiola](https://www.lameuse.be/429008/article/2019-08-27/revelations-le-remariage-secret-de-baudouin-et-fabiola)
+* [Recasamiento de Balduino y Fabiola](https://www.sudinfo.be/id137744/article/2019-08-27/revelations-exclusives-le-remariage-secret-du-roi-baudouin-et-de-la-reine)
 * [Historia del noviazgo](https://books.google.es/books?id=900EAAAAMBAJ&pg=PA92&lpg=PA92&dq=baudouin+and+fabiola+secrets&source=bl&ots=o0Pz5E78_y&sig=ACfU3U2aerVreQPwb4wGwx2SS9f-gCa5nQ&hl=es&sa=X&ved=2ahUKEwjI5eW_pf7pAhWJmBQKHXsKBMoQ6AEwFXoECAkQAQ#v=onepage&q=baudouin%20and%20fabiola%20secrets&f=false=)
 * Hay rumores de que hay una "Fundación Astrida" en Liechtenstein con fondos secretos, y [algunos en Estados Unidos](https://books.google.es/books?id=xWpxAAAAQBAJ&pg=PT166&lpg=PT166&dq=%22BOUDEWIJN%22+%22stichting+astrida%22+liechtenstein&source=bl&ots=EzhkVVQd-o&sig=ACfU3U0qHY5OC9zQ6kFgIBGfi_GXGEDBFA&hl=es&sa=X&ved=2ahUKEwjhhPjwpv7pAhUGohQKHeeQD4kQ6AEwAHoECAcQAQ#v=onepage&q=%22BOUDEWIJN%22%20%22stichting%20astrida%22%20liechtenstein&f=false).
 * [Más historias del noviazgo](https://www.lesoir.be/art/1286062/article/soirmag/soirmag-histoire/2016-08-08/baudouin-et-fabiola-un-couple-fusionnel), y sus nombres en código: Luigi y Ávila.
