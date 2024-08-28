@@ -2,18 +2,24 @@
 
 Lo de "antes todo esto era campo" es en Playa Granada más cierto que
 en muchos otros sitios. De hecho, le subo una: antes, todo esto era
-mar. En el siglo XVIII el mar cubría toda la zona ocupada ahora por los primeros
-hoyos del Campo de Golf Los Moriscos, y posiblemente gran parte del
-resto. ¿Qué cambió de entonces a ahora? Las aportaciones del río
-Guadalfeo, que fueron creando tierra a ambos lados de su
-desembocadura.
+mar. En el siglo XVIII el mar cubría toda la zona ocupada ahora por
+los primeros hoyos del Campo de Golf Los Moriscos, y posiblemente gran
+parte del resto. No está claro que no lo siga siendo; citando una
+reseña de unos apartamentos en playa Granada del año 2024, se trata de
+un ["típico descampado turístico donde no hay absolutamente
+nada"](https://maps.app.goo.gl/3oSMiMKs7mnwupvF7).
 
-> Tierra que se ha dejado de aportar desde que se abrió la presa de
-> Rules, lo que hará tarde o temprano que el mar vuelva a llevarse lo
-> que fue suyo. Pero esa es otra historia.
+¿Es que no ha cambiado nada? Algo sí, e incluso para bien. Este libro podía ser una réplica a esa reseña si se hubiera escrito después, pero no es así, así que trata de mostrar que no está descampado, y que hay bastantes cosas interesantes para quien siente un poco de curiosidad por la arquitectura... y por la historia.
 
-La zona que actualmente ocupa Playa Granada se llamó la finca del
-Vasco, o el paraje del Vasco, hasta que un buen día, el rey de Bélgica
+Incluso aunque hubiera seguido siendo un descampado, cualquiera que
+viniera podaí haber observado muchos cambios. Por ejemplo, las
+aportaciones del río Guadalfeo, que fueron creando tierra a ambos
+lados de su desembocadura, tierra que se ha dejado de aportar desde
+que se abrió la presa de Rules, lo que hará tarde o temprano que el
+mar vuelva a llevarse lo que fue suyo. Pero esa es otra historia.
+
+La zona que actualmente ocupa Playa Granada se llamó "la finca del
+Vasco", o "el paraje del Vasco", hasta que un buen día, el rey de Bélgica
 Balduino, volando en su helicóptero desde Sierra Nevada, reparó en
 esta zona y decidió plantar una residencia cerca de donde vivía la
 familia de su mujer, Fabiola.
