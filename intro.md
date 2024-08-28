@@ -12,7 +12,7 @@ nada"](https://maps.app.goo.gl/3oSMiMKs7mnwupvF7).
 ¿Es que no ha cambiado nada? Algo sí, e incluso para bien. Este libro podía ser una réplica a esa reseña si se hubiera escrito después, pero no es así, así que trata de mostrar que no está descampado, y que hay bastantes cosas interesantes para quien siente un poco de curiosidad por la arquitectura... y por la historia.
 
 Incluso aunque hubiera seguido siendo un descampado, cualquiera que
-viniera podaí haber observado muchos cambios. Por ejemplo, las
+viniera podía haber observado muchos cambios. Por ejemplo, las
 aportaciones del río Guadalfeo, que fueron creando tierra a ambos
 lados de su desembocadura, tierra que se ha dejado de aportar desde
 que se abrió la presa de Rules, lo que hará tarde o temprano que el
