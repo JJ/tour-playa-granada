@@ -36,11 +36,11 @@ de Luna.
 
 Justo en el verano de la pandemia, el 2020, vio la erección de una
 serie de ventanas de la inmobiliaria Molina Olea y de carteles que
-anunciaban la construcción de Mar de Astrid**a**. Noten la final, que
-por alguna razón posiblemente relacionada con el uso del mismo nombre
-que Villa Astrida en una marca comercial, desapareció un poco más
-adelante de la publicidad (de la forma más burda, tapada con una tela)
-para quedarse en el nombre actual, Mar de Astrid.
+anunciaban la construcción de Mar de Astrid**a**. Noten la **a**
+final, que por alguna razón, posiblemente relacionada con el uso del
+mismo nombre que Villa Astrida en una marca comercial, desapareció un
+poco más adelante de la publicidad (de la forma más burda, tapada con
+una tela) para quedarse en el nombre actual, Mar de Astrid.
 
 El edificio tiene dos partes, cada una de ellas con forma de ola con
 el seno abierto hacia la calle, y un hueco entre las dos; vistas desde
