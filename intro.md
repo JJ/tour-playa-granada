@@ -70,4 +70,21 @@ artífice de Las Terrazas, de su propia vivienda y del centro deportivo
 que, se inauguró finalmente en el verano 2023. A él le dedico esta
 segunda edición.
 
+## Introducción a la tercera edición
 
+La tercera edición ha sido motivada no tanto por comenzar una
+tradición de actualización anual, sino por el hecho de que Villa
+Astrida ha sido abierta al público, también en la parte de la vivienda
+en sí, así que se ha podido recoger mucha más información sobre la
+misma, que ha ido directamente a su capítulo, que ahora ocupa una
+tercera parte del libro. También ha tenido lugar la erección del
+"pirulí", la antena 5g, que ahora tiene su capítulo, y se ha
+observado, que vaya tela, después de 6 años por aquí, el vértice
+geodésico, que también tiene su propio capítulo.
+
+El resto de los capítulos se han corregido donde se han encontrado
+errores. Y agradezco a Paco Calvo, vecino de aquí, las
+puntualizaciones que han hecho que esta edición contenga menos
+errores. Por eso, por el hecho de que ha comprado más ejemplares que
+ninguna otra persona que yo conozca, y por ser un buen vecino, le
+dedico esta tercera edición.
