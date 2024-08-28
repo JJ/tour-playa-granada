@@ -28,12 +28,19 @@ los pocos días de verse el hueco se instaló el mástil, y pocos días
 después se vio la "lata" con un logo y las palabras "bienvenidos"
 inscritas. En agosto de 2024 comenzó a funcionar, dando servicio a la
 zona de Playa Granada y posiblemente también al sur de Motril e
-incluso Salobreña.
+incluso Salobreña. Previamente, carteles en las vallas adyacentes y en
+los balcones, sobre todo de Moriscos Golf II, mostraban el malestar de
+los vecinos, que llevó incluso a una manifestación, la única que se
+conoce en el barrio, que recorrió las calles de la ciudad protestando
+por la antena, y que se convocó por una plataforma vecinal,
+aparentemente ajena a cualquier tipo de partido político. La petición
+de reubicación de la antena no ha tenido demasiado eco, sin embargo, y
+supongo que está ahí para quedarse.
 
 El impacto paisajístico es evidente. Incluso es posible que incumpla
 la normativa municipal, del año 2011, que indica que este tipo de
 instalaciones deben minimizar el impacto visual. Lo único que se ha
-hecho en ese sentido es poner lalata alrededor, en vez de dejar las
+hecho en ese sentido es poner la lata alrededor, en vez de dejar las
 antenas al aire. Que habría sido más o menos igual de antiestético,
 pero al menos un poco más honesto. No parece que ni ese aparente
 incumplimiento de la normativa municipal ni la evidente incomodidad
@@ -47,3 +54,11 @@ está claro tampoco qué ocurrirá con el contorno. En la esquina en la
 que está se pensaba que iba a ir un parque, pero ahora es evidente que
 no pueden hacer ese tipo de equipamiento, porque incumpliría más
 todavía la normativa municipal.
+
+Lo cierto es que un pequeño esfuerzo para [simular un
+árbol](https://blog.ansi.org/cell-phone-towers-disguised-as-trees/),
+por ejemplo, habría mitigado bastante el impacto visual, e incluso
+habría contribuido al embellecimiento del barrio. Pero no es costumbre
+en este país, así que nos quedamos con la lata ensartada en un palo,
+que cariñosamente se comenzó a llamar "el pirulí" en el barrio.
+
