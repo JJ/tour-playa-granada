@@ -134,9 +134,14 @@ soporte de un turismo, aunque en este caso bastante lejano a lo que
 los condes de Agrela imaginaron para esta zona. ¿Aprovecharían para
 los sombrajos las hojas de las palmeras que el jardinero belga
 desechara?  ¿Invitarían al jardinero a tortilla de patatas y
-chirimoyos esas familiar allí asentadas durante los meses de verano?
+chirimoyos esas familias allí asentadas durante los meses de verano?
 ¿Sacaría el servicio unos túpers de codillo para compartir entre la
 plebe?
+
+> De hecho, la guía cuenta la generosidad de la familia real con los
+> niños que se encontraban, a los que les daba chocolate, y con los
+> guardias civiles de servicio, a los que les llevaba limonada y
+> todavía recuerdan con cariño.
 
 O, quizás, ¿quitarían todos estos chambaos cuando efectivamente se
 alojaran los reyes allí? Los testimonios dicen que el área de playa
@@ -201,13 +206,15 @@ monumento en la explanada delante de Villa Astrida).
 > Memorial, está escrita por un cardenal, Suenens, que también fue su
 > confesor; incluso hay una página de Facebook que busca su
 > canonización. Por lo pronto, sólo es venerable, aunque no he
-> encontrado la proclamación que lo haga (que tiene que hacerse por
+> encontrado la proclamación que lo haga, que tiene que hacerse por
 > parte de un arzobispo, para que a continuación el Papa declare que
-> han tenido una "virtud heroica". Igual el artículo de El Reino se
-> anticipó un tanto al hecho en sí. En todo caso, ese relato no
-> siempre viene de la misma fuente, así que hay que concluir que la
-> idea general de que se trataba de una persona afable, cercana y
-> generosa, es muy posible que sea cierta.
+> han tenido una "virtud heroica". También es cierto que un artículo
+> italiano habla del comienzo del proceso de beatificación ya en el
+> año 95.  Igual el artículo de El Reino se anticipó un tanto al hecho
+> en sí. En todo caso, ese relato no siempre viene de la misma fuente,
+> así que hay que concluir que la idea general de que se trataba de
+> una persona afable, cercana y generosa, es muy posible que sea
+> cierta.
 
 A partir de ese momento comenzaron las disputas sobre la
 herencia. ¿Era de la familia, y por tanto podía ser heredado por la
@@ -276,7 +283,7 @@ crearse una idea conjunta de qué es y qué es lo que hace, más allá de
 administrar los bienes que pertenecieron a Fabiola de Mora y Aragón y
 a su familia. Con esto no quiero formular ningún juicio sobre la
 fundación, que es perfectamente legal y seguramente hará todos los
-trámites necesario en este tipo de organismos. Es simplemente un
+trámites necesarios en este tipo de organismos. Es simplemente un
 comentario sobre la ausencia de una web donde se pueda ahogar la
 curiosidad o curiosidades que puedan surgir, donde aparezcan los
 anuarios, los cargos de la misma, y todo lo que pueda ayudar a
@@ -291,7 +298,7 @@ planta baja de la residencia, incluyendo también la parte de los
 jardines que la rodean por la parte del mar.
 
 Previo a esta visita, sólo se podía especular un poco y referirnos a
-los artículos que la describían . Por ejemplo, uno menciona que usa
+los artículos que la describían. Por ejemplo, uno menciona que usa
 "piedra blanca" (en vez del encalado mediterráneo, porque hasta ahí
 podíamos llegar); la misma piedra que, si creemos el artículo de ABC,
 se trajo de Alcalá de Guadaira y se usó para el muro que rodea la
@@ -378,7 +385,7 @@ decorativa, además muy discreta, y como un hilo que permite incluir a
 > Siete Chimeneas, para culminar un chapitel en la torre de la misma.
 
 Pero tras ver el plan general y el programa constructivo, veremos como
-está organizado el interior. El centro del cuadrado está ocupado un
+está organizado el interior. El centro del cuadrado está ocupado por un
 patio, como en los cortijos andaluces. Evidentemente, no tiene la
 misma función de aparcar los carruajes, que se aparcarían a la
 izquierda de la entrada, donde hay una gran explanada.
@@ -467,8 +474,8 @@ luminosidad.
 > construcción.
 
 Esta mezcla de elementos nacionales tanto de arte nazarí como
-herreriano es bastante única, teniendo en cuenta además como integra
-la luz y el jardín y como organiza los diferentes espacios. No me
+herreriano es bastante única, teniendo en cuenta además cómo integra
+la luz y el jardín y cómo organiza los diferentes espacios. No me
 extrañaría que con el tiempo se estudiara en manuales de arquitectura,
 o al menos se hiciera una guía arquitectónica un poco más completa.
 
@@ -505,7 +512,7 @@ parte de la capilla, porque no hay ninguna puerta que la separe de la
 misma. Simbólicamente, así, la casa se convierte en un espacio
 "sagrado", místico, unido a la naturaleza y abierto a la misma. La
 decoración en el resto de la casa también apunta en esa dirección: en
-el patio hay un mosaico con San Miguel lanceando al diablo; un gran
+el patio hay un mosaico con San Miguel alanceando al diablo; un gran
 cuadro de Pentecostés (de autor desconocido) preside la sala de
 estar. El mismo pasillo tiene una imagen del pesebre de Belén que está
 bastante deteriorada, pero que podría ser una copia de Tiziano o al
@@ -553,7 +560,7 @@ que expolió a gusto el lugar.
 > Se contrapone "propiedad" a "colonia", que es el método habitual en
 > otros casos. Con una propiedad haces lo que quieres, con una
 > colonia, incluso como soberano, estás sometido a ciertas leyes. De
-> hecho, esa fue la evolución del congo, al forzar el gobierno al rey
+> hecho, esa fue la evolución del Congo, al forzar el gobierno al rey
 > a renunciar a la propiedad. No es que mejorara el destino de los
 > congoleños, por otro lado.
 
