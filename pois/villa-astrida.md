@@ -350,7 +350,7 @@ de otro modo, si el lado pequeño del rectángulo mide *a*, el lado
 grande *b*, la razón entre *b-a* y *b* es igual que la diferencia entre
 *a* y *b*.
 
-![Rectángulo "dorado", imagen de la Wikipedia](img/SimilarGoldenRectangles.svg)
+![Rectángulo "dorado", imagen de la Wikipedia](img/SimilarGoldenRectangles.png)
 
 Los rectángulos *áureos* o *dorados* son especialmente armoniosos, y
 aparecen en el Escorial en el patio de los Reyes. ¿Dónde aparece aquí
