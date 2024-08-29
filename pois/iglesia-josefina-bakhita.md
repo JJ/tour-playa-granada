@@ -136,8 +136,9 @@ febrero.
 En resumen, una genialidad de Elisa Valero, una arquitectura
 contemporánea que se puede ver desde toda Playa Granada. Para visitar
 el interior, sin embargo, tendrás que hacerlo cuando se abra para la
-misa o un poco después de terminar, porque no es iglesia parroquial y
-no está abierta al público en general.
+misa o un poco después de terminar, porque no tiene calificación de
+iglesia parroquial y no está en general abierta al público, sólo
+durante las celebraciones.
 
 Este podría ser un final espectacular para un tour de una urbanización
 que, además de mostrar el interés de los edificios que miramos sin ver
