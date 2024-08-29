@@ -55,10 +55,11 @@ arquitecto excelente que
 ha construido otra serie de equipamientos y viviendas, sobre
 todo en Motril y la provincia de Granada.
 
-> Angel Gijón falleció poco después de publicarse la primera edición
-> de este libro. Dejó proyectado, y todavía a medio hacer el marzo de
-> 2023, un centro deportivo al final del aparcamiento oeste de Playa
-> Granada.
+> Ángel Gijón falleció poco después de publicarse la primera edición
+> de este libro. Dejó proyectado, un centro deportivo al final del
+> aparcamiento oeste de Playa Granada, que finalmente se convirtió en
+> el Awa, que une un centro deportivo con una pequeña tienda y un
+> restaurante.
 
 También participaron los arquitectos Alicia Pérez y Manuel Monjes; la
 empresa GARASA (que tampoco sobrevivió el pinchazo de la burbuja
