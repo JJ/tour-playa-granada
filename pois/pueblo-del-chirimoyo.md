@@ -72,7 +72,7 @@ realidad quien buscaba el amor de la reina era nuestro Jaime.
 
 Don Jaime, al no poder conseguir el amor de una reina (o conseguirlo
 con una frecuencia menor a la deseada), acabó con una hermana de
-reina. Pero sin reino y sin dinero. Había que buscar algo para sacar
+una. Pero sin reino y sin dinero. Había que buscar algo para sacar
 ese dinero, porque en los años cincuenta la caña de azúcar empezaba a
 entrar en un periodo de declive letal al mismo tiempo que emergían los
 chirimoyos o los aguacates. Algo de lo que también carecía don Jaime.
@@ -93,9 +93,9 @@ Mora (que fue quien heredó los condados y el ducado) o a una sociedad
 formada por [todos los
 hermanos](https://es.wikipedia.org/wiki/Condado_de_Agrela), así que le
 quedó por ver la verdadera expansión de Playa Granada, que sucedería
-pocos años más adelante. Quién sabe quién si realmente fue suya la
+pocos años más adelante. Quién sabe  si realmente fue suya la
 idea, o no, pero lo cierto es que logró el establecimiento de la
-realiza, ver la construcción del campo de golf, y tener ciertos
+realeza, ver la construcción del campo de golf, y tener ciertos
 beneficios económicos de la venta de terrenos y posiblemente la
 construcción de este Pueblo. Al turismo, así en general, todavía le
 faltaba tiempo por llegar.
@@ -158,11 +158,11 @@ sexto, después de 5 campos en Cádiz (Sotogrande) y en la provincia de
 Málaga. Por supuesto, el primero de la provincia de Granada, que
 incluso ahora cuenta solamente con otros dos campos.
 
-> Solamente, o quién sabe, porque están a pocos quilómetros unos de
+> Solamente, o quién sabe, porque están a pocos kilómetros unos de
 > otros y a saber si hay tanto aficionado como para mantenerlos. De
 > hecho, el de Playa Granada estuvo a [punto de
 > quebrar](https://www.granadahoy.com/granada/Motril-rescate-campo-golf_0_1052895263.html)
-> en la segunda decena del siglo XXI, y tuvo que ser rescatado por el Ayuntamiento.
+> en la segunda década del siglo XXI, y tuvo que ser rescatado por el Ayuntamiento.
 
 La construcción de un campo de golf no es casual, ya que el rey
 Balduino era, al parecer, un gran aficionado al golf. A su muerte se
