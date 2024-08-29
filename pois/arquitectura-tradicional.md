@@ -3,13 +3,12 @@ __*Cañizo y barro*__
 
 ![Cañizo en el pago justo al lado de Playa Granada](img/cañizo.jpg)
 
-Cada vez queda menos de esta, y seguramente cuando leáis esto (si es que
-alguien lo lee) quedará menos todavía (o nada), pero en Playa Granada
-hay ejemplos interesantes de arquitectura tradicional, o de
+Cada vez queda menos de esta, y seguramente cuando leáis esto (si es
+que alguien lo lee) quedará menos todavía (o nada), pero en Playa
+Granada hay ejemplos interesantes de arquitectura tradicional, o de
 construcciones, que igual no llegan al nivel de poder ser llamadas
-"arquitectura", tradicionales. E incluso
-mejor, de construcciones más o menos efímera tradicional: las
-lindes de cañizo.
+"arquitectura", tradicionales. E incluso mejor, de construcciones más
+o menos efímeras y tradicionales: las lindes de cañizo.
 
 El cañizo o caña, procedente o bien de los residuos de la caña de
 azúcar o bien de las cañas de la ribera de algún arroyo o marismas, se
@@ -34,15 +33,16 @@ los vientos.
 A estos últimos, posiblemente, les costaría un poco de más trabajo. El
 cañizo se ha venido usando, y todavía se puede ver, para marcar las
 lindes de los terrenos. En la calle Federico Mayor Zaragoza, por
-ejemplo, en la acera que no está construida, la derecha según se
-llega, todavía hay una valla construida de cañizo.
+ejemplo, en la acera que no está construida, a la derecha según se
+llega a Playa Granada desde Granada, todavía hay una valla construida
+de cañizo.
 
 Estas construcciones, que necesitan cierto mantenimiento, tienen
 varias funciones, pero en el área de Motril, la primera y principal es
 resguardar del viento, el Poniente, que en Playa Granada es tan
 frecuente y causa tantos derribos de macetas. Por supuesto, delimitar
-claramente donde empieza y acaba; también evitar que algunos animales
-entren en el campo, o al menos retrasarlos.
+claramente dónde empieza y acaba; también evitar, o al menos impedir
+durante cierto tiempo, que algunos animales entraran en el campo.
 
 En todo caso, cada vez se ven menos; llegando por la carretera, es
 decir, el camino del Río Seco, se pueden encontrar ramos de cañizo
