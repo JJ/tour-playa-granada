@@ -10,7 +10,7 @@ milla de oro de Playa Granada.
 En el centro de la isla está el residencial Albatros, compuesto de
 diferentes edificios con nombres relacionados con el golf: Birdie,
 Eagle, cosas por el estilo. La construcción de este bloque es
-posterior a las terrazas, año 2004, y por tanto, pasada la época
+posterior a las Terrazas, año 2004, y por tanto, pasada la época
 "histórica", es muy complicado encontrar información sobre él. Quizás
 también es que, en pleno *boom* inmobiliario, los estudios de
 arquitectura estaban tremendamente ocupados construyendo edificios

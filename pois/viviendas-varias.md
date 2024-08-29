@@ -63,9 +63,12 @@ poco por peteneras. Está demasiado cerca de la vivienda anterior, por
 ejemplo; el color oscuro de las paredes no debe ser demasiado adecuado
 para reflejar los rayos del sol, y el material que usan debe acumular
 calor de una forma que no debe resultar agradable. Pero seguro que
-tiene buen aire acondicionado y está en primera línea de playa. Desde
-sus balcones de la planta alta hasta se podrá ver Villa Astrida. Así
-que no creo que los propietarios, o inquilinos, se quejen demasiado.
+tiene buen aire acondicionado y está en primera línea de playa. El
+plan urbanístico solo permite la construcción de viviendas de baja
+altura en las cercanías de Villa Astrida, así que es poco posible que
+las vistas desde la terraza la incluyan, aunque es posible que se
+hayan relajado desde que ya no es vivienda real.  Así que no creo que
+los propietarios, o inquilinos, se quejen demasiado.
 
 Quizás la podemos clasificar como "cabaña de aperos decorada". Hay dos
 tipos de construcciones: las cabañas de aperos decoradas y los
