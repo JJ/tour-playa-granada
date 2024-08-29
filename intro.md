@@ -9,7 +9,11 @@ reseña de unos apartamentos en playa Granada del año 2024, se trata de
 un ["típico descampado turístico donde no hay absolutamente
 nada"](https://maps.app.goo.gl/3oSMiMKs7mnwupvF7).
 
-¿Es que no ha cambiado nada? Algo sí, e incluso para bien. Este libro podía ser una réplica a esa reseña si se hubiera escrito después, pero no es así, así que trata de mostrar que no está descampado, y que hay bastantes cosas interesantes para quien siente un poco de curiosidad por la arquitectura... y por la historia.
+¿Es que no ha cambiado nada? Algo sí, e incluso para bien. Este libro
+podría ser una réplica a esa reseña si se hubiera escrito después,
+pero no es así, así que trata de mostrar que no está descampado, y que
+hay bastantes cosas interesantes para quien siente un poco de
+curiosidad por la arquitectura... y por la historia.
 
 Incluso aunque hubiera seguido siendo un descampado, cualquiera que
 viniera podía haber observado muchos cambios. Por ejemplo, las
@@ -24,14 +28,14 @@ Balduino, volando en su helicóptero desde Sierra Nevada, reparó en
 esta zona y decidió plantar una residencia cerca de donde vivía la
 familia de su mujer, Fabiola.
 
-Esa es la historia que ha venido contada y repetida a lo largo de los
-años por artículos periodísticos y de la prensa del corazón. Sin
-embargo, los reyes de Bélgica no tuvieron que comprar absolutamente
-nada. Los terrenos habían sido adquiridos por una inmobiliaria llamada
-Costa Granada, cuyo propietario se los regaló a los reyes con la idea
-de promocionar esa zona. Quien fue esta persona se revelará a
-continuación; por lo pronto, baste decir que se trató de una persona
-con visión de futuro.
+Esa es la historia que ha venido siendo contada y repetida a lo largo
+de los años por artículos periodísticos y de la prensa del
+corazón. Sin embargo, los reyes de Bélgica no tuvieron que comprar
+absolutamente nada. Los terrenos habían sido adquiridos por una
+inmobiliaria llamada Costa Granada, cuyo propietario se los regaló a
+los reyes con la idea de promocionar esa zona. Quién fue esta persona
+se revelará a continuación; por lo pronto, baste decir que se trató de
+una persona con visión de futuro.
 
 Por ejemplo, en [un artículo de Granada
 Hoy](https://www.granadahoy.com/granada/Villa-Astrida-queda-epoca-dorada_0_709429403.html)
@@ -55,7 +59,7 @@ que hubiera ninguna venta por medio.
 
 Es posible que Playa Granada hubiera existido sin los reyes, los
  condes de Agrela y Villa Astrida, pero desde luego la historia habría
- sido totalmente diferentes. Y la arquitectura también. Y de las dos
+ sido totalmente diferente. Y la arquitectura también. Y de las dos
  cosas hablaremos en este libro.
 
 En el principio, por tanto, fue Villa Astrida. Pero en el origen del
@@ -73,7 +77,7 @@ de describirlo. Así que esta nueva edición incluye dos nuevos
 capítulos y revisa casi en su totalidad el texto de la
 anterior. Durante este tiempo, además, ha fallecido Ángel Gijón,
 artífice de Las Terrazas, de su propia vivienda y del centro deportivo
-que, se inauguró finalmente en el verano 2023. A él le dedico esta
+que, se inauguró finalmente en el verano de 2023. A él le dedico esta
 segunda edición.
 
 ## Introducción a la tercera edición
@@ -93,4 +97,6 @@ errores. Y agradezco a Paco Calvo, vecino de aquí, las
 puntualizaciones que han hecho que esta edición contenga menos
 errores. Por eso, por el hecho de que ha comprado más ejemplares que
 ninguna otra persona que yo conozca, y por ser un buen vecino, le
-dedico esta tercera edición.
+dedico esta tercera edición. También se lo dedico a la guía de Villa
+Astrida, que fue muy maja y muy amable en las dos visitas que hice (la
+segunda gratis).
