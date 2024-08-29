@@ -114,12 +114,13 @@ vuelto mucho desde entonces, para ser honesto.
 
 Volviendo a la arquitectura: en el año 2023, además, ha habido
 pequeñas modificaciones del original: la torreta (el centro de la
-caracola) está pintada de verde, rompiendo la uniformidad blanca
-original de todo el conjunto. Y las puertas tampoco están pintadas con
-el mismo color; hay un jardín invertido encima de la barra que no
-parece que esté muy cuidado, y que probablemente acabará
-desapareciendo. La zona de la piscina y barra, llegando desde la playa
-hacia la izquierda, parece en general abandonada.
+caracola) está pintada de verde, un color que progresivamente se va
+desvaneciendo y que rompió la uniformidad blanca original de todo el
+conjunto. Y las puertas tampoco están pintadas con el mismo color; hay
+un jardín invertido encima de la barra que no parece que esté muy
+cuidado, y que probablemente acabará desapareciendo. La zona de la
+piscina y barra, llegando desde la playa hacia la izquierda, parece en
+general abandonada.
 
 Con todo y con eso, creo que merece la pena ir, quizás al
 mediodía en un día luminoso de invierno, a tomarse una cerveza
