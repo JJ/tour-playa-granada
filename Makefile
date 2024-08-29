@@ -2,7 +2,10 @@
 MDFILES =  intro.md pois/pueblo-del-chirimoyo.md\
     pois/terrazas-playa-granada.md pois/villa-astrida.md\
     pois/viviendas-varias.md pois/Oleaje.md\
-    pois/iglesia-josefina-bakhita.md pois/arquitectura-tradicional.md\
+    pois/iglesia-josefina-bakhita.md\
+    pois/vertice-geodesico.md\
+    pois/el-piruli.md\
+    pois/arquitectura-tradicional.md\
     pois/tras-la-pandemia.md
 ALLFILES = $(MDFILES)  $(wildcard *.txt) $(wildcard *.css)
 
