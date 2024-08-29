@@ -9,7 +9,9 @@ Golf II entregados, durante la pandemia y justo después comenzó a
 haber una explosión de nuevos edificios, concentrados en la avenida
 que todavía se llama Federico Mayor Zaragoza. Este mini-boom
 inmobiliario ha aumentado considerablemente la cantidad de vivienda
-disponible.
+disponible, y con ella la población, tanto flotante como residente,
+que ha pasado de ser unas 500 personas a más de 1000. Posiblemente en
+el verano se quintuplique.
 
 > Digo *todavía* porque más o menos en esas fechas el Ayuntamiento se
 > percató de que la Universidad de Granada no iba a hacer
@@ -48,7 +50,7 @@ arriba, parece una M ligeramente curvada con un pequeño corte en
 medio; la parte encima del travesaño de la M albergaría la piscina, y
 los huecos incluirían un parque infantil y unas pistas de pádel. La
 verdad es que visto desde fuera (que no lo he visto de otra forma)
-tiene un aspecto bastante original. Las última fase se terminó y ocupó
+tiene un aspecto bastante original. La última fase se terminó y ocupó
 en 2023. Por el perfil en Instagram, parece que quien lo construyó fue
 Estudio 3, un estudio de arquitectura de Granada. Esta ondulación del
 edificio lo relacionaría tanto con el Pueblo del Chirimoyo como con

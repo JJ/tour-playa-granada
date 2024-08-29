@@ -59,7 +59,8 @@ todo en Motril y la provincia de Granada.
 > de este libro. Dejó proyectado, un centro deportivo al final del
 > aparcamiento oeste de Playa Granada, que finalmente se convirtió en
 > el Awa, que une un centro deportivo con una pequeña tienda y un
-> restaurante.
+> restaurante; hablamos de él con más detenimiento en el capítulo que
+> habla de las construcciones tras la pandemia.
 
 También participaron los arquitectos Alicia Pérez y Manuel Monjes; la
 empresa GARASA (que tampoco sobrevivió el pinchazo de la burbuja
