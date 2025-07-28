@@ -2,7 +2,8 @@
 
 # Cambia la plantilla de latex al directorio donde esté
 utils/elimina-URLs.py
-pandoc -V lang=es-ES \
+pandoc --template="$PWD"/utils/plantilla.latex \
+    -V lang=es-ES \
     -V author='JJ Merelo' -V title='Playa Granada: Arquitectura e Historia'\
     -V documentclass=book\
     --pdf-engine=xelatex \
