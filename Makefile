@@ -11,7 +11,6 @@ ALLFILES = $(MDFILES)  $(wildcard *.txt) $(wildcard *.css)
 
 doc: tour-playa-granada.docx
 
-
 tour-playa-granada.docx: $(ALLFILES)
 	pandoc  -o tour-playa-granada.docx \
         --metadata title="Playa Granada, arquitectura e historia" --metadata creator="JJ Merelo" --metadata rights="CC-BY-SA 3.0" \
