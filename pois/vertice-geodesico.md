@@ -10,7 +10,11 @@ simple, pero aún así, la tierra no se está quieta y puntos
 aparentemente estáticos pueden cambiar de lugar, subir o bajar de
 nivel.
 
-Para eso están los vértices geodésicos, que son puntos de referencia, lo más permanentes posibles, que se agrupan en triángulos unidos por línea de visión, es decir, que cada vértice del triángulo tiene que estar a la vista del siguiente y que consisten en una señal con una placa del Instituto Geográfico Nacional donde dice que dañarla o, dios nos libre, desplazarla, es delito.
+Para eso están los vértices geodésicos, que son puntos de referencia, lo más
+permanentes posibles, que se agrupan en triángulos unidos por línea de visión,
+es decir, que cada vértice del triángulo tiene que estar a la vista del
+siguiente y que consisten en una señal con una placa del Instituto Geográfico
+Nacional donde dice que dañarla o, Dios nos libre, desplazarla, es delito.
 
 Para que no sea fácil hacerlo, generalmente son un cubo de cemento del
 que sale una columna del mismo material, tal como se muestra en la
@@ -25,15 +29,19 @@ detrás del Hoyo 19. Lleva ahí desde 1988, y la foto que hay en el IGN
 lo muestra en medio de una espesura de cañizo; detrás, unas montañas,
 una de las cuales puede ser Cerro Gordo, donde hay otro vértice.
 
-Aparte de la curiosidad de esta señal geográfica, la página viene acompañada de una serie de mapas que nos dan la idea de qué es lo que había en el año 88 en ese área; muy poco, en realidad. El mapa muestra alguna construcción aislada en el Camino del Pelaíllo, el "Chalet Astrida", y la avenida Federico Mayor Zaragoza prácticamente vacía, salvo unos pocos edificios a la altura del hotel.
+Aparte de la curiosidad de esta señal geográfica, la página viene acompañada de
+una serie de mapas que nos dan la idea de qué es lo que había en el año 88 en
+ese área; muy poco, en realidad. El mapa muestra alguna construcción aislada en
+el Camino del Pelaíllo, el "Chalet Astrida", y la avenida Federico Mayor
+Zaragoza prácticamente vacía, salvo unos pocos edificios a la altura del hotel.
 
 También nos hace conscientes de una curiosidad, la Punta del Santo en
 sí, un pequeño cabo que marca el punto más meridional de Playa Granada
-y del que somos poco conscientes hasta que nos damos cuenta que el
+y de cuya forma nos olvidamos hasta que nos damos cuenta que el
 cámping de Playa Granada está más cerca físicamente del final de la
 Avda. Federico Mayor Zaragoza que del mismo Hoyo 19. Algo de lo que
-fuimos dolorosamente conscientes cuando se abrió a los paseos la
-cuarentena de la pandemia, y nos dimos cuenta que había que alejarse
+tuvimos doloroso conocimiento cuando se abrió a los paseos la
+cuarentena de la pandemia y nos dimos cuenta que había que alejarse
 más de un kilómetro de nuestra casa para llegar a la playa, y por
 tanto, teóricamente, nos podían multar o en todo caso regañarnos
 (salvo que estuviéramos "haciendo deporte", claro).
