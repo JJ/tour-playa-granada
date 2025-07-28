@@ -1,5 +1,11 @@
 # Introducción
 
+> ¿Te has encontrado este libro en algún sitio, en tu apartamento o urbanización
+> o donde sea, y quieres una copia para ti? Escanea este QR y hazte con él por
+> pocos euros
+
+![QR para comprar](qrpg.png)
+
 Lo de "antes todo esto era campo" es en Playa Granada más cierto que
 en muchos otros sitios. De hecho, le subo una: antes, todo esto era
 mar. En el siglo XVIII el mar cubría toda la zona ocupada ahora por
