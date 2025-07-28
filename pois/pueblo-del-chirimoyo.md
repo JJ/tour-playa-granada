@@ -77,14 +77,13 @@ ese dinero, porque en los años cincuenta la caña de azúcar empezaba a
 entrar en un periodo de declive letal al mismo tiempo que emergían los
 chirimoyos o los aguacates. Algo de lo que también carecía don Jaime.
 
-O como emergía el turismo. "¿Qué puedo hacer?", se preguntaría Don
-Jaime. "El turismo es un gran invento", decía Paco Martínez Soria y le
-pudo decir Jaime de Mora y Aragón, el que se mesaba las barbas al
-principio del capítulo. Golf y realeza atraen turismo, y turismo con
-dinero. Y casualmente, el conde de Agrela tenía realeza en la misma
-familia, así que la realeza podía darse por atraída, aunque había que
-darle un empujoncito (y veremos con más profundidad en el capítulo
-siguiente). El resto dependía de ellos.
+O como emergía el turismo. "¿Qué puedo hacer?", se preguntaría Don Jaime. "El
+turismo es un gran invento", contestaría Paco Martínez Soria y le pudo decir
+Jaime de Mora y Aragón, el que se mesaba las barbas al principio del
+capítulo. Golf y realeza atraen turismo, y turismo con dinero. Y casualmente, el
+conde de Agrela tenía realeza en la misma familia, así que la realeza podía
+darse por atraída, aunque había que darle un empujoncito (y veremos con más
+profundidad en el capítulo siguiente). El resto dependía de ellos.
 
 [El conde Don Jaime falleció en
 1996](http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1996/05/10/062.html). Así
